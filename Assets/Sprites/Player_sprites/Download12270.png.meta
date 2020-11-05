@@ -1,0 +1,7282 @@
+fileFormatVersion: 2
+guid: 05139361d2ef27b409617dfed1988b63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6957422085867014428
+    second: Download12270_0
+  - first:
+      213: 371240497605901121
+    second: Download12270_1
+  - first:
+      213: 7205313228687241107
+    second: Download12270_2
+  - first:
+      213: -2503505853089971337
+    second: Download12270_0
+  - first:
+      213: -1495294277800356752
+    second: Download12270_1
+  - first:
+      213: -1979388961944683821
+    second: Download12270_3
+  - first:
+      213: 3383776610880145430
+    second: Download12270_4
+  - first:
+      213: 5687098710018859676
+    second: Download12270_5
+  - first:
+      213: -6595348641596259957
+    second: Download12270_6
+  - first:
+      213: 8045949278447050653
+    second: Download12270_7
+  - first:
+      213: 1227025721665956584
+    second: Download12270_8
+  - first:
+      213: -8289478689095770118
+    second: Download12270_9
+  - first:
+      213: 679957927396760677
+    second: Download12270_10
+  - first:
+      213: -4293913926463955603
+    second: Download12270_11
+  - first:
+      213: 4544644059866536694
+    second: Download12270_12
+  - first:
+      213: -8088790344054956601
+    second: Download12270_13
+  - first:
+      213: -1528677725831872492
+    second: Download12270_14
+  - first:
+      213: 7724249472557014906
+    second: Download12270_15
+  - first:
+      213: -3568569933755158840
+    second: Download12270_16
+  - first:
+      213: -8717013071227607374
+    second: Download12270_17
+  - first:
+      213: 8459184589771890527
+    second: Download12270_18
+  - first:
+      213: -8007975707267560986
+    second: Download12270_19
+  - first:
+      213: 2262425304771263392
+    second: Download12270_20
+  - first:
+      213: -1225154731514088048
+    second: Download12270_21
+  - first:
+      213: 3099222308723257363
+    second: Download12270_22
+  - first:
+      213: 2923364803381903272
+    second: Download12270_23
+  - first:
+      213: -4268599520106488955
+    second: Download12270_24
+  - first:
+      213: -6856720611297516816
+    second: Download12270_25
+  - first:
+      213: -5362642748543774189
+    second: Download12270_26
+  - first:
+      213: 5922994266507715862
+    second: Download12270_27
+  - first:
+      213: 7250421578568084711
+    second: Download12270_28
+  - first:
+      213: -4948674993520292093
+    second: Download12270_29
+  - first:
+      213: 5527611354501254959
+    second: Download12270_30
+  - first:
+      213: 6646583340092213047
+    second: Download12270_31
+  - first:
+      213: -5197626284007933118
+    second: Download12270_32
+  - first:
+      213: 6936821921201026899
+    second: Download12270_33
+  - first:
+      213: 4594205803181574679
+    second: Download12270_34
+  - first:
+      213: 7245010678183398098
+    second: Download12270_35
+  - first:
+      213: -7300111913130216144
+    second: Download12270_36
+  - first:
+      213: 1642858552945479683
+    second: Download12270_37
+  - first:
+      213: -4327359998415893735
+    second: Download12270_38
+  - first:
+      213: 3045135518250605668
+    second: Download12270_39
+  - first:
+      213: -6351450484550465844
+    second: Download12270_40
+  - first:
+      213: -1157086535472878754
+    second: Download12270_41
+  - first:
+      213: 1343684000806644075
+    second: Download12270_42
+  - first:
+      213: 6691003494662141662
+    second: Download12270_43
+  - first:
+      213: 6485584754708003653
+    second: Download12270_44
+  - first:
+      213: 3425739417243481599
+    second: Download12270_45
+  - first:
+      213: 5673632278695149679
+    second: Download12270_46
+  - first:
+      213: -5601064904096668900
+    second: Download12270_47
+  - first:
+      213: -7034248260280065524
+    second: Download12270_48
+  - first:
+      213: -6386400442458587967
+    second: Download12270_49
+  - first:
+      213: -4025891126043499379
+    second: Download12270_50
+  - first:
+      213: -6844069073868485599
+    second: Download12270_51
+  - first:
+      213: -2639595273908149980
+    second: Download12270_52
+  - first:
+      213: 2565829347645017905
+    second: Download12270_53
+  - first:
+      213: 3534463438307084089
+    second: Download12270_54
+  - first:
+      213: -5768138771056531129
+    second: Download12270_55
+  - first:
+      213: -5766971816617422539
+    second: Download12270_56
+  - first:
+      213: -3266687170337942701
+    second: Download12270_57
+  - first:
+      213: 3739665856551808564
+    second: Download12270_58
+  - first:
+      213: -8542275505485340425
+    second: Download12270_59
+  - first:
+      213: 9087192010132841391
+    second: Download12270_60
+  - first:
+      213: -1280054689838640179
+    second: Download12270_61
+  - first:
+      213: 2765511356660849667
+    second: Download12270_62
+  - first:
+      213: 4921671498823447197
+    second: Download12270_63
+  - first:
+      213: -6966716327547562499
+    second: Download12270_64
+  - first:
+      213: -7369631913095626087
+    second: Download12270_65
+  - first:
+      213: -4681295519307815959
+    second: Download12270_66
+  - first:
+      213: 5836153130333222393
+    second: Download12270_67
+  - first:
+      213: -1394195845312755900
+    second: Download12270_68
+  - first:
+      213: 6087970744772784936
+    second: Download12270_69
+  - first:
+      213: 5031784025573187273
+    second: Download12270_70
+  - first:
+      213: 3742982849991474271
+    second: Download12270_71
+  - first:
+      213: 4226011902063605813
+    second: Download12270_72
+  - first:
+      213: -4145912515038663744
+    second: Download12270_73
+  - first:
+      213: -7822561144919185271
+    second: Download12270_74
+  - first:
+      213: -6186861614112973939
+    second: Download12270_75
+  - first:
+      213: -4557330588278717042
+    second: Download12270_76
+  - first:
+      213: -2656924570666921183
+    second: Download12270_77
+  - first:
+      213: 1596669208587705526
+    second: Download12270_78
+  - first:
+      213: -2045807945910425476
+    second: Download12270_79
+  - first:
+      213: 7599658043088472761
+    second: Download12270_80
+  - first:
+      213: 4982539551187022237
+    second: Download12270_81
+  - first:
+      213: 8692399229238970447
+    second: Download12270_82
+  - first:
+      213: -4479532228755757226
+    second: Download12270_83
+  - first:
+      213: -7679869971486074956
+    second: Download12270_84
+  - first:
+      213: 4039119609812701016
+    second: Download12270_85
+  - first:
+      213: -623038664945386886
+    second: Download12270_86
+  - first:
+      213: -8781242781883732228
+    second: Download12270_87
+  - first:
+      213: -1540372375105354271
+    second: Download12270_88
+  - first:
+      213: 7028220231606850561
+    second: Download12270_89
+  - first:
+      213: -450850335077166334
+    second: Download12270_90
+  - first:
+      213: -5698015763803889937
+    second: Download12270_91
+  - first:
+      213: 1556677341058800422
+    second: Download12270_92
+  - first:
+      213: 2912066137740260197
+    second: Download12270_93
+  - first:
+      213: -7519626733731204668
+    second: Download12270_94
+  - first:
+      213: -7714658237431857373
+    second: Download12270_95
+  - first:
+      213: 1485180246247622406
+    second: Download12270_96
+  - first:
+      213: 6866248005248100400
+    second: Download12270_97
+  - first:
+      213: 2580832213336996517
+    second: Download12270_98
+  - first:
+      213: -3344123476810462420
+    second: Download12270_99
+  - first:
+      213: 7936092643760295990
+    second: Download12270_100
+  - first:
+      213: -7312262067986714385
+    second: Download12270_101
+  - first:
+      213: -2662197968631580057
+    second: Download12270_102
+  - first:
+      213: 4398164564473066665
+    second: Download12270_103
+  - first:
+      213: 4868988262278615321
+    second: Download12270_104
+  - first:
+      213: -5945041008081548079
+    second: Download12270_105
+  - first:
+      213: -1315736745511796785
+    second: Download12270_106
+  - first:
+      213: 5369049395185868591
+    second: Download12270_107
+  - first:
+      213: 4232656069746378687
+    second: Download12270_108
+  - first:
+      213: 1412193999579842880
+    second: Download12270_109
+  - first:
+      213: 8158847857011470064
+    second: Download12270_110
+  - first:
+      213: 1104812071263517542
+    second: Download12270_111
+  - first:
+      213: 2084885068750763469
+    second: Download12270_112
+  - first:
+      213: -5247031379418455436
+    second: Download12270_113
+  - first:
+      213: 96520482081541286
+    second: Download12270_114
+  - first:
+      213: -2236709164557351644
+    second: Download12270_115
+  - first:
+      213: -2569199159920797673
+    second: Download12270_116
+  - first:
+      213: 4264447454980091385
+    second: Download12270_117
+  - first:
+      213: 8803686323552611458
+    second: Download12270_118
+  - first:
+      213: -7393221881614671455
+    second: Download12270_119
+  - first:
+      213: -4351908584733442013
+    second: Download12270_120
+  - first:
+      213: 4821125338798035086
+    second: Download12270_121
+  - first:
+      213: -3521823791126899072
+    second: Download12270_122
+  - first:
+      213: -279042860107009752
+    second: Download12270_123
+  - first:
+      213: 3696188845086588605
+    second: Download12270_124
+  - first:
+      213: 4793254635271307682
+    second: Download12270_125
+  - first:
+      213: 177290768329956765
+    second: Download12270_126
+  - first:
+      213: -7947802181794731976
+    second: Download12270_127
+  - first:
+      213: -3658710750416217452
+    second: Download12270_128
+  - first:
+      213: -3211529742138017260
+    second: Download12270_129
+  - first:
+      213: -1633553113689916390
+    second: Download12270_130
+  - first:
+      213: 308111944185587737
+    second: Download12270_131
+  - first:
+      213: 1166577930316245262
+    second: Download12270_132
+  - first:
+      213: -1421834844312889417
+    second: Download12270_133
+  - first:
+      213: 1596743393501835781
+    second: Download12270_134
+  - first:
+      213: 442081757536467362
+    second: Download12270_135
+  - first:
+      213: 8983905317704620168
+    second: Download12270_136
+  - first:
+      213: -6607548593632591926
+    second: Download12270_137
+  - first:
+      213: -702307808461772469
+    second: Download12270_138
+  - first:
+      213: -377981414931993045
+    second: Download12270_139
+  - first:
+      213: -4207387421594410290
+    second: Download12270_140
+  - first:
+      213: 5016311128745802124
+    second: Download12270_141
+  - first:
+      213: -7466618707775026109
+    second: Download12270_142
+  - first:
+      213: -4180791615190063982
+    second: Download12270_143
+  - first:
+      213: 667827230480469053
+    second: Download12270_144
+  - first:
+      213: -1953790768643420027
+    second: Download12270_145
+  - first:
+      213: 1501527554006303450
+    second: Download12270_146
+  - first:
+      213: 767801748148625889
+    second: Download12270_147
+  - first:
+      213: -5498707299535382789
+    second: Download12270_148
+  - first:
+      213: -361855121280650060
+    second: Download12270_149
+  - first:
+      213: -5637971685416483270
+    second: Download12270_150
+  - first:
+      213: 8338751993375295437
+    second: Download12270_151
+  - first:
+      213: 6770445687148557590
+    second: Download12270_152
+  - first:
+      213: 2829886362180469978
+    second: Download12270_153
+  - first:
+      213: 5729991551642303114
+    second: Download12270_154
+  - first:
+      213: -2968764721882582071
+    second: Download12270_155
+  - first:
+      213: 3677595102635370646
+    second: Download12270_156
+  - first:
+      213: -440183932983792140
+    second: Download12270_157
+  - first:
+      213: -7046156013950519798
+    second: Download12270_158
+  - first:
+      213: 3403656973134635276
+    second: Download12270_159
+  - first:
+      213: -7865421322081327456
+    second: Download12270_160
+  - first:
+      213: -5590489196597269998
+    second: Download12270_161
+  - first:
+      213: 5465956788715045841
+    second: Download12270_162
+  - first:
+      213: -652979523210307149
+    second: Download12270_163
+  - first:
+      213: 720898167250854743
+    second: Download12270_164
+  - first:
+      213: 2386099071190057688
+    second: Download12270_165
+  - first:
+      213: -402585107342905270
+    second: Download12270_166
+  - first:
+      213: -7101470837496049915
+    second: Download12270_167
+  - first:
+      213: 8525334976857436751
+    second: Download12270_168
+  - first:
+      213: -3950728257785471295
+    second: Download12270_169
+  - first:
+      213: -6935624759543091174
+    second: Download12270_170
+  - first:
+      213: -8726824425022348886
+    second: Download12270_171
+  - first:
+      213: 3018643636639277228
+    second: Download12270_172
+  - first:
+      213: -4976059009073959140
+    second: Download12270_173
+  - first:
+      213: 8024023128335288164
+    second: Download12270_174
+  - first:
+      213: -6051824386139877121
+    second: Download12270_175
+  - first:
+      213: -3938506669253698671
+    second: Download12270_176
+  - first:
+      213: 4782982279129158615
+    second: Download12270_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Download12270_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7730675d0b2c14dd0800000000000000
+      internalID: -2503505853089971337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741909d6c5af3be0800000000000000
+      internalID: -1495294277800356752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6353c43a6ef360800000000000000
+      internalID: 7205313228687241107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da35f2f93cc784e0800000000000000
+      internalID: -1979388961944683821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61849ca46e695fe20800000000000000
+      internalID: 3383776610880145430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92a14d2522acee40800000000000000
+      internalID: 5687098710018859676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ccc7aa5d9874a0800000000000000
+      internalID: -6595348641596259957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1218
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f95ae4d34f8af60800000000000000
+      internalID: 8045949278447050653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaaa2e8465470110800000000000000
+      internalID: 1227025721665956584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1218
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff96434d0bd5fc80800000000000000
+      internalID: -8289478689095770118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cd1b4e122bf6900800000000000000
+      internalID: 679957927396760677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d5305b804f864c0800000000000000
+      internalID: -4293913926463955603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1fe2a1b1d11f30800000000000000
+      internalID: 4544644059866536694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9effc908debf80800000000000000
+      internalID: -8088790344054956601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104db725bb09cae0800000000000000
+      internalID: -1528677725831872492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f524078fb023b60800000000000000
+      internalID: 7724249472557014906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce62666d84e97ec0800000000000000
+      internalID: -3568569933755158840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6aa03ebc2f60780800000000000000
+      internalID: -8717013071227607374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fdfc2d09f056570800000000000000
+      internalID: 8459184589771890527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e90c56b584fdd090800000000000000
+      internalID: -8007975707267560986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abfebde3dfb56f10800000000000000
+      internalID: 2262425304771263392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1090
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095b63943406ffee0800000000000000
+      internalID: -1225154731514088048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3107a67f446a20b20800000000000000
+      internalID: 3099222308723257363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1090
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af357eccc0e19820800000000000000
+      internalID: 2923364803381903272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b56ab3a53e2c4c0800000000000000
+      internalID: -4268599520106488955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22387bee808d0a0800000000000000
+      internalID: -6856720611297516816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31259bb25d01495b0800000000000000
+      internalID: -5362642748543774189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152edd67e3b23250800000000000000
+      internalID: 5922994266507715862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eca066e20cae9460800000000000000
+      internalID: 7250421578568084711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1024
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f4d560056c25bb0800000000000000
+      internalID: -4948674993520292093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f86798d3506bc40800000000000000
+      internalID: 5527611354501254959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c93c25586d3c50800000000000000
+      internalID: 6646583340092213047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1024
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b3972de625ed7b0800000000000000
+      internalID: -5197626284007933118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1024
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577453d8ca844060800000000000000
+      internalID: 6936821921201026899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1024
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a0dab36d5e1cf30800000000000000
+      internalID: 4594205803181574679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da880b73d27b8460800000000000000
+      internalID: 7245010678183398098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 962
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035b64584eac0ba90800000000000000
+      internalID: -7300111913130216144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001780562b9cc610800000000000000
+      internalID: 1642858552945479683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b8f2f320122f3c0800000000000000
+      internalID: -4327359998415893735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 962
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c904abe9e724a20800000000000000
+      internalID: 3045135518250605668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc603eb8f6d1bd7a0800000000000000
+      internalID: -6351450484550465844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b60ce2de331ffe0800000000000000
+      internalID: -1157086535472878754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a476ca79b5a210800000000000000
+      internalID: 1343684000806644075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 962
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6fb3a5a383bdc50800000000000000
+      internalID: 6691003494662141662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3f09e8fc610a50800000000000000
+      internalID: 6485584754708003653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 899
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f9d189dbaa8f20800000000000000
+      internalID: 3425739417243481599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 899
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6080dd4f7accbe40800000000000000
+      internalID: 5673632278695149679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13296b35250542b0800000000000000
+      internalID: -5601064904096668900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 899
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e810f974516e90800000000000000
+      internalID: -7034248260280065524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 899
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccbbd952a2fe57a0800000000000000
+      internalID: -6386400442458587967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 899
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a7c7d9592128c0800000000000000
+      internalID: -4025891126043499379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c05d1507bf401a0800000000000000
+      internalID: -6844069073868485599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 834
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a7e365164e5bd0800000000000000
+      internalID: -2639595273908149980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f47a48238ab9320800000000000000
+      internalID: 2565829347645017905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93746ef45cfec0130800000000000000
+      internalID: 3534463438307084089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496400495473ffa0800000000000000
+      internalID: -5768138771056531129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53154d000b997ffa0800000000000000
+      internalID: -5766971816617422539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535ea383556aa2d0800000000000000
+      internalID: -3266687170337942701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e6d6e6846f5e330800000000000000
+      internalID: 3739665856551808564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a60acfadb37980800000000000000
+      internalID: -8542275505485340425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36cb9bcf03c1e70800000000000000
+      internalID: 9087192010132841391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc35817aa055c3ee0800000000000000
+      internalID: -1280054689838640179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c14143de1116620800000000000000
+      internalID: 2765511356660849667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92398ce62a4d4440800000000000000
+      internalID: 4921671498823447197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df51d9d4960415f90800000000000000
+      internalID: -6966716327547562499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9928d8e22dec9b990800000000000000
+      internalID: -7369631913095626087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3a70b1782b80fb0800000000000000
+      internalID: -4681295519307815959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5bb4cc95e2ef050800000000000000
+      internalID: 5836153130333222393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447cec4f342d6ace0800000000000000
+      internalID: -1394195845312755900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 706
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823f62d0321dc7450800000000000000
+      internalID: 6087970744772784936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce56c669ec74d540800000000000000
+      internalID: 5031784025573187273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cfe16221fb1f330800000000000000
+      internalID: 3742982849991474271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 707
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f21f3f6fc5aa30800000000000000
+      internalID: 4226011902063605813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 706
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb26479882c676c0800000000000000
+      internalID: -4145912515038663744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a15b951ea07390800000000000000
+      internalID: -7822561144919185271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 706
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bdb40342ad32aa0800000000000000
+      internalID: -6186861614112973939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 706
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8500a9c9fb11c0c0800000000000000
+      internalID: -4557330588278717042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 706
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12314621e25b02bd0800000000000000
+      internalID: -2656924570666921183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc9ca98f22882610800000000000000
+      internalID: 1596669208587705526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7866592384db93e0800000000000000
+      internalID: -2045807945910425476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba8ab8b9b8677960800000000000000
+      internalID: 7599658043088472761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9136dbb259852540800000000000000
+      internalID: 4982539551187022237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480ba07b0b91a870800000000000000
+      internalID: 8692399229238970447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576919eb2185d1c0800000000000000
+      internalID: -4479532228755757226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7126c53fe9b6590800000000000000
+      internalID: -7679869971486074956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f433c82e5dd0830800000000000000
+      internalID: 4039119609812701016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab89e92a58a57f0800000000000000
+      internalID: -623038664945386886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 578
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6b530732c22680800000000000000
+      internalID: -8781242781883732228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e545007c7f7f9ae0800000000000000
+      internalID: -1540372375105354271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 579
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d3244011498160800000000000000
+      internalID: 7028220231606850561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031cda42024eb9f0800000000000000
+      internalID: -450850335077166334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee94e92ad49ce0b0800000000000000
+      internalID: -5698015763803889937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b95b74bcd6a9510800000000000000
+      internalID: 1556677341058800422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563b37639bcb96820800000000000000
+      internalID: 2912066137740260197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1bb6c835be4a790800000000000000
+      internalID: -7519626733731204668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3552053700f490800000000000000
+      internalID: -7714658237431857373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607440da09b6c9410800000000000000
+      internalID: 1485180246247622406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0382c8c8e20d94f50800000000000000
+      internalID: 6866248005248100400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 513
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa36d46935f0d320800000000000000
+      internalID: 2580832213336996517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0baf6a694791d0800000000000000
+      internalID: -3344123476810462420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6305ce7563aa22e60800000000000000
+      internalID: 7936092643760295990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0b6152460a58a90800000000000000
+      internalID: -7312262067986714385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ab2fd6d09fd0bd0800000000000000
+      internalID: -2662197968631580057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b0217e5b690d30800000000000000
+      internalID: 4398164564473066665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 450
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911d9ac070f129340800000000000000
+      internalID: 4868988262278615321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc4b2a83b8fe7da0800000000000000
+      internalID: -5945041008081548079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf37d9a6609dbde0800000000000000
+      internalID: -1315736745511796785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f549d7af1b28a40800000000000000
+      internalID: 5369049395185868591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb742a5154a6dba30800000000000000
+      internalID: 4232656069746378687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04905e2e5fe199310800000000000000
+      internalID: 1412193999579842880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe20a506ec0a3170800000000000000
+      internalID: 8158847857011470064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb93ba9b4155f00800000000000000
+      internalID: 1104812071263517542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b7608ceffeec10800000000000000
+      internalID: 2084885068750763469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4726f68a2ccce27b0800000000000000
+      internalID: -5247031379418455436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0508fdd8e65100800000000000000
+      internalID: 96520482081541286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c2bc8ddc95f0e0800000000000000
+      internalID: -2236709164557351644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71850bbe9fe585cd0800000000000000
+      internalID: -2569199159920797673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd2865cd5c5e2b30800000000000000
+      internalID: 4264447454980091385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c615d311afc2a70800000000000000
+      internalID: 8803686323552611458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a166b0aedff56990800000000000000
+      internalID: -7393221881614671455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3208df7133aea93c0800000000000000
+      internalID: -4351908584733442013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8011b4c3f318e240800000000000000
+      internalID: 4821125338798035086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0869c50ebe7ff1fc0800000000000000
+      internalID: -3521823791126899072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82176364ff3a02cf0800000000000000
+      internalID: -279042860107009752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb52edb208b4330800000000000000
+      internalID: 3696188845086588605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1475de1bf058240800000000000000
+      internalID: 4793254635271307682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d5344b30dd57200800000000000000
+      internalID: 177290768329956765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ec01660cb3b190800000000000000
+      internalID: -7947802181794731976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ad98905f5a93dc0800000000000000
+      internalID: -3658710750416217452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af24607ba5e63d0800000000000000
+      internalID: -3211529742138017260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c77c819147459e0800000000000000
+      internalID: -1633553113689916390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ac384e22a64400800000000000000
+      internalID: 308111944185587737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096f436274803010800000000000000
+      internalID: 1166577930316245262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b715770eb0a44ce0800000000000000
+      internalID: -1421834844312889417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f02f08a5c82610800000000000000
+      internalID: 1596743393501835781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a934a72407922600800000000000000
+      internalID: 442081757536467362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d685a94e3dac70800000000000000
+      internalID: 8983905317704620168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfb568ff854d44a0800000000000000
+      internalID: -6607548593632591926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4927a9e4c6e046f0800000000000000
+      internalID: -702307808461772469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e674fd7e321caf0800000000000000
+      internalID: -377981414931993045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec22b678e6b5c95c0800000000000000
+      internalID: -4207387421594410290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897bbfd4648d9540800000000000000
+      internalID: 5016311128745802124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c88c958dd316890800000000000000
+      internalID: -7466618707775026109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2942aa04d28daf5c0800000000000000
+      internalID: -4180791615190063982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c0f1ce359944900800000000000000
+      internalID: 667827230480469053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5805295c5adb2e4e0800000000000000
+      internalID: -1953790768643420027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c10dda5f76d410800000000000000
+      internalID: 1501527554006303450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a2583f97c7aa00800000000000000
+      internalID: 767801748148625889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6985f28daa0b3b0800000000000000
+      internalID: -5498707299535382789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b439e33fae6afaf0800000000000000
+      internalID: -361855121280650060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364a059f96e1c1b0800000000000000
+      internalID: -5637971685416483270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70733e1c239b370800000000000000
+      internalID: 8338751993375295437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b0992b7475fd50800000000000000
+      internalID: 6770445687148557590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad44d7c27a6c54720800000000000000
+      internalID: 2829886362180469978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af0a915f4058f40800000000000000
+      internalID: 5729991551642303114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c33a72f634dcc6d0800000000000000
+      internalID: -2968764721882582071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982c48d241790330800000000000000
+      internalID: 3677595102635370646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 130
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdaaae8b0724e9f0800000000000000
+      internalID: -440183932983792140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a063f7cff66073e90800000000000000
+      internalID: -7046156013950519798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a8f4dbf73c3f20800000000000000
+      internalID: 3403656973134635276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62f88faf868d290800000000000000
+      internalID: -7865421322081327456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a292402b79a62b0800000000000000
+      internalID: -5590489196597269998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3cefc4dbafadb40800000000000000
+      internalID: 5465956788715045841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b91271559620f6f0800000000000000
+      internalID: -652979523210307149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753a73a4015210a00800000000000000
+      internalID: 720898167250854743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24c2196702d1120800000000000000
+      internalID: 2386099071190057688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b6f45afab96af0800000000000000
+      internalID: -402585107342905270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f804406e1827d90800000000000000
+      internalID: -7101470837496049915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42fcc60ef2105670800000000000000
+      internalID: 8525334976857436751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce5996d4913c29c0800000000000000
+      internalID: -3950728257785471295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_170
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 66
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10b7081706bfbf90800000000000000
+      internalID: -6935624759543091174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa127511c6714e680800000000000000
+      internalID: -8726824425022348886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a061e46064e920800000000000000
+      internalID: 3018643636639277228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fa3ce02bc71fab0800000000000000
+      internalID: -4976059009073959140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46781f9a58e0b5f60800000000000000
+      internalID: 8024023128335288164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01615e8c9930ca0800000000000000
+      internalID: -6051824386139877121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b50a92d0d9759c0800000000000000
+      internalID: -3938506669253698671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download12270_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d35b72aa01906240800000000000000
+      internalID: 4782982279129158615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -80, y: -672}
+      - {x: -42, y: -672}
+      - {x: -42, y: -636}
+      - {x: -43, y: -634}
+      - {x: -78, y: -634}
+      - {x: -80, y: -636}
+    - - {x: -379, y: -672}
+      - {x: -370, y: -672}
+      - {x: -367, y: -666}
+      - {x: -367, y: -637}
+      - {x: -370, y: -623}
+      - {x: -376, y: -621}
+      - {x: -396, y: -621}
+      - {x: -401, y: -625}
+      - {x: -401, y: -672}
+      - {x: -387, y: -672}
+      - {x: -385, y: -668}
+      - {x: -385, y: -664}
+      - {x: -383, y: -668}
+    - - {x: -330, y: -622}
+      - {x: -336, y: -643}
+      - {x: -336, y: -668}
+      - {x: -332, y: -672}
+      - {x: -301, y: -672}
+      - {x: -301, y: -624}
+      - {x: -306, y: -622}
+    - - {x: -268, y: -629}
+      - {x: -271, y: -635}
+      - {x: -271, y: -672}
+      - {x: -237, y: -672}
+      - {x: -237, y: -646}
+      - {x: -241, y: -629}
+    - - {x: -180, y: -633}
+      - {x: -202, y: -633}
+      - {x: -207, y: -656}
+      - {x: -207, y: -669}
+      - {x: -206, y: -671}
+      - {x: -174, y: -671}
+      - {x: -173, y: -668}
+      - {x: -173, y: -644}
+      - {x: -175, y: -634}
+    - - {x: -117, y: -639}
+      - {x: -137, y: -639}
+      - {x: -143, y: -647}
+      - {x: -143, y: -671}
+      - {x: -110, y: -671}
+      - {x: -108, y: -668}
+      - {x: -108, y: -655}
+      - {x: -112, y: -641}
+    - - {x: -398, y: -557}
+      - {x: -398, y: -605}
+      - {x: -396, y: -608}
+      - {x: -377, y: -608}
+      - {x: -374, y: -607}
+      - {x: -374, y: -559}
+      - {x: -376, y: -557}
+    - - {x: -335, y: -557}
+      - {x: -335, y: -608}
+      - {x: -306, y: -608}
+      - {x: -306, y: -557}
+    - - {x: -251, y: -557}
+      - {x: -268, y: -557}
+      - {x: -273, y: -561}
+      - {x: -273, y: -608}
+      - {x: -242, y: -608}
+      - {x: -237, y: -598}
+      - {x: -237, y: -581}
+      - {x: -244, y: -559}
+    - - {x: -210, y: -557}
+      - {x: -210, y: -607}
+      - {x: -206, y: -608}
+      - {x: -173, y: -608}
+      - {x: -171, y: -606}
+      - {x: -171, y: -574}
+      - {x: -177, y: -557}
+    - - {x: -116, y: -557}
+      - {x: -146, y: -557}
+      - {x: -146, y: -608}
+      - {x: -124, y: -608}
+      - {x: -116, y: -605}
+      - {x: -107, y: -589}
+      - {x: -107, y: -566}
+    - - {x: -52, y: -559}
+      - {x: -57, y: -557}
+      - {x: -78, y: -557}
+      - {x: -78, y: -608}
+      - {x: -59, y: -608}
+      - {x: -52, y: -605}
+      - {x: -42, y: -580}
+      - {x: -42, y: -572}
+    - - {x: 20, y: -583}
+      - {x: 22, y: -578}
+      - {x: 22, y: -571}
+      - {x: 5, y: -557}
+      - {x: -12, y: -557}
+      - {x: -16, y: -566}
+      - {x: -16, y: -599}
+      - {x: -15, y: -602}
+      - {x: -12, y: -608}
+      - {x: -2, y: -608}
+      - {x: 8, y: -606}
+      - {x: 10, y: -604}
+      - {x: 10, y: -601}
+    - - {x: 47, y: -557}
+      - {x: 45, y: -562}
+      - {x: 45, y: -586}
+      - {x: 51, y: -608}
+      - {x: 66, y: -608}
+      - {x: 76, y: -605}
+      - {x: 85, y: -584}
+      - {x: 85, y: -562}
+      - {x: 73, y: -557}
+    - - {x: 140, y: -559}
+      - {x: 134, y: -557}
+      - {x: 117, y: -557}
+      - {x: 114, y: -560}
+      - {x: 107, y: -576}
+      - {x: 107, y: -587}
+      - {x: 116, y: -608}
+      - {x: 126, y: -608}
+      - {x: 136, y: -606}
+      - {x: 140, y: -605}
+      - {x: 149, y: -584}
+      - {x: 149, y: -570}
+    - - {x: 174, y: -557}
+      - {x: 174, y: -603}
+      - {x: 178, y: -608}
+      - {x: 193, y: -608}
+      - {x: 205, y: -606}
+      - {x: 213, y: -585}
+      - {x: 213, y: -570}
+      - {x: 204, y: -557}
+    - - {x: 243, y: -557}
+      - {x: 239, y: -565}
+      - {x: 239, y: -602}
+      - {x: 242, y: -608}
+      - {x: 268, y: -608}
+      - {x: 277, y: -588}
+      - {x: 277, y: -570}
+      - {x: 264, y: -557}
+    - - {x: 312, y: -557}
+      - {x: 307, y: -560}
+      - {x: 307, y: -608}
+      - {x: 331, y: -608}
+      - {x: 341, y: -589}
+      - {x: 341, y: -569}
+      - {x: 328, y: -557}
+    - - {x: 371, y: -557}
+      - {x: 367, y: -565}
+      - {x: 367, y: -602}
+      - {x: 370, y: -608}
+      - {x: 396, y: -608}
+      - {x: 405, y: -588}
+      - {x: 405, y: -570}
+      - {x: 392, y: -557}
+    - - {x: -382, y: -544}
+      - {x: -374, y: -544}
+      - {x: -368, y: -543}
+      - {x: -368, y: -510}
+      - {x: -375, y: -493}
+      - {x: -402, y: -493}
+      - {x: -402, y: -544}
+      - {x: -388, y: -544}
+      - {x: -386, y: -540}
+      - {x: -386, y: -536}
+    - - {x: -208, y: -493}
+      - {x: -208, y: -544}
+      - {x: -186, y: -544}
+      - {x: -182, y: -543}
+      - {x: -180, y: -533}
+      - {x: -180, y: -497}
+      - {x: -181, y: -493}
+    - - {x: -136, y: -493}
+      - {x: -141, y: -496}
+      - {x: -143, y: -501}
+      - {x: -143, y: -534}
+      - {x: -137, y: -544}
+      - {x: -122, y: -544}
+      - {x: -119, y: -542}
+      - {x: -116, y: -523}
+      - {x: -116, y: -500}
+      - {x: -120, y: -493}
+    - - {x: -79, y: -493}
+      - {x: -79, y: -532}
+      - {x: -74, y: -544}
+      - {x: -57, y: -544}
+      - {x: -54, y: -542}
+      - {x: -52, y: -527}
+      - {x: -52, y: -495}
+      - {x: -57, y: -493}
+    - - {x: -11, y: -493}
+      - {x: -15, y: -494}
+      - {x: -15, y: -543}
+      - {x: -13, y: -544}
+      - {x: 9, y: -544}
+      - {x: 12, y: -528}
+      - {x: 12, y: -498}
+      - {x: 9, y: -493}
+    - - {x: 55, y: -493}
+      - {x: 49, y: -495}
+      - {x: 48, y: -496}
+      - {x: 48, y: -530}
+      - {x: 54, y: -544}
+      - {x: 72, y: -544}
+      - {x: 74, y: -543}
+      - {x: 76, y: -526}
+      - {x: 76, y: -496}
+      - {x: 74, y: -493}
+    - - {x: 115, y: -493}
+      - {x: 112, y: -498}
+      - {x: 112, y: -524}
+      - {x: 116, y: -539}
+      - {x: 121, y: -544}
+      - {x: 133, y: -544}
+      - {x: 138, y: -543}
+      - {x: 140, y: -529}
+      - {x: 140, y: -496}
+      - {x: 135, y: -493}
+    - - {x: 177, y: -493}
+      - {x: 177, y: -534}
+      - {x: 183, y: -544}
+      - {x: 200, y: -544}
+      - {x: 202, y: -543}
+      - {x: 204, y: -525}
+      - {x: 204, y: -500}
+      - {x: 202, y: -493}
+    - - {x: 244, y: -493}
+      - {x: 240, y: -501}
+      - {x: 240, y: -535}
+      - {x: 248, y: -544}
+      - {x: 263, y: -544}
+      - {x: 266, y: -543}
+      - {x: 268, y: -529}
+      - {x: 268, y: -500}
+      - {x: 264, y: -493}
+    - - {x: 306, y: -493}
+      - {x: 306, y: -541}
+      - {x: 311, y: -544}
+      - {x: 325, y: -544}
+      - {x: 330, y: -543}
+      - {x: 332, y: -529}
+      - {x: 332, y: -498}
+      - {x: 330, y: -493}
+    - - {x: 372, y: -493}
+      - {x: 368, y: -501}
+      - {x: 368, y: -535}
+      - {x: 376, y: -544}
+      - {x: 391, y: -544}
+      - {x: 394, y: -543}
+      - {x: 396, y: -529}
+      - {x: 396, y: -500}
+      - {x: 392, y: -493}
+    - - {x: -328, y: -493}
+      - {x: -334, y: -499}
+      - {x: -336, y: -513}
+      - {x: -336, y: -531}
+      - {x: -333, y: -543}
+      - {x: -308, y: -543}
+      - {x: -307, y: -542}
+      - {x: -307, y: -499}
+      - {x: -313, y: -493}
+    - - {x: -267, y: -493}
+      - {x: -272, y: -494}
+      - {x: -272, y: -533}
+      - {x: -268, y: -543}
+      - {x: -248, y: -543}
+      - {x: -244, y: -534}
+      - {x: -244, y: -496}
+      - {x: -245, y: -493}
+    - - {x: -390, y: -429}
+      - {x: -394, y: -435}
+      - {x: -394, y: -478}
+      - {x: -391, y: -480}
+      - {x: -377, y: -480}
+      - {x: -371, y: -477}
+      - {x: -370, y: -472}
+      - {x: -370, y: -435}
+      - {x: -376, y: -429}
+    - - {x: -324, y: -429}
+      - {x: -331, y: -436}
+      - {x: -334, y: -455}
+      - {x: -334, y: -471}
+      - {x: -332, y: -477}
+      - {x: -327, y: -480}
+      - {x: -313, y: -480}
+      - {x: -307, y: -477}
+      - {x: -305, y: -472}
+      - {x: -305, y: -443}
+      - {x: -308, y: -429}
+    - - {x: -245, y: -429}
+      - {x: -265, y: -429}
+      - {x: -275, y: -449}
+      - {x: -275, y: -468}
+      - {x: -270, y: -480}
+      - {x: -246, y: -480}
+      - {x: -239, y: -464}
+      - {x: -239, y: -449}
+      - {x: -241, y: -431}
+    - - {x: -204, y: -429}
+      - {x: -213, y: -445}
+      - {x: -213, y: -462}
+      - {x: -210, y: -464}
+      - {x: -204, y: -477}
+      - {x: -196, y: -480}
+      - {x: -174, y: -480}
+      - {x: -174, y: -429}
+    - - {x: -143, y: -429}
+      - {x: -149, y: -435}
+      - {x: -149, y: -468}
+      - {x: -140, y: -480}
+      - {x: -113, y: -480}
+      - {x: -112, y: -479}
+      - {x: -110, y: -472}
+      - {x: -110, y: -440}
+      - {x: -117, y: -429}
+    - - {x: -70, y: -429}
+      - {x: -86, y: -440}
+      - {x: -86, y: -458}
+      - {x: -75, y: -480}
+      - {x: -52, y: -480}
+      - {x: -50, y: -476}
+      - {x: -50, y: -432}
+      - {x: -56, y: -429}
+    - - {x: -14, y: -429}
+      - {x: -22, y: -436}
+      - {x: -22, y: -456}
+      - {x: -9, y: -479}
+      - {x: -4, y: -480}
+      - {x: 12, y: -480}
+      - {x: 16, y: -475}
+      - {x: 16, y: -429}
+    - - {x: 58, y: -429}
+      - {x: 43, y: -439}
+      - {x: 43, y: -466}
+      - {x: 48, y: -479}
+      - {x: 50, y: -480}
+      - {x: 79, y: -480}
+      - {x: 83, y: -469}
+      - {x: 83, y: -437}
+      - {x: 73, y: -429}
+    - - {x: 121, y: -429}
+      - {x: 107, y: -445}
+      - {x: 107, y: -453}
+      - {x: 117, y: -477}
+      - {x: 127, y: -480}
+      - {x: 140, y: -480}
+      - {x: 149, y: -465}
+      - {x: 149, y: -442}
+      - {x: 143, y: -429}
+    - - {x: 171, y: -446}
+      - {x: 171, y: -456}
+      - {x: 182, y: -480}
+      - {x: 207, y: -480}
+      - {x: 210, y: -476}
+      - {x: 210, y: -436}
+      - {x: 203, y: -429}
+      - {x: 187, y: -429}
+      - {x: 181, y: -435}
+    - - {x: 272, y: -431}
+      - {x: 265, y: -429}
+      - {x: 247, y: -429}
+      - {x: 235, y: -440}
+      - {x: 235, y: -466}
+      - {x: 242, y: -480}
+      - {x: 268, y: -480}
+      - {x: 271, y: -473}
+      - {x: 273, y: -460}
+      - {x: 273, y: -446}
+    - - {x: 306, y: -429}
+      - {x: 299, y: -438}
+      - {x: 299, y: -468}
+      - {x: 305, y: -480}
+      - {x: 330, y: -480}
+      - {x: 333, y: -479}
+      - {x: 333, y: -430}
+      - {x: 332, y: -429}
+    - - {x: 400, y: -431}
+      - {x: 393, y: -429}
+      - {x: 375, y: -429}
+      - {x: 363, y: -440}
+      - {x: 363, y: -466}
+      - {x: 370, y: -480}
+      - {x: 396, y: -480}
+      - {x: 399, y: -473}
+      - {x: 401, y: -460}
+      - {x: 401, y: -446}
+    - - {x: -313, y: -367}
+      - {x: -328, y: -367}
+      - {x: -329, y: -368}
+      - {x: -334, y: -374}
+      - {x: -335, y: -377}
+      - {x: -335, y: -413}
+      - {x: -330, y: -418}
+      - {x: -308, y: -418}
+      - {x: -305, y: -415}
+      - {x: -305, y: -381}
+      - {x: -306, y: -373}
+    - - {x: -267, y: -366}
+      - {x: -269, y: -370}
+      - {x: -269, y: -394}
+      - {x: -268, y: -411}
+      - {x: -260, y: -418}
+      - {x: -243, y: -418}
+      - {x: -243, y: -367}
+      - {x: -245, y: -366}
+    - - {x: -205, y: -366}
+      - {x: -206, y: -370}
+      - {x: -206, y: -398}
+      - {x: -203, y: -410}
+      - {x: -194, y: -418}
+      - {x: -180, y: -418}
+      - {x: -180, y: -367}
+      - {x: -186, y: -366}
+    - - {x: -141, y: -366}
+      - {x: -142, y: -369}
+      - {x: -142, y: -412}
+      - {x: -131, y: -418}
+      - {x: -118, y: -418}
+      - {x: -111, y: -400}
+      - {x: -111, y: -370}
+      - {x: -118, y: -366}
+    - - {x: -51, y: -372}
+      - {x: -56, y: -366}
+      - {x: -72, y: -366}
+      - {x: -78, y: -368}
+      - {x: -78, y: -412}
+      - {x: -67, y: -418}
+      - {x: -54, y: -418}
+      - {x: -52, y: -411}
+      - {x: -49, y: -393}
+      - {x: -49, y: -384}
+    - - {x: -14, y: -366}
+      - {x: -14, y: -412}
+      - {x: -5, y: -418}
+      - {x: 13, y: -418}
+      - {x: 16, y: -409}
+      - {x: 16, y: -371}
+      - {x: 12, y: -366}
+    - - {x: 74, y: -366}
+      - {x: 56, y: -366}
+      - {x: 50, y: -367}
+      - {x: 50, y: -412}
+      - {x: 61, y: -418}
+      - {x: 74, y: -418}
+      - {x: 76, y: -411}
+      - {x: 81, y: -395}
+      - {x: 81, y: -383}
+    - - {x: 145, y: -370}
+      - {x: 136, y: -366}
+      - {x: 114, y: -366}
+      - {x: 114, y: -414}
+      - {x: 124, y: -418}
+      - {x: 137, y: -418}
+      - {x: 146, y: -397}
+      - {x: 146, y: -377}
+    - - {x: 178, y: -366}
+      - {x: 178, y: -412}
+      - {x: 188, y: -418}
+      - {x: 203, y: -418}
+      - {x: 209, y: -406}
+      - {x: 209, y: -389}
+      - {x: 202, y: -366}
+    - - {x: 246, y: -366}
+      - {x: 242, y: -367}
+      - {x: 242, y: -398}
+      - {x: 249, y: -418}
+      - {x: 267, y: -418}
+      - {x: 268, y: -414}
+      - {x: 268, y: -372}
+      - {x: 266, y: -366}
+    - - {x: 310, y: -366}
+      - {x: 306, y: -373}
+      - {x: 306, y: -397}
+      - {x: 313, y: -418}
+      - {x: 328, y: -418}
+      - {x: 332, y: -415}
+      - {x: 332, y: -369}
+      - {x: 328, y: -366}
+    - - {x: 374, y: -366}
+      - {x: 370, y: -367}
+      - {x: 370, y: -398}
+      - {x: 377, y: -418}
+      - {x: 395, y: -418}
+      - {x: 396, y: -414}
+      - {x: 396, y: -372}
+      - {x: 394, y: -366}
+    - - {x: -395, y: -366}
+      - {x: -402, y: -370}
+      - {x: -402, y: -416}
+      - {x: -376, y: -416}
+      - {x: -368, y: -410}
+      - {x: -368, y: -376}
+      - {x: -372, y: -366}
+    - - {x: -397, y: -301}
+      - {x: -397, y: -352}
+      - {x: -377, y: -352}
+      - {x: -373, y: -349}
+      - {x: -373, y: -305}
+      - {x: -376, y: -301}
+    - - {x: -311, y: -303}
+      - {x: -327, y: -303}
+      - {x: -330, y: -306}
+      - {x: -332, y: -329}
+      - {x: -332, y: -351}
+      - {x: -331, y: -352}
+      - {x: -309, y: -352}
+      - {x: -303, y: -347}
+      - {x: -303, y: -310}
+      - {x: -305, y: -305}
+    - - {x: -270, y: -301}
+      - {x: -270, y: -352}
+      - {x: -246, y: -352}
+      - {x: -242, y: -351}
+      - {x: -242, y: -303}
+      - {x: -247, y: -301}
+    - - {x: -181, y: -301}
+      - {x: -197, y: -301}
+      - {x: -204, y: -303}
+      - {x: -207, y: -326}
+      - {x: -207, y: -341}
+      - {x: -201, y: -352}
+      - {x: -180, y: -352}
+      - {x: -169, y: -336}
+      - {x: -169, y: -321}
+      - {x: -178, y: -305}
+    - - {x: -142, y: -301}
+      - {x: -142, y: -352}
+      - {x: -116, y: -352}
+      - {x: -112, y: -351}
+      - {x: -102, y: -337}
+      - {x: -102, y: -314}
+      - {x: -112, y: -301}
+    - - {x: -71, y: -301}
+      - {x: -78, y: -323}
+      - {x: -78, y: -347}
+      - {x: -75, y: -352}
+      - {x: -50, y: -352}
+      - {x: -41, y: -331}
+      - {x: -41, y: -307}
+      - {x: -52, y: -301}
+    - - {x: -381, y: -288}
+      - {x: -367, y: -288}
+      - {x: -367, y: -238}
+      - {x: -369, y: -237}
+      - {x: -395, y: -237}
+      - {x: -401, y: -254}
+      - {x: -401, y: -287}
+      - {x: -397, y: -288}
+      - {x: -387, y: -288}
+      - {x: -385, y: -284}
+      - {x: -385, y: -280}
+    - - {x: -313, y: -237}
+      - {x: -330, y: -237}
+      - {x: -334, y: -243}
+      - {x: -335, y: -251}
+      - {x: -335, y: -288}
+      - {x: -305, y: -288}
+      - {x: -305, y: -239}
+    - - {x: -265, y: -239}
+      - {x: -271, y: -244}
+      - {x: -271, y: -288}
+      - {x: -241, y: -288}
+      - {x: -241, y: -247}
+      - {x: -245, y: -239}
+    - - {x: -198, y: -238}
+      - {x: -203, y: -241}
+      - {x: -206, y: -257}
+      - {x: -206, y: -288}
+      - {x: -176, y: -288}
+      - {x: -176, y: -246}
+      - {x: -180, y: -238}
+    - - {x: -114, y: -237}
+      - {x: -135, y: -237}
+      - {x: -142, y: -239}
+      - {x: -142, y: -288}
+      - {x: -115, y: -288}
+      - {x: -109, y: -287}
+      - {x: -103, y: -270}
+      - {x: -103, y: -261}
+      - {x: -111, y: -243}
+    - - {x: -72, y: -237}
+      - {x: -79, y: -253}
+      - {x: -79, y: -282}
+      - {x: -77, y: -288}
+      - {x: -50, y: -288}
+      - {x: -36, y: -279}
+      - {x: -36, y: -252}
+      - {x: -45, y: -237}
+    - - {x: -392, y: -173}
+      - {x: -395, y: -175}
+      - {x: -395, y: -223}
+      - {x: -392, y: -224}
+      - {x: -375, y: -224}
+      - {x: -371, y: -215}
+      - {x: -371, y: -174}
+      - {x: -375, y: -173}
+    - - {x: -329, y: -175}
+      - {x: -336, y: -177}
+      - {x: -337, y: -188}
+      - {x: -337, y: -217}
+      - {x: -332, y: -224}
+      - {x: -308, y: -224}
+      - {x: -308, y: -176}
+      - {x: -310, y: -175}
+    - - {x: -270, y: -173}
+      - {x: -270, y: -224}
+      - {x: -245, y: -224}
+      - {x: -242, y: -220}
+      - {x: -242, y: -189}
+      - {x: -248, y: -173}
+    - - {x: -187, y: -173}
+      - {x: -207, y: -173}
+      - {x: -215, y: -187}
+      - {x: -215, y: -215}
+      - {x: -209, y: -224}
+      - {x: -182, y: -224}
+      - {x: -177, y: -216}
+      - {x: -177, y: -189}
+      - {x: -179, y: -178}
+    - - {x: -141, y: -173}
+      - {x: -145, y: -175}
+      - {x: -154, y: -183}
+      - {x: -154, y: -203}
+      - {x: -143, y: -224}
+      - {x: -114, y: -224}
+      - {x: -114, y: -189}
+      - {x: -121, y: -173}
+    - - {x: -77, y: -173}
+      - {x: -81, y: -175}
+      - {x: -87, y: -182}
+      - {x: -87, y: -204}
+      - {x: -79, y: -224}
+      - {x: -50, y: -224}
+      - {x: -50, y: -189}
+      - {x: -56, y: -173}
+    - - {x: -332, y: -111}
+      - {x: -335, y: -116}
+      - {x: -335, y: -160}
+      - {x: -333, y: -161}
+      - {x: -305, y: -161}
+      - {x: -305, y: -115}
+      - {x: -312, y: -111}
+    - - {x: -267, y: -111}
+      - {x: -270, y: -112}
+      - {x: -270, y: -161}
+      - {x: -241, y: -161}
+      - {x: -241, y: -116}
+      - {x: -244, y: -111}
+    - - {x: -203, y: -110}
+      - {x: -207, y: -121}
+      - {x: -207, y: -161}
+      - {x: -177, y: -161}
+      - {x: -176, y: -159}
+      - {x: -176, y: -111}
+      - {x: -178, y: -110}
+    - - {x: -136, y: -110}
+      - {x: -144, y: -114}
+      - {x: -144, y: -161}
+      - {x: -111, y: -161}
+      - {x: -104, y: -136}
+      - {x: -104, y: -120}
+      - {x: -112, y: -110}
+    - - {x: -75, y: -110}
+      - {x: -79, y: -114}
+      - {x: -80, y: -127}
+      - {x: -80, y: -160}
+      - {x: -78, y: -161}
+      - {x: -44, y: -161}
+      - {x: -40, y: -160}
+      - {x: -37, y: -146}
+      - {x: -37, y: -112}
+      - {x: -43, y: -110}
+    - - {x: -394, y: -110}
+      - {x: -398, y: -112}
+      - {x: -401, y: -127}
+      - {x: -401, y: -152}
+      - {x: -396, y: -160}
+      - {x: -369, y: -160}
+      - {x: -367, y: -158}
+      - {x: -367, y: -118}
+      - {x: -371, y: -110}
+    - - {x: -395, y: -45}
+      - {x: -397, y: -48}
+      - {x: -397, y: -95}
+      - {x: -394, y: -96}
+      - {x: -374, y: -96}
+      - {x: -373, y: -95}
+      - {x: -373, y: -45}
+    - - {x: -309, y: -46}
+      - {x: -334, y: -46}
+      - {x: -334, y: -96}
+      - {x: -307, y: -96}
+      - {x: -305, y: -94}
+      - {x: -305, y: -59}
+    - - {x: -137, y: -45}
+      - {x: -144, y: -60}
+      - {x: -144, y: -91}
+      - {x: -143, y: -96}
+      - {x: -116, y: -96}
+      - {x: -116, y: -46}
+      - {x: -117, y: -45}
+    - - {x: -77, y: -46}
+      - {x: -82, y: -62}
+      - {x: -82, y: -85}
+      - {x: -74, y: -96}
+      - {x: -50, y: -96}
+      - {x: -50, y: -47}
+      - {x: -55, y: -46}
+    - - {x: -11, y: -45}
+      - {x: -16, y: -60}
+      - {x: -16, y: -91}
+      - {x: -10, y: -96}
+      - {x: 11, y: -96}
+      - {x: 11, y: -45}
+    - - {x: 56, y: -45}
+      - {x: 50, y: -47}
+      - {x: 49, y: -53}
+      - {x: 49, y: -83}
+      - {x: 58, y: -96}
+      - {x: 73, y: -96}
+      - {x: 75, y: -87}
+      - {x: 75, y: -49}
+      - {x: 73, y: -45}
+    - - {x: 117, y: -45}
+      - {x: 114, y: -55}
+      - {x: 114, y: -89}
+      - {x: 119, y: -96}
+      - {x: 136, y: -96}
+      - {x: 139, y: -88}
+      - {x: 139, y: -45}
+    - - {x: -268, y: -45}
+      - {x: -269, y: -47}
+      - {x: -269, y: -90}
+      - {x: -267, y: -95}
+      - {x: -243, y: -95}
+      - {x: -243, y: -48}
+      - {x: -247, y: -45}
+    - - {x: -204, y: -45}
+      - {x: -207, y: -56}
+      - {x: -207, y: -90}
+      - {x: -201, y: -95}
+      - {x: -183, y: -95}
+      - {x: -181, y: -73}
+      - {x: -181, y: -49}
+      - {x: -183, y: -45}
+    - - {x: -247, y: 19}
+      - {x: -269, y: 19}
+      - {x: -273, y: 7}
+      - {x: -273, y: -26}
+      - {x: -272, y: -32}
+      - {x: -268, y: -33}
+      - {x: -242, y: -33}
+      - {x: -239, y: -26}
+      - {x: -239, y: 13}
+      - {x: -241, y: 17}
+    - - {x: -205, y: 18}
+      - {x: -207, y: 17}
+      - {x: -208, y: 14}
+      - {x: -208, y: -20}
+      - {x: -204, y: -33}
+      - {x: -183, y: -33}
+      - {x: -178, y: -31}
+      - {x: -175, y: -28}
+      - {x: -175, y: 6}
+      - {x: -180, y: 18}
+    - - {x: -140, y: 19}
+      - {x: -145, y: 7}
+      - {x: -145, y: -31}
+      - {x: -142, y: -33}
+      - {x: -111, y: -33}
+      - {x: -111, y: 19}
+    - - {x: 10, y: 19}
+      - {x: -7, y: 19}
+      - {x: -14, y: 17}
+      - {x: -17, y: 10}
+      - {x: -17, y: -25}
+      - {x: -14, y: -33}
+      - {x: 10, y: -33}
+      - {x: 17, y: -24}
+      - {x: 17, y: -1}
+      - {x: 14, y: 13}
+    - - {x: 49, y: 18}
+      - {x: 47, y: 16}
+      - {x: 47, y: -33}
+      - {x: 71, y: -33}
+      - {x: 80, y: -26}
+      - {x: 80, y: 16}
+      - {x: 74, y: 18}
+    - - {x: 116, y: 19}
+      - {x: 112, y: 18}
+      - {x: 111, y: 2}
+      - {x: 111, y: -19}
+      - {x: 116, y: -33}
+      - {x: 138, y: -33}
+      - {x: 144, y: -32}
+      - {x: 145, y: -30}
+      - {x: 145, y: 1}
+      - {x: 141, y: 19}
+    - - {x: -381, y: -32}
+      - {x: -367, y: -32}
+      - {x: -367, y: 19}
+      - {x: -396, y: 19}
+      - {x: -401, y: 15}
+      - {x: -401, y: -32}
+      - {x: -387, y: -32}
+      - {x: -385, y: -28}
+      - {x: -385, y: -24}
+    - - {x: -337, y: 19}
+      - {x: -337, y: -32}
+      - {x: -303, y: -32}
+      - {x: -303, y: 19}
+    - - {x: -53, y: 15}
+      - {x: -55, y: 19}
+      - {x: -71, y: 19}
+      - {x: -79, y: 17}
+      - {x: -81, y: 0}
+      - {x: -81, y: -25}
+      - {x: -79, y: -32}
+      - {x: -48, y: -32}
+      - {x: -47, y: -25}
+      - {x: -47, y: -7}
+    - - {x: -391, y: 83}
+      - {x: -395, y: 81}
+      - {x: -395, y: 34}
+      - {x: -391, y: 32}
+      - {x: -371, y: 32}
+      - {x: -371, y: 82}
+      - {x: -372, y: 83}
+    - - {x: -311, y: 82}
+      - {x: -327, y: 82}
+      - {x: -334, y: 80}
+      - {x: -335, y: 50}
+      - {x: -335, y: 37}
+      - {x: -329, y: 32}
+      - {x: -308, y: 32}
+      - {x: -306, y: 36}
+      - {x: -306, y: 75}
+    - - {x: -135, y: 83}
+      - {x: -140, y: 76}
+      - {x: -140, y: 37}
+      - {x: -137, y: 32}
+      - {x: -119, y: 32}
+      - {x: -112, y: 36}
+      - {x: -112, y: 70}
+      - {x: -117, y: 83}
+    - - {x: -53, y: 82}
+      - {x: -70, y: 82}
+      - {x: -77, y: 80}
+      - {x: -78, y: 73}
+      - {x: -78, y: 36}
+      - {x: -76, y: 32}
+      - {x: -61, y: 32}
+      - {x: -50, y: 34}
+      - {x: -46, y: 40}
+      - {x: -46, y: 67}
+      - {x: -48, y: 77}
+    - - {x: 7, y: 83}
+      - {x: -7, y: 83}
+      - {x: -11, y: 78}
+      - {x: -11, y: 32}
+      - {x: 9, y: 32}
+      - {x: 16, y: 41}
+      - {x: 16, y: 70}
+      - {x: 15, y: 81}
+    - - {x: 70, y: 83}
+      - {x: 56, y: 83}
+      - {x: 53, y: 79}
+      - {x: 53, y: 60}
+      - {x: 56, y: 33}
+      - {x: 59, y: 32}
+      - {x: 71, y: 32}
+      - {x: 79, y: 46}
+      - {x: 79, y: 69}
+      - {x: 78, y: 81}
+    - - {x: 119, y: 83}
+      - {x: 117, y: 81}
+      - {x: 117, y: 33}
+      - {x: 120, y: 32}
+      - {x: 139, y: 32}
+      - {x: 142, y: 44}
+      - {x: 142, y: 81}
+      - {x: 136, y: 83}
+    - - {x: -262, y: 83}
+      - {x: -269, y: 77}
+      - {x: -269, y: 33}
+      - {x: -243, y: 33}
+      - {x: -243, y: 83}
+    - - {x: -203, y: 83}
+      - {x: -203, y: 34}
+      - {x: -201, y: 33}
+      - {x: -177, y: 33}
+      - {x: -177, y: 83}
+    - - {x: -202, y: 146}
+      - {x: -209, y: 136}
+      - {x: -209, y: 105}
+      - {x: -196, y: 95}
+      - {x: -176, y: 95}
+      - {x: -176, y: 143}
+      - {x: -184, y: 146}
+    - - {x: 54, y: 146}
+      - {x: 50, y: 140}
+      - {x: 48, y: 136}
+      - {x: 48, y: 101}
+      - {x: 50, y: 95}
+      - {x: 68, y: 95}
+      - {x: 81, y: 102}
+      - {x: 81, y: 143}
+      - {x: 72, y: 146}
+    - - {x: -269, y: 147}
+      - {x: -273, y: 142}
+      - {x: -273, y: 105}
+      - {x: -272, y: 98}
+      - {x: -265, y: 96}
+      - {x: -244, y: 96}
+      - {x: -239, y: 105}
+      - {x: -239, y: 144}
+      - {x: -246, y: 147}
+    - - {x: -140, y: 147}
+      - {x: -145, y: 132}
+      - {x: -145, y: 100}
+      - {x: -141, y: 96}
+      - {x: -111, y: 96}
+      - {x: -111, y: 146}
+      - {x: -113, y: 147}
+    - - {x: -11, y: 147}
+      - {x: -17, y: 133}
+      - {x: -17, y: 100}
+      - {x: -16, y: 97}
+      - {x: -14, y: 96}
+      - {x: 15, y: 96}
+      - {x: 17, y: 97}
+      - {x: 17, y: 147}
+    - - {x: 115, y: 147}
+      - {x: 111, y: 137}
+      - {x: 111, y: 101}
+      - {x: 116, y: 96}
+      - {x: 137, y: 96}
+      - {x: 145, y: 104}
+      - {x: 145, y: 127}
+      - {x: 139, y: 147}
+    - - {x: -374, y: 147}
+      - {x: -401, y: 147}
+      - {x: -401, y: 97}
+      - {x: -367, y: 97}
+      - {x: -367, y: 135}
+      - {x: -368, y: 142}
+    - - {x: -330, y: 147}
+      - {x: -334, y: 145}
+      - {x: -337, y: 133}
+      - {x: -337, y: 102}
+      - {x: -333, y: 97}
+      - {x: -307, y: 97}
+      - {x: -303, y: 100}
+      - {x: -303, y: 137}
+      - {x: -308, y: 147}
+    - - {x: -76, y: 147}
+      - {x: -81, y: 136}
+      - {x: -81, y: 101}
+      - {x: -76, y: 97}
+      - {x: -50, y: 97}
+      - {x: -47, y: 101}
+      - {x: -47, y: 143}
+      - {x: -54, y: 147}
+    - - {x: -395, y: 211}
+      - {x: -397, y: 208}
+      - {x: -397, y: 161}
+      - {x: -394, y: 160}
+      - {x: -374, y: 160}
+      - {x: -373, y: 161}
+      - {x: -373, y: 211}
+    - - {x: -334, y: 211}
+      - {x: -334, y: 160}
+      - {x: -310, y: 160}
+      - {x: -305, y: 161}
+      - {x: -305, y: 197}
+      - {x: -310, y: 211}
+    - - {x: -264, y: 211}
+      - {x: -270, y: 205}
+      - {x: -272, y: 196}
+      - {x: -272, y: 170}
+      - {x: -265, y: 160}
+      - {x: -241, y: 160}
+      - {x: -241, y: 209}
+      - {x: -250, y: 211}
+    - - {x: -203, y: 211}
+      - {x: -209, y: 196}
+      - {x: -209, y: 168}
+      - {x: -204, y: 160}
+      - {x: -189, y: 160}
+      - {x: -180, y: 162}
+      - {x: -180, y: 209}
+      - {x: -183, y: 211}
+    - - {x: -138, y: 211}
+      - {x: -140, y: 201}
+      - {x: -140, y: 160}
+      - {x: -116, y: 160}
+      - {x: -109, y: 164}
+      - {x: -109, y: 203}
+      - {x: -114, y: 211}
+    - - {x: -56, y: 211}
+      - {x: -74, y: 211}
+      - {x: -76, y: 200}
+      - {x: -76, y: 160}
+      - {x: -50, y: 160}
+      - {x: -42, y: 170}
+      - {x: -42, y: 188}
+      - {x: -50, y: 205}
+    - - {x: -10, y: 211}
+      - {x: -12, y: 201}
+      - {x: -12, y: 160}
+      - {x: 12, y: 160}
+      - {x: 19, y: 164}
+      - {x: 19, y: 203}
+      - {x: 14, y: 211}
+    - - {x: 56, y: 211}
+      - {x: 47, y: 208}
+      - {x: 47, y: 174}
+      - {x: 53, y: 160}
+      - {x: 63, y: 160}
+      - {x: 76, y: 162}
+      - {x: 76, y: 206}
+      - {x: 73, y: 211}
+    - - {x: -381, y: 224}
+      - {x: -367, y: 224}
+      - {x: -367, y: 275}
+      - {x: -396, y: 275}
+      - {x: -401, y: 271}
+      - {x: -401, y: 224}
+      - {x: -387, y: 224}
+      - {x: -385, y: 228}
+      - {x: -385, y: 232}
+    - - {x: -332, y: 275}
+      - {x: -335, y: 272}
+      - {x: -335, y: 227}
+      - {x: -333, y: 225}
+      - {x: -308, y: 225}
+      - {x: -307, y: 226}
+      - {x: -307, y: 273}
+      - {x: -312, y: 275}
+    - - {x: -268, y: 275}
+      - {x: -269, y: 273}
+      - {x: -269, y: 231}
+      - {x: -266, y: 226}
+      - {x: -256, y: 225}
+      - {x: -243, y: 225}
+      - {x: -243, y: 275}
+    - - {x: -199, y: 275}
+      - {x: -206, y: 273}
+      - {x: -208, y: 264}
+      - {x: -208, y: 245}
+      - {x: -205, y: 234}
+      - {x: -202, y: 226}
+      - {x: -192, y: 225}
+      - {x: -181, y: 225}
+      - {x: -179, y: 227}
+      - {x: -179, y: 272}
+      - {x: -182, y: 275}
+    - - {x: -141, y: 274}
+      - {x: -141, y: 225}
+      - {x: -115, y: 225}
+      - {x: -115, y: 268}
+      - {x: -116, y: 274}
+    - - {x: -74, y: 274}
+      - {x: -77, y: 268}
+      - {x: -77, y: 226}
+      - {x: -73, y: 225}
+      - {x: -52, y: 225}
+      - {x: -51, y: 226}
+      - {x: -51, y: 267}
+      - {x: -53, y: 274}
+    - - {x: -13, y: 274}
+      - {x: -13, y: 225}
+      - {x: 13, y: 225}
+      - {x: 13, y: 268}
+      - {x: 12, y: 274}
+    - - {x: 48, y: 272}
+      - {x: 48, y: 234}
+      - {x: 54, y: 225}
+      - {x: 77, y: 225}
+      - {x: 77, y: 275}
+      - {x: 53, y: 275}
+      - {x: 49, y: 274}
+    - - {x: -391, y: 339}
+      - {x: -395, y: 337}
+      - {x: -395, y: 290}
+      - {x: -391, y: 288}
+      - {x: -371, y: 288}
+      - {x: -371, y: 338}
+      - {x: -372, y: 339}
+    - - {x: -335, y: 339}
+      - {x: -335, y: 288}
+      - {x: -314, y: 288}
+      - {x: -308, y: 291}
+      - {x: -306, y: 301}
+      - {x: -306, y: 337}
+      - {x: -313, y: 339}
+    - - {x: -267, y: 339}
+      - {x: -271, y: 330}
+      - {x: -271, y: 292}
+      - {x: -265, y: 288}
+      - {x: -248, y: 288}
+      - {x: -244, y: 290}
+      - {x: -240, y: 297}
+      - {x: -240, y: 321}
+      - {x: -245, y: 339}
+    - - {x: -202, y: 339}
+      - {x: -204, y: 335}
+      - {x: -204, y: 289}
+      - {x: -198, y: 288}
+      - {x: -175, y: 288}
+      - {x: -175, y: 335}
+      - {x: -183, y: 339}
+    - - {x: -116, y: 288}
+      - {x: -116, y: 327}
+      - {x: -118, y: 339}
+      - {x: -144, y: 339}
+      - {x: -147, y: 338}
+      - {x: -147, y: 288}
+    - - {x: -79, y: 339}
+      - {x: -86, y: 323}
+      - {x: -86, y: 302}
+      - {x: -78, y: 290}
+      - {x: -67, y: 288}
+      - {x: -52, y: 288}
+      - {x: -52, y: 337}
+      - {x: -57, y: 339}
+    - - {x: 12, y: 288}
+      - {x: 12, y: 327}
+      - {x: 10, y: 339}
+      - {x: -16, y: 339}
+      - {x: -19, y: 338}
+      - {x: -19, y: 288}
+    - - {x: 70, y: 339}
+      - {x: 57, y: 339}
+      - {x: 52, y: 332}
+      - {x: 52, y: 289}
+      - {x: 57, y: 288}
+      - {x: 76, y: 288}
+      - {x: 81, y: 300}
+      - {x: 81, y: 319}
+      - {x: 77, y: 333}
+    - - {x: -331, y: 401}
+      - {x: -334, y: 397}
+      - {x: -334, y: 350}
+      - {x: -304, y: 350}
+      - {x: -304, y: 400}
+      - {x: -306, y: 401}
+    - - {x: -268, y: 357}
+      - {x: -259, y: 350}
+      - {x: -249, y: 350}
+      - {x: -242, y: 352}
+      - {x: -242, y: 402}
+      - {x: -268, y: 402}
+    - - {x: -204, y: 354}
+      - {x: -194, y: 350}
+      - {x: -178, y: 350}
+      - {x: -178, y: 402}
+      - {x: -202, y: 402}
+      - {x: -204, y: 401}
+    - - {x: -139, y: 401}
+      - {x: -139, y: 355}
+      - {x: -131, y: 350}
+      - {x: -114, y: 350}
+      - {x: -113, y: 352}
+      - {x: -113, y: 401}
+    - - {x: -75, y: 401}
+      - {x: -75, y: 353}
+      - {x: -68, y: 350}
+      - {x: -52, y: 350}
+      - {x: -49, y: 360}
+      - {x: -49, y: 396}
+      - {x: -50, y: 401}
+    - - {x: -11, y: 401}
+      - {x: -11, y: 355}
+      - {x: -3, y: 350}
+      - {x: 14, y: 350}
+      - {x: 15, y: 352}
+      - {x: 15, y: 401}
+    - - {x: 52, y: 402}
+      - {x: 52, y: 370}
+      - {x: 53, y: 359}
+      - {x: 57, y: 350}
+      - {x: 78, y: 350}
+      - {x: 78, y: 398}
+      - {x: 76, y: 402}
+    - - {x: -373, y: 402}
+      - {x: -393, y: 402}
+      - {x: -398, y: 400}
+      - {x: -401, y: 388}
+      - {x: -401, y: 358}
+      - {x: -395, y: 352}
+      - {x: -367, y: 352}
+      - {x: -367, y: 390}
+    - - {x: -397, y: 467}
+      - {x: -397, y: 416}
+      - {x: -377, y: 416}
+      - {x: -373, y: 418}
+      - {x: -373, y: 463}
+      - {x: -376, y: 467}
+    - - {x: -330, y: 467}
+      - {x: -334, y: 458}
+      - {x: -334, y: 422}
+      - {x: -333, y: 418}
+      - {x: -327, y: 416}
+      - {x: -309, y: 416}
+      - {x: -307, y: 417}
+      - {x: -307, y: 467}
+    - - {x: -266, y: 467}
+      - {x: -269, y: 464}
+      - {x: -269, y: 417}
+      - {x: -267, y: 416}
+      - {x: -248, y: 416}
+      - {x: -244, y: 418}
+      - {x: -244, y: 465}
+      - {x: -249, y: 467}
+    - - {x: -208, y: 428}
+      - {x: -201, y: 416}
+      - {x: -178, y: 416}
+      - {x: -178, y: 465}
+      - {x: -182, y: 467}
+      - {x: -203, y: 467}
+      - {x: -208, y: 466}
+    - - {x: -140, y: 467}
+      - {x: -144, y: 466}
+      - {x: -149, y: 452}
+      - {x: -149, y: 436}
+      - {x: -137, y: 416}
+      - {x: -124, y: 416}
+      - {x: -114, y: 418}
+      - {x: -112, y: 431}
+      - {x: -112, y: 453}
+      - {x: -117, y: 467}
+    - - {x: -72, y: 467}
+      - {x: -78, y: 466}
+      - {x: -85, y: 459}
+      - {x: -85, y: 444}
+      - {x: -74, y: 416}
+      - {x: -57, y: 416}
+      - {x: -50, y: 418}
+      - {x: -48, y: 436}
+      - {x: -48, y: 458}
+      - {x: -53, y: 467}
+    - - {x: -11, y: 467}
+      - {x: -18, y: 451}
+      - {x: -18, y: 427}
+      - {x: -10, y: 416}
+      - {x: 14, y: 416}
+      - {x: 14, y: 466}
+      - {x: 12, y: 467}
+    - - {x: -381, y: 480}
+      - {x: -373, y: 480}
+      - {x: -367, y: 481}
+      - {x: -367, y: 516}
+      - {x: -373, y: 531}
+      - {x: -399, y: 531}
+      - {x: -401, y: 530}
+      - {x: -401, y: 480}
+      - {x: -387, y: 480}
+      - {x: -385, y: 484}
+      - {x: -385, y: 488}
+    - - {x: -315, y: 480}
+      - {x: -309, y: 480}
+      - {x: -305, y: 482}
+      - {x: -303, y: 488}
+      - {x: -303, y: 519}
+      - {x: -310, y: 531}
+      - {x: -330, y: 531}
+      - {x: -337, y: 513}
+      - {x: -337, y: 487}
+      - {x: -336, y: 481}
+      - {x: -332, y: 480}
+      - {x: -323, y: 480}
+      - {x: -321, y: 484}
+      - {x: -321, y: 488}
+      - {x: -319, y: 484}
+    - - {x: -251, y: 480}
+      - {x: -240, y: 480}
+      - {x: -240, y: 531}
+      - {x: -272, y: 531}
+      - {x: -272, y: 480}
+      - {x: -261, y: 480}
+      - {x: -257, y: 484}
+      - {x: -257, y: 488}
+      - {x: -255, y: 484}
+    - - {x: -189, y: 480}
+      - {x: -181, y: 480}
+      - {x: -175, y: 481}
+      - {x: -172, y: 487}
+      - {x: -172, y: 513}
+      - {x: -181, y: 531}
+      - {x: -204, y: 531}
+      - {x: -212, y: 513}
+      - {x: -212, y: 486}
+      - {x: -209, y: 481}
+      - {x: -204, y: 480}
+      - {x: -195, y: 480}
+      - {x: -193, y: 484}
+      - {x: -193, y: 488}
+    - - {x: -112, y: 480}
+      - {x: -101, y: 492}
+      - {x: -101, y: 525}
+      - {x: -107, y: 531}
+      - {x: -141, y: 531}
+      - {x: -155, y: 524}
+      - {x: -155, y: 495}
+      - {x: -148, y: 480}
+      - {x: -133, y: 480}
+      - {x: -129, y: 484}
+      - {x: -129, y: 482}
+      - {x: -123, y: 480}
+    - - {x: -59, y: 480}
+      - {x: -47, y: 480}
+      - {x: -38, y: 505}
+      - {x: -38, y: 523}
+      - {x: -39, y: 531}
+      - {x: -73, y: 531}
+      - {x: -86, y: 526}
+      - {x: -90, y: 519}
+      - {x: -90, y: 510}
+      - {x: -78, y: 480}
+      - {x: -69, y: 480}
+      - {x: -65, y: 484}
+      - {x: -65, y: 488}
+      - {x: -63, y: 484}
+    - - {x: 15, y: 480}
+      - {x: 19, y: 489}
+      - {x: 19, y: 510}
+      - {x: 14, y: 525}
+      - {x: 10, y: 531}
+      - {x: -9, y: 531}
+      - {x: -19, y: 515}
+      - {x: -19, y: 480}
+      - {x: -3, y: 480}
+      - {x: -1, y: 484}
+      - {x: -1, y: 482}
+      - {x: 5, y: 480}
+    - - {x: -391, y: 595}
+      - {x: -395, y: 591}
+      - {x: -395, y: 546}
+      - {x: -392, y: 544}
+      - {x: -371, y: 544}
+      - {x: -371, y: 595}
+    - - {x: -333, y: 595}
+      - {x: -333, y: 544}
+      - {x: -314, y: 544}
+      - {x: -308, y: 547}
+      - {x: -306, y: 550}
+      - {x: -306, y: 585}
+      - {x: -309, y: 595}
+    - - {x: -266, y: 595}
+      - {x: -268, y: 594}
+      - {x: -268, y: 544}
+      - {x: -245, y: 544}
+      - {x: -243, y: 547}
+      - {x: -243, y: 594}
+      - {x: -248, y: 595}
+    - - {x: -182, y: 595}
+      - {x: -201, y: 595}
+      - {x: -206, y: 584}
+      - {x: -206, y: 544}
+      - {x: -182, y: 544}
+      - {x: -176, y: 562}
+      - {x: -176, y: 585}
+      - {x: -178, y: 593}
+    - - {x: -136, y: 595}
+      - {x: -144, y: 585}
+      - {x: -144, y: 544}
+      - {x: -122, y: 544}
+      - {x: -116, y: 547}
+      - {x: -107, y: 558}
+      - {x: -107, y: 590}
+      - {x: -109, y: 595}
+    - - {x: -58, y: 595}
+      - {x: -71, y: 595}
+      - {x: -80, y: 586}
+      - {x: -80, y: 566}
+      - {x: -75, y: 544}
+      - {x: -56, y: 544}
+      - {x: -52, y: 547}
+      - {x: -43, y: 576}
+      - {x: -43, y: 584}
+    - - {x: -14, y: 595}
+      - {x: -14, y: 544}
+      - {x: 7, y: 544}
+      - {x: 13, y: 546}
+      - {x: 18, y: 553}
+      - {x: 18, y: 593}
+      - {x: 15, y: 595}
+    - - {x: -375, y: 658}
+      - {x: -391, y: 658}
+      - {x: -398, y: 656}
+      - {x: -401, y: 640}
+      - {x: -401, y: 608}
+      - {x: -368, y: 608}
+      - {x: -367, y: 610}
+      - {x: -367, y: 644}
+      - {x: -370, y: 652}
+    - - {x: -311, y: 658}
+      - {x: -326, y: 658}
+      - {x: -334, y: 656}
+      - {x: -336, y: 649}
+      - {x: -336, y: 618}
+      - {x: -334, y: 608}
+      - {x: -306, y: 608}
+      - {x: -304, y: 613}
+      - {x: -304, y: 648}
+      - {x: -306, y: 652}
+    - - {x: -263, y: 658}
+      - {x: -270, y: 656}
+      - {x: -272, y: 643}
+      - {x: -272, y: 608}
+      - {x: -240, y: 608}
+      - {x: -240, y: 653}
+      - {x: -245, y: 658}
+    - - {x: -203, y: 658}
+      - {x: -206, y: 656}
+      - {x: -212, y: 641}
+      - {x: -212, y: 625}
+      - {x: -207, y: 608}
+      - {x: -173, y: 608}
+      - {x: -172, y: 610}
+      - {x: -172, y: 649}
+      - {x: -177, y: 658}
+    - - {x: -141, y: 658}
+      - {x: -155, y: 653}
+      - {x: -155, y: 613}
+      - {x: -152, y: 608}
+      - {x: -116, y: 608}
+      - {x: -111, y: 610}
+      - {x: -101, y: 624}
+      - {x: -101, y: 646}
+      - {x: -111, y: 658}
+    - - {x: -75, y: 658}
+      - {x: -86, y: 653}
+      - {x: -90, y: 648}
+      - {x: -90, y: 633}
+      - {x: -79, y: 608}
+      - {x: -49, y: 608}
+      - {x: -38, y: 632}
+      - {x: -38, y: 655}
+      - {x: -40, y: 658}
+    - - {x: -9, y: 658}
+      - {x: -14, y: 656}
+      - {x: -20, y: 644}
+      - {x: -20, y: 622}
+      - {x: -15, y: 608}
+      - {x: 20, y: 608}
+      - {x: 20, y: 642}
+      - {x: 11, y: 658}
+    physicsShape:
+    - - {x: -80, y: -672}
+      - {x: -42, y: -672}
+      - {x: -42, y: -636}
+      - {x: -43, y: -634}
+      - {x: -78, y: -634}
+      - {x: -80, y: -636}
+    - - {x: -379, y: -672}
+      - {x: -370, y: -672}
+      - {x: -367, y: -666}
+      - {x: -367, y: -637}
+      - {x: -370, y: -623}
+      - {x: -376, y: -621}
+      - {x: -396, y: -621}
+      - {x: -401, y: -625}
+      - {x: -401, y: -672}
+      - {x: -387, y: -672}
+      - {x: -385, y: -668}
+      - {x: -385, y: -664}
+      - {x: -383, y: -668}
+    - - {x: -330, y: -622}
+      - {x: -336, y: -643}
+      - {x: -336, y: -668}
+      - {x: -332, y: -672}
+      - {x: -301, y: -672}
+      - {x: -301, y: -624}
+      - {x: -306, y: -622}
+    - - {x: -268, y: -629}
+      - {x: -271, y: -635}
+      - {x: -271, y: -672}
+      - {x: -237, y: -672}
+      - {x: -237, y: -646}
+      - {x: -241, y: -629}
+    - - {x: -180, y: -633}
+      - {x: -202, y: -633}
+      - {x: -207, y: -656}
+      - {x: -207, y: -669}
+      - {x: -206, y: -671}
+      - {x: -174, y: -671}
+      - {x: -173, y: -668}
+      - {x: -173, y: -644}
+      - {x: -175, y: -634}
+    - - {x: -117, y: -639}
+      - {x: -137, y: -639}
+      - {x: -143, y: -647}
+      - {x: -143, y: -671}
+      - {x: -110, y: -671}
+      - {x: -108, y: -668}
+      - {x: -108, y: -655}
+      - {x: -112, y: -641}
+    - - {x: -398, y: -557}
+      - {x: -398, y: -605}
+      - {x: -396, y: -608}
+      - {x: -377, y: -608}
+      - {x: -374, y: -607}
+      - {x: -374, y: -559}
+      - {x: -376, y: -557}
+    - - {x: -335, y: -557}
+      - {x: -335, y: -608}
+      - {x: -306, y: -608}
+      - {x: -306, y: -557}
+    - - {x: -251, y: -557}
+      - {x: -268, y: -557}
+      - {x: -273, y: -561}
+      - {x: -273, y: -608}
+      - {x: -242, y: -608}
+      - {x: -237, y: -598}
+      - {x: -237, y: -581}
+      - {x: -244, y: -559}
+    - - {x: -210, y: -557}
+      - {x: -210, y: -607}
+      - {x: -206, y: -608}
+      - {x: -173, y: -608}
+      - {x: -171, y: -606}
+      - {x: -171, y: -574}
+      - {x: -177, y: -557}
+    - - {x: -116, y: -557}
+      - {x: -146, y: -557}
+      - {x: -146, y: -608}
+      - {x: -124, y: -608}
+      - {x: -116, y: -605}
+      - {x: -107, y: -589}
+      - {x: -107, y: -566}
+    - - {x: -52, y: -559}
+      - {x: -57, y: -557}
+      - {x: -78, y: -557}
+      - {x: -78, y: -608}
+      - {x: -59, y: -608}
+      - {x: -52, y: -605}
+      - {x: -42, y: -580}
+      - {x: -42, y: -572}
+    - - {x: 20, y: -583}
+      - {x: 22, y: -578}
+      - {x: 22, y: -571}
+      - {x: 5, y: -557}
+      - {x: -12, y: -557}
+      - {x: -16, y: -566}
+      - {x: -16, y: -599}
+      - {x: -15, y: -602}
+      - {x: -12, y: -608}
+      - {x: -2, y: -608}
+      - {x: 8, y: -606}
+      - {x: 10, y: -604}
+      - {x: 10, y: -601}
+    - - {x: 47, y: -557}
+      - {x: 45, y: -562}
+      - {x: 45, y: -586}
+      - {x: 51, y: -608}
+      - {x: 66, y: -608}
+      - {x: 76, y: -605}
+      - {x: 85, y: -584}
+      - {x: 85, y: -562}
+      - {x: 73, y: -557}
+    - - {x: 140, y: -559}
+      - {x: 134, y: -557}
+      - {x: 117, y: -557}
+      - {x: 114, y: -560}
+      - {x: 107, y: -576}
+      - {x: 107, y: -587}
+      - {x: 116, y: -608}
+      - {x: 126, y: -608}
+      - {x: 136, y: -606}
+      - {x: 140, y: -605}
+      - {x: 149, y: -584}
+      - {x: 149, y: -570}
+    - - {x: 174, y: -557}
+      - {x: 174, y: -603}
+      - {x: 178, y: -608}
+      - {x: 193, y: -608}
+      - {x: 205, y: -606}
+      - {x: 213, y: -585}
+      - {x: 213, y: -570}
+      - {x: 204, y: -557}
+    - - {x: 243, y: -557}
+      - {x: 239, y: -565}
+      - {x: 239, y: -602}
+      - {x: 242, y: -608}
+      - {x: 268, y: -608}
+      - {x: 277, y: -588}
+      - {x: 277, y: -570}
+      - {x: 264, y: -557}
+    - - {x: 312, y: -557}
+      - {x: 307, y: -560}
+      - {x: 307, y: -608}
+      - {x: 331, y: -608}
+      - {x: 341, y: -589}
+      - {x: 341, y: -569}
+      - {x: 328, y: -557}
+    - - {x: 371, y: -557}
+      - {x: 367, y: -565}
+      - {x: 367, y: -602}
+      - {x: 370, y: -608}
+      - {x: 396, y: -608}
+      - {x: 405, y: -588}
+      - {x: 405, y: -570}
+      - {x: 392, y: -557}
+    - - {x: -382, y: -544}
+      - {x: -374, y: -544}
+      - {x: -368, y: -543}
+      - {x: -368, y: -510}
+      - {x: -375, y: -493}
+      - {x: -402, y: -493}
+      - {x: -402, y: -544}
+      - {x: -388, y: -544}
+      - {x: -386, y: -540}
+      - {x: -386, y: -536}
+    - - {x: -208, y: -493}
+      - {x: -208, y: -544}
+      - {x: -186, y: -544}
+      - {x: -182, y: -543}
+      - {x: -180, y: -533}
+      - {x: -180, y: -497}
+      - {x: -181, y: -493}
+    - - {x: -136, y: -493}
+      - {x: -141, y: -496}
+      - {x: -143, y: -501}
+      - {x: -143, y: -534}
+      - {x: -137, y: -544}
+      - {x: -122, y: -544}
+      - {x: -119, y: -542}
+      - {x: -116, y: -523}
+      - {x: -116, y: -500}
+      - {x: -120, y: -493}
+    - - {x: -79, y: -493}
+      - {x: -79, y: -532}
+      - {x: -74, y: -544}
+      - {x: -57, y: -544}
+      - {x: -54, y: -542}
+      - {x: -52, y: -527}
+      - {x: -52, y: -495}
+      - {x: -57, y: -493}
+    - - {x: -11, y: -493}
+      - {x: -15, y: -494}
+      - {x: -15, y: -543}
+      - {x: -13, y: -544}
+      - {x: 9, y: -544}
+      - {x: 12, y: -528}
+      - {x: 12, y: -498}
+      - {x: 9, y: -493}
+    - - {x: 55, y: -493}
+      - {x: 49, y: -495}
+      - {x: 48, y: -496}
+      - {x: 48, y: -530}
+      - {x: 54, y: -544}
+      - {x: 72, y: -544}
+      - {x: 74, y: -543}
+      - {x: 76, y: -526}
+      - {x: 76, y: -496}
+      - {x: 74, y: -493}
+    - - {x: 115, y: -493}
+      - {x: 112, y: -498}
+      - {x: 112, y: -524}
+      - {x: 116, y: -539}
+      - {x: 121, y: -544}
+      - {x: 133, y: -544}
+      - {x: 138, y: -543}
+      - {x: 140, y: -529}
+      - {x: 140, y: -496}
+      - {x: 135, y: -493}
+    - - {x: 177, y: -493}
+      - {x: 177, y: -534}
+      - {x: 183, y: -544}
+      - {x: 200, y: -544}
+      - {x: 202, y: -543}
+      - {x: 204, y: -525}
+      - {x: 204, y: -500}
+      - {x: 202, y: -493}
+    - - {x: 244, y: -493}
+      - {x: 240, y: -501}
+      - {x: 240, y: -535}
+      - {x: 248, y: -544}
+      - {x: 263, y: -544}
+      - {x: 266, y: -543}
+      - {x: 268, y: -529}
+      - {x: 268, y: -500}
+      - {x: 264, y: -493}
+    - - {x: 306, y: -493}
+      - {x: 306, y: -541}
+      - {x: 311, y: -544}
+      - {x: 325, y: -544}
+      - {x: 330, y: -543}
+      - {x: 332, y: -529}
+      - {x: 332, y: -498}
+      - {x: 330, y: -493}
+    - - {x: 372, y: -493}
+      - {x: 368, y: -501}
+      - {x: 368, y: -535}
+      - {x: 376, y: -544}
+      - {x: 391, y: -544}
+      - {x: 394, y: -543}
+      - {x: 396, y: -529}
+      - {x: 396, y: -500}
+      - {x: 392, y: -493}
+    - - {x: -328, y: -493}
+      - {x: -334, y: -499}
+      - {x: -336, y: -513}
+      - {x: -336, y: -531}
+      - {x: -333, y: -543}
+      - {x: -308, y: -543}
+      - {x: -307, y: -542}
+      - {x: -307, y: -499}
+      - {x: -313, y: -493}
+    - - {x: -267, y: -493}
+      - {x: -272, y: -494}
+      - {x: -272, y: -533}
+      - {x: -268, y: -543}
+      - {x: -248, y: -543}
+      - {x: -244, y: -534}
+      - {x: -244, y: -496}
+      - {x: -245, y: -493}
+    - - {x: -390, y: -429}
+      - {x: -394, y: -435}
+      - {x: -394, y: -478}
+      - {x: -391, y: -480}
+      - {x: -377, y: -480}
+      - {x: -371, y: -477}
+      - {x: -370, y: -472}
+      - {x: -370, y: -435}
+      - {x: -376, y: -429}
+    - - {x: -324, y: -429}
+      - {x: -331, y: -436}
+      - {x: -334, y: -455}
+      - {x: -334, y: -471}
+      - {x: -332, y: -477}
+      - {x: -327, y: -480}
+      - {x: -313, y: -480}
+      - {x: -307, y: -477}
+      - {x: -305, y: -472}
+      - {x: -305, y: -443}
+      - {x: -308, y: -429}
+    - - {x: -245, y: -429}
+      - {x: -265, y: -429}
+      - {x: -275, y: -449}
+      - {x: -275, y: -468}
+      - {x: -270, y: -480}
+      - {x: -246, y: -480}
+      - {x: -239, y: -464}
+      - {x: -239, y: -449}
+      - {x: -241, y: -431}
+    - - {x: -204, y: -429}
+      - {x: -213, y: -445}
+      - {x: -213, y: -462}
+      - {x: -210, y: -464}
+      - {x: -204, y: -477}
+      - {x: -196, y: -480}
+      - {x: -174, y: -480}
+      - {x: -174, y: -429}
+    - - {x: -143, y: -429}
+      - {x: -149, y: -435}
+      - {x: -149, y: -468}
+      - {x: -140, y: -480}
+      - {x: -113, y: -480}
+      - {x: -112, y: -479}
+      - {x: -110, y: -472}
+      - {x: -110, y: -440}
+      - {x: -117, y: -429}
+    - - {x: -70, y: -429}
+      - {x: -86, y: -440}
+      - {x: -86, y: -458}
+      - {x: -75, y: -480}
+      - {x: -52, y: -480}
+      - {x: -50, y: -476}
+      - {x: -50, y: -432}
+      - {x: -56, y: -429}
+    - - {x: -14, y: -429}
+      - {x: -22, y: -436}
+      - {x: -22, y: -456}
+      - {x: -9, y: -479}
+      - {x: -4, y: -480}
+      - {x: 12, y: -480}
+      - {x: 16, y: -475}
+      - {x: 16, y: -429}
+    - - {x: 58, y: -429}
+      - {x: 43, y: -439}
+      - {x: 43, y: -466}
+      - {x: 48, y: -479}
+      - {x: 50, y: -480}
+      - {x: 79, y: -480}
+      - {x: 83, y: -469}
+      - {x: 83, y: -437}
+      - {x: 73, y: -429}
+    - - {x: 121, y: -429}
+      - {x: 107, y: -445}
+      - {x: 107, y: -453}
+      - {x: 117, y: -477}
+      - {x: 127, y: -480}
+      - {x: 140, y: -480}
+      - {x: 149, y: -465}
+      - {x: 149, y: -442}
+      - {x: 143, y: -429}
+    - - {x: 171, y: -446}
+      - {x: 171, y: -456}
+      - {x: 182, y: -480}
+      - {x: 207, y: -480}
+      - {x: 210, y: -476}
+      - {x: 210, y: -436}
+      - {x: 203, y: -429}
+      - {x: 187, y: -429}
+      - {x: 181, y: -435}
+    - - {x: 272, y: -431}
+      - {x: 265, y: -429}
+      - {x: 247, y: -429}
+      - {x: 235, y: -440}
+      - {x: 235, y: -466}
+      - {x: 242, y: -480}
+      - {x: 268, y: -480}
+      - {x: 271, y: -473}
+      - {x: 273, y: -460}
+      - {x: 273, y: -446}
+    - - {x: 306, y: -429}
+      - {x: 299, y: -438}
+      - {x: 299, y: -468}
+      - {x: 305, y: -480}
+      - {x: 330, y: -480}
+      - {x: 333, y: -479}
+      - {x: 333, y: -430}
+      - {x: 332, y: -429}
+    - - {x: 400, y: -431}
+      - {x: 393, y: -429}
+      - {x: 375, y: -429}
+      - {x: 363, y: -440}
+      - {x: 363, y: -466}
+      - {x: 370, y: -480}
+      - {x: 396, y: -480}
+      - {x: 399, y: -473}
+      - {x: 401, y: -460}
+      - {x: 401, y: -446}
+    - - {x: -313, y: -367}
+      - {x: -328, y: -367}
+      - {x: -329, y: -368}
+      - {x: -334, y: -374}
+      - {x: -335, y: -377}
+      - {x: -335, y: -413}
+      - {x: -330, y: -418}
+      - {x: -308, y: -418}
+      - {x: -305, y: -415}
+      - {x: -305, y: -381}
+      - {x: -306, y: -373}
+    - - {x: -267, y: -366}
+      - {x: -269, y: -370}
+      - {x: -269, y: -394}
+      - {x: -268, y: -411}
+      - {x: -260, y: -418}
+      - {x: -243, y: -418}
+      - {x: -243, y: -367}
+      - {x: -245, y: -366}
+    - - {x: -205, y: -366}
+      - {x: -206, y: -370}
+      - {x: -206, y: -398}
+      - {x: -203, y: -410}
+      - {x: -194, y: -418}
+      - {x: -180, y: -418}
+      - {x: -180, y: -367}
+      - {x: -186, y: -366}
+    - - {x: -141, y: -366}
+      - {x: -142, y: -369}
+      - {x: -142, y: -412}
+      - {x: -131, y: -418}
+      - {x: -118, y: -418}
+      - {x: -111, y: -400}
+      - {x: -111, y: -370}
+      - {x: -118, y: -366}
+    - - {x: -51, y: -372}
+      - {x: -56, y: -366}
+      - {x: -72, y: -366}
+      - {x: -78, y: -368}
+      - {x: -78, y: -412}
+      - {x: -67, y: -418}
+      - {x: -54, y: -418}
+      - {x: -52, y: -411}
+      - {x: -49, y: -393}
+      - {x: -49, y: -384}
+    - - {x: -14, y: -366}
+      - {x: -14, y: -412}
+      - {x: -5, y: -418}
+      - {x: 13, y: -418}
+      - {x: 16, y: -409}
+      - {x: 16, y: -371}
+      - {x: 12, y: -366}
+    - - {x: 74, y: -366}
+      - {x: 56, y: -366}
+      - {x: 50, y: -367}
+      - {x: 50, y: -412}
+      - {x: 61, y: -418}
+      - {x: 74, y: -418}
+      - {x: 76, y: -411}
+      - {x: 81, y: -395}
+      - {x: 81, y: -383}
+    - - {x: 145, y: -370}
+      - {x: 136, y: -366}
+      - {x: 114, y: -366}
+      - {x: 114, y: -414}
+      - {x: 124, y: -418}
+      - {x: 137, y: -418}
+      - {x: 146, y: -397}
+      - {x: 146, y: -377}
+    - - {x: 178, y: -366}
+      - {x: 178, y: -412}
+      - {x: 188, y: -418}
+      - {x: 203, y: -418}
+      - {x: 209, y: -406}
+      - {x: 209, y: -389}
+      - {x: 202, y: -366}
+    - - {x: 246, y: -366}
+      - {x: 242, y: -367}
+      - {x: 242, y: -398}
+      - {x: 249, y: -418}
+      - {x: 267, y: -418}
+      - {x: 268, y: -414}
+      - {x: 268, y: -372}
+      - {x: 266, y: -366}
+    - - {x: 310, y: -366}
+      - {x: 306, y: -373}
+      - {x: 306, y: -397}
+      - {x: 313, y: -418}
+      - {x: 328, y: -418}
+      - {x: 332, y: -415}
+      - {x: 332, y: -369}
+      - {x: 328, y: -366}
+    - - {x: 374, y: -366}
+      - {x: 370, y: -367}
+      - {x: 370, y: -398}
+      - {x: 377, y: -418}
+      - {x: 395, y: -418}
+      - {x: 396, y: -414}
+      - {x: 396, y: -372}
+      - {x: 394, y: -366}
+    - - {x: -395, y: -366}
+      - {x: -402, y: -370}
+      - {x: -402, y: -416}
+      - {x: -376, y: -416}
+      - {x: -368, y: -410}
+      - {x: -368, y: -376}
+      - {x: -372, y: -366}
+    - - {x: -397, y: -301}
+      - {x: -397, y: -352}
+      - {x: -377, y: -352}
+      - {x: -373, y: -349}
+      - {x: -373, y: -305}
+      - {x: -376, y: -301}
+    - - {x: -311, y: -303}
+      - {x: -327, y: -303}
+      - {x: -330, y: -306}
+      - {x: -332, y: -329}
+      - {x: -332, y: -351}
+      - {x: -331, y: -352}
+      - {x: -309, y: -352}
+      - {x: -303, y: -347}
+      - {x: -303, y: -310}
+      - {x: -305, y: -305}
+    - - {x: -270, y: -301}
+      - {x: -270, y: -352}
+      - {x: -246, y: -352}
+      - {x: -242, y: -351}
+      - {x: -242, y: -303}
+      - {x: -247, y: -301}
+    - - {x: -181, y: -301}
+      - {x: -197, y: -301}
+      - {x: -204, y: -303}
+      - {x: -207, y: -326}
+      - {x: -207, y: -341}
+      - {x: -201, y: -352}
+      - {x: -180, y: -352}
+      - {x: -169, y: -336}
+      - {x: -169, y: -321}
+      - {x: -178, y: -305}
+    - - {x: -142, y: -301}
+      - {x: -142, y: -352}
+      - {x: -116, y: -352}
+      - {x: -112, y: -351}
+      - {x: -102, y: -337}
+      - {x: -102, y: -314}
+      - {x: -112, y: -301}
+    - - {x: -71, y: -301}
+      - {x: -78, y: -323}
+      - {x: -78, y: -347}
+      - {x: -75, y: -352}
+      - {x: -50, y: -352}
+      - {x: -41, y: -331}
+      - {x: -41, y: -307}
+      - {x: -52, y: -301}
+    - - {x: -381, y: -288}
+      - {x: -367, y: -288}
+      - {x: -367, y: -238}
+      - {x: -369, y: -237}
+      - {x: -395, y: -237}
+      - {x: -401, y: -254}
+      - {x: -401, y: -287}
+      - {x: -397, y: -288}
+      - {x: -387, y: -288}
+      - {x: -385, y: -284}
+      - {x: -385, y: -280}
+    - - {x: -313, y: -237}
+      - {x: -330, y: -237}
+      - {x: -334, y: -243}
+      - {x: -335, y: -251}
+      - {x: -335, y: -288}
+      - {x: -305, y: -288}
+      - {x: -305, y: -239}
+    - - {x: -265, y: -239}
+      - {x: -271, y: -244}
+      - {x: -271, y: -288}
+      - {x: -241, y: -288}
+      - {x: -241, y: -247}
+      - {x: -245, y: -239}
+    - - {x: -198, y: -238}
+      - {x: -203, y: -241}
+      - {x: -206, y: -257}
+      - {x: -206, y: -288}
+      - {x: -176, y: -288}
+      - {x: -176, y: -246}
+      - {x: -180, y: -238}
+    - - {x: -114, y: -237}
+      - {x: -135, y: -237}
+      - {x: -142, y: -239}
+      - {x: -142, y: -288}
+      - {x: -115, y: -288}
+      - {x: -109, y: -287}
+      - {x: -103, y: -270}
+      - {x: -103, y: -261}
+      - {x: -111, y: -243}
+    - - {x: -72, y: -237}
+      - {x: -79, y: -253}
+      - {x: -79, y: -282}
+      - {x: -77, y: -288}
+      - {x: -50, y: -288}
+      - {x: -36, y: -279}
+      - {x: -36, y: -252}
+      - {x: -45, y: -237}
+    - - {x: -392, y: -173}
+      - {x: -395, y: -175}
+      - {x: -395, y: -223}
+      - {x: -392, y: -224}
+      - {x: -375, y: -224}
+      - {x: -371, y: -215}
+      - {x: -371, y: -174}
+      - {x: -375, y: -173}
+    - - {x: -329, y: -175}
+      - {x: -336, y: -177}
+      - {x: -337, y: -188}
+      - {x: -337, y: -217}
+      - {x: -332, y: -224}
+      - {x: -308, y: -224}
+      - {x: -308, y: -176}
+      - {x: -310, y: -175}
+    - - {x: -270, y: -173}
+      - {x: -270, y: -224}
+      - {x: -245, y: -224}
+      - {x: -242, y: -220}
+      - {x: -242, y: -189}
+      - {x: -248, y: -173}
+    - - {x: -187, y: -173}
+      - {x: -207, y: -173}
+      - {x: -215, y: -187}
+      - {x: -215, y: -215}
+      - {x: -209, y: -224}
+      - {x: -182, y: -224}
+      - {x: -177, y: -216}
+      - {x: -177, y: -189}
+      - {x: -179, y: -178}
+    - - {x: -141, y: -173}
+      - {x: -145, y: -175}
+      - {x: -154, y: -183}
+      - {x: -154, y: -203}
+      - {x: -143, y: -224}
+      - {x: -114, y: -224}
+      - {x: -114, y: -189}
+      - {x: -121, y: -173}
+    - - {x: -77, y: -173}
+      - {x: -81, y: -175}
+      - {x: -87, y: -182}
+      - {x: -87, y: -204}
+      - {x: -79, y: -224}
+      - {x: -50, y: -224}
+      - {x: -50, y: -189}
+      - {x: -56, y: -173}
+    - - {x: -332, y: -111}
+      - {x: -335, y: -116}
+      - {x: -335, y: -160}
+      - {x: -333, y: -161}
+      - {x: -305, y: -161}
+      - {x: -305, y: -115}
+      - {x: -312, y: -111}
+    - - {x: -267, y: -111}
+      - {x: -270, y: -112}
+      - {x: -270, y: -161}
+      - {x: -241, y: -161}
+      - {x: -241, y: -116}
+      - {x: -244, y: -111}
+    - - {x: -203, y: -110}
+      - {x: -207, y: -121}
+      - {x: -207, y: -161}
+      - {x: -177, y: -161}
+      - {x: -176, y: -159}
+      - {x: -176, y: -111}
+      - {x: -178, y: -110}
+    - - {x: -136, y: -110}
+      - {x: -144, y: -114}
+      - {x: -144, y: -161}
+      - {x: -111, y: -161}
+      - {x: -104, y: -136}
+      - {x: -104, y: -120}
+      - {x: -112, y: -110}
+    - - {x: -75, y: -110}
+      - {x: -79, y: -114}
+      - {x: -80, y: -127}
+      - {x: -80, y: -160}
+      - {x: -78, y: -161}
+      - {x: -44, y: -161}
+      - {x: -40, y: -160}
+      - {x: -37, y: -146}
+      - {x: -37, y: -112}
+      - {x: -43, y: -110}
+    - - {x: -394, y: -110}
+      - {x: -398, y: -112}
+      - {x: -401, y: -127}
+      - {x: -401, y: -152}
+      - {x: -396, y: -160}
+      - {x: -369, y: -160}
+      - {x: -367, y: -158}
+      - {x: -367, y: -118}
+      - {x: -371, y: -110}
+    - - {x: -395, y: -45}
+      - {x: -397, y: -48}
+      - {x: -397, y: -95}
+      - {x: -394, y: -96}
+      - {x: -374, y: -96}
+      - {x: -373, y: -95}
+      - {x: -373, y: -45}
+    - - {x: -309, y: -46}
+      - {x: -334, y: -46}
+      - {x: -334, y: -96}
+      - {x: -307, y: -96}
+      - {x: -305, y: -94}
+      - {x: -305, y: -59}
+    - - {x: -137, y: -45}
+      - {x: -144, y: -60}
+      - {x: -144, y: -91}
+      - {x: -143, y: -96}
+      - {x: -116, y: -96}
+      - {x: -116, y: -46}
+      - {x: -117, y: -45}
+    - - {x: -77, y: -46}
+      - {x: -82, y: -62}
+      - {x: -82, y: -85}
+      - {x: -74, y: -96}
+      - {x: -50, y: -96}
+      - {x: -50, y: -47}
+      - {x: -55, y: -46}
+    - - {x: -11, y: -45}
+      - {x: -16, y: -60}
+      - {x: -16, y: -91}
+      - {x: -10, y: -96}
+      - {x: 11, y: -96}
+      - {x: 11, y: -45}
+    - - {x: 56, y: -45}
+      - {x: 50, y: -47}
+      - {x: 49, y: -53}
+      - {x: 49, y: -83}
+      - {x: 58, y: -96}
+      - {x: 73, y: -96}
+      - {x: 75, y: -87}
+      - {x: 75, y: -49}
+      - {x: 73, y: -45}
+    - - {x: 117, y: -45}
+      - {x: 114, y: -55}
+      - {x: 114, y: -89}
+      - {x: 119, y: -96}
+      - {x: 136, y: -96}
+      - {x: 139, y: -88}
+      - {x: 139, y: -45}
+    - - {x: -268, y: -45}
+      - {x: -269, y: -47}
+      - {x: -269, y: -90}
+      - {x: -267, y: -95}
+      - {x: -243, y: -95}
+      - {x: -243, y: -48}
+      - {x: -247, y: -45}
+    - - {x: -204, y: -45}
+      - {x: -207, y: -56}
+      - {x: -207, y: -90}
+      - {x: -201, y: -95}
+      - {x: -183, y: -95}
+      - {x: -181, y: -73}
+      - {x: -181, y: -49}
+      - {x: -183, y: -45}
+    - - {x: -247, y: 19}
+      - {x: -269, y: 19}
+      - {x: -273, y: 7}
+      - {x: -273, y: -26}
+      - {x: -272, y: -32}
+      - {x: -268, y: -33}
+      - {x: -242, y: -33}
+      - {x: -239, y: -26}
+      - {x: -239, y: 13}
+      - {x: -241, y: 17}
+    - - {x: -205, y: 18}
+      - {x: -207, y: 17}
+      - {x: -208, y: 14}
+      - {x: -208, y: -20}
+      - {x: -204, y: -33}
+      - {x: -183, y: -33}
+      - {x: -178, y: -31}
+      - {x: -175, y: -28}
+      - {x: -175, y: 6}
+      - {x: -180, y: 18}
+    - - {x: -140, y: 19}
+      - {x: -145, y: 7}
+      - {x: -145, y: -31}
+      - {x: -142, y: -33}
+      - {x: -111, y: -33}
+      - {x: -111, y: 19}
+    - - {x: 10, y: 19}
+      - {x: -7, y: 19}
+      - {x: -14, y: 17}
+      - {x: -17, y: 10}
+      - {x: -17, y: -25}
+      - {x: -14, y: -33}
+      - {x: 10, y: -33}
+      - {x: 17, y: -24}
+      - {x: 17, y: -1}
+      - {x: 14, y: 13}
+    - - {x: 49, y: 18}
+      - {x: 47, y: 16}
+      - {x: 47, y: -33}
+      - {x: 71, y: -33}
+      - {x: 80, y: -26}
+      - {x: 80, y: 16}
+      - {x: 74, y: 18}
+    - - {x: 116, y: 19}
+      - {x: 112, y: 18}
+      - {x: 111, y: 2}
+      - {x: 111, y: -19}
+      - {x: 116, y: -33}
+      - {x: 138, y: -33}
+      - {x: 144, y: -32}
+      - {x: 145, y: -30}
+      - {x: 145, y: 1}
+      - {x: 141, y: 19}
+    - - {x: -381, y: -32}
+      - {x: -367, y: -32}
+      - {x: -367, y: 19}
+      - {x: -396, y: 19}
+      - {x: -401, y: 15}
+      - {x: -401, y: -32}
+      - {x: -387, y: -32}
+      - {x: -385, y: -28}
+      - {x: -385, y: -24}
+    - - {x: -337, y: 19}
+      - {x: -337, y: -32}
+      - {x: -303, y: -32}
+      - {x: -303, y: 19}
+    - - {x: -53, y: 15}
+      - {x: -55, y: 19}
+      - {x: -71, y: 19}
+      - {x: -79, y: 17}
+      - {x: -81, y: 0}
+      - {x: -81, y: -25}
+      - {x: -79, y: -32}
+      - {x: -48, y: -32}
+      - {x: -47, y: -25}
+      - {x: -47, y: -7}
+    - - {x: -391, y: 83}
+      - {x: -395, y: 81}
+      - {x: -395, y: 34}
+      - {x: -391, y: 32}
+      - {x: -371, y: 32}
+      - {x: -371, y: 82}
+      - {x: -372, y: 83}
+    - - {x: -311, y: 82}
+      - {x: -327, y: 82}
+      - {x: -334, y: 80}
+      - {x: -335, y: 50}
+      - {x: -335, y: 37}
+      - {x: -329, y: 32}
+      - {x: -308, y: 32}
+      - {x: -306, y: 36}
+      - {x: -306, y: 75}
+    - - {x: -135, y: 83}
+      - {x: -140, y: 76}
+      - {x: -140, y: 37}
+      - {x: -137, y: 32}
+      - {x: -119, y: 32}
+      - {x: -112, y: 36}
+      - {x: -112, y: 70}
+      - {x: -117, y: 83}
+    - - {x: -53, y: 82}
+      - {x: -70, y: 82}
+      - {x: -77, y: 80}
+      - {x: -78, y: 73}
+      - {x: -78, y: 36}
+      - {x: -76, y: 32}
+      - {x: -61, y: 32}
+      - {x: -50, y: 34}
+      - {x: -46, y: 40}
+      - {x: -46, y: 67}
+      - {x: -48, y: 77}
+    - - {x: 7, y: 83}
+      - {x: -7, y: 83}
+      - {x: -11, y: 78}
+      - {x: -11, y: 32}
+      - {x: 9, y: 32}
+      - {x: 16, y: 41}
+      - {x: 16, y: 70}
+      - {x: 15, y: 81}
+    - - {x: 70, y: 83}
+      - {x: 56, y: 83}
+      - {x: 53, y: 79}
+      - {x: 53, y: 60}
+      - {x: 56, y: 33}
+      - {x: 59, y: 32}
+      - {x: 71, y: 32}
+      - {x: 79, y: 46}
+      - {x: 79, y: 69}
+      - {x: 78, y: 81}
+    - - {x: 119, y: 83}
+      - {x: 117, y: 81}
+      - {x: 117, y: 33}
+      - {x: 120, y: 32}
+      - {x: 139, y: 32}
+      - {x: 142, y: 44}
+      - {x: 142, y: 81}
+      - {x: 136, y: 83}
+    - - {x: -262, y: 83}
+      - {x: -269, y: 77}
+      - {x: -269, y: 33}
+      - {x: -243, y: 33}
+      - {x: -243, y: 83}
+    - - {x: -203, y: 83}
+      - {x: -203, y: 34}
+      - {x: -201, y: 33}
+      - {x: -177, y: 33}
+      - {x: -177, y: 83}
+    - - {x: -202, y: 146}
+      - {x: -209, y: 136}
+      - {x: -209, y: 105}
+      - {x: -196, y: 95}
+      - {x: -176, y: 95}
+      - {x: -176, y: 143}
+      - {x: -184, y: 146}
+    - - {x: 54, y: 146}
+      - {x: 50, y: 140}
+      - {x: 48, y: 136}
+      - {x: 48, y: 101}
+      - {x: 50, y: 95}
+      - {x: 68, y: 95}
+      - {x: 81, y: 102}
+      - {x: 81, y: 143}
+      - {x: 72, y: 146}
+    - - {x: -269, y: 147}
+      - {x: -273, y: 142}
+      - {x: -273, y: 105}
+      - {x: -272, y: 98}
+      - {x: -265, y: 96}
+      - {x: -244, y: 96}
+      - {x: -239, y: 105}
+      - {x: -239, y: 144}
+      - {x: -246, y: 147}
+    - - {x: -140, y: 147}
+      - {x: -145, y: 132}
+      - {x: -145, y: 100}
+      - {x: -141, y: 96}
+      - {x: -111, y: 96}
+      - {x: -111, y: 146}
+      - {x: -113, y: 147}
+    - - {x: -11, y: 147}
+      - {x: -17, y: 133}
+      - {x: -17, y: 100}
+      - {x: -16, y: 97}
+      - {x: -14, y: 96}
+      - {x: 15, y: 96}
+      - {x: 17, y: 97}
+      - {x: 17, y: 147}
+    - - {x: 115, y: 147}
+      - {x: 111, y: 137}
+      - {x: 111, y: 101}
+      - {x: 116, y: 96}
+      - {x: 137, y: 96}
+      - {x: 145, y: 104}
+      - {x: 145, y: 127}
+      - {x: 139, y: 147}
+    - - {x: -374, y: 147}
+      - {x: -401, y: 147}
+      - {x: -401, y: 97}
+      - {x: -367, y: 97}
+      - {x: -367, y: 135}
+      - {x: -368, y: 142}
+    - - {x: -330, y: 147}
+      - {x: -334, y: 145}
+      - {x: -337, y: 133}
+      - {x: -337, y: 102}
+      - {x: -333, y: 97}
+      - {x: -307, y: 97}
+      - {x: -303, y: 100}
+      - {x: -303, y: 137}
+      - {x: -308, y: 147}
+    - - {x: -76, y: 147}
+      - {x: -81, y: 136}
+      - {x: -81, y: 101}
+      - {x: -76, y: 97}
+      - {x: -50, y: 97}
+      - {x: -47, y: 101}
+      - {x: -47, y: 143}
+      - {x: -54, y: 147}
+    - - {x: -395, y: 211}
+      - {x: -397, y: 208}
+      - {x: -397, y: 161}
+      - {x: -394, y: 160}
+      - {x: -374, y: 160}
+      - {x: -373, y: 161}
+      - {x: -373, y: 211}
+    - - {x: -334, y: 211}
+      - {x: -334, y: 160}
+      - {x: -310, y: 160}
+      - {x: -305, y: 161}
+      - {x: -305, y: 197}
+      - {x: -310, y: 211}
+    - - {x: -264, y: 211}
+      - {x: -270, y: 205}
+      - {x: -272, y: 196}
+      - {x: -272, y: 170}
+      - {x: -265, y: 160}
+      - {x: -241, y: 160}
+      - {x: -241, y: 209}
+      - {x: -250, y: 211}
+    - - {x: -203, y: 211}
+      - {x: -209, y: 196}
+      - {x: -209, y: 168}
+      - {x: -204, y: 160}
+      - {x: -189, y: 160}
+      - {x: -180, y: 162}
+      - {x: -180, y: 209}
+      - {x: -183, y: 211}
+    - - {x: -138, y: 211}
+      - {x: -140, y: 201}
+      - {x: -140, y: 160}
+      - {x: -116, y: 160}
+      - {x: -109, y: 164}
+      - {x: -109, y: 203}
+      - {x: -114, y: 211}
+    - - {x: -56, y: 211}
+      - {x: -74, y: 211}
+      - {x: -76, y: 200}
+      - {x: -76, y: 160}
+      - {x: -50, y: 160}
+      - {x: -42, y: 170}
+      - {x: -42, y: 188}
+      - {x: -50, y: 205}
+    - - {x: -10, y: 211}
+      - {x: -12, y: 201}
+      - {x: -12, y: 160}
+      - {x: 12, y: 160}
+      - {x: 19, y: 164}
+      - {x: 19, y: 203}
+      - {x: 14, y: 211}
+    - - {x: 56, y: 211}
+      - {x: 47, y: 208}
+      - {x: 47, y: 174}
+      - {x: 53, y: 160}
+      - {x: 63, y: 160}
+      - {x: 76, y: 162}
+      - {x: 76, y: 206}
+      - {x: 73, y: 211}
+    - - {x: -381, y: 224}
+      - {x: -367, y: 224}
+      - {x: -367, y: 275}
+      - {x: -396, y: 275}
+      - {x: -401, y: 271}
+      - {x: -401, y: 224}
+      - {x: -387, y: 224}
+      - {x: -385, y: 228}
+      - {x: -385, y: 232}
+    - - {x: -332, y: 275}
+      - {x: -335, y: 272}
+      - {x: -335, y: 227}
+      - {x: -333, y: 225}
+      - {x: -308, y: 225}
+      - {x: -307, y: 226}
+      - {x: -307, y: 273}
+      - {x: -312, y: 275}
+    - - {x: -268, y: 275}
+      - {x: -269, y: 273}
+      - {x: -269, y: 231}
+      - {x: -266, y: 226}
+      - {x: -256, y: 225}
+      - {x: -243, y: 225}
+      - {x: -243, y: 275}
+    - - {x: -199, y: 275}
+      - {x: -206, y: 273}
+      - {x: -208, y: 264}
+      - {x: -208, y: 245}
+      - {x: -205, y: 234}
+      - {x: -202, y: 226}
+      - {x: -192, y: 225}
+      - {x: -181, y: 225}
+      - {x: -179, y: 227}
+      - {x: -179, y: 272}
+      - {x: -182, y: 275}
+    - - {x: -141, y: 274}
+      - {x: -141, y: 225}
+      - {x: -115, y: 225}
+      - {x: -115, y: 268}
+      - {x: -116, y: 274}
+    - - {x: -74, y: 274}
+      - {x: -77, y: 268}
+      - {x: -77, y: 226}
+      - {x: -73, y: 225}
+      - {x: -52, y: 225}
+      - {x: -51, y: 226}
+      - {x: -51, y: 267}
+      - {x: -53, y: 274}
+    - - {x: -13, y: 274}
+      - {x: -13, y: 225}
+      - {x: 13, y: 225}
+      - {x: 13, y: 268}
+      - {x: 12, y: 274}
+    - - {x: 48, y: 272}
+      - {x: 48, y: 234}
+      - {x: 54, y: 225}
+      - {x: 77, y: 225}
+      - {x: 77, y: 275}
+      - {x: 53, y: 275}
+      - {x: 49, y: 274}
+    - - {x: -391, y: 339}
+      - {x: -395, y: 337}
+      - {x: -395, y: 290}
+      - {x: -391, y: 288}
+      - {x: -371, y: 288}
+      - {x: -371, y: 338}
+      - {x: -372, y: 339}
+    - - {x: -335, y: 339}
+      - {x: -335, y: 288}
+      - {x: -314, y: 288}
+      - {x: -308, y: 291}
+      - {x: -306, y: 301}
+      - {x: -306, y: 337}
+      - {x: -313, y: 339}
+    - - {x: -267, y: 339}
+      - {x: -271, y: 330}
+      - {x: -271, y: 292}
+      - {x: -265, y: 288}
+      - {x: -248, y: 288}
+      - {x: -244, y: 290}
+      - {x: -240, y: 297}
+      - {x: -240, y: 321}
+      - {x: -245, y: 339}
+    - - {x: -202, y: 339}
+      - {x: -204, y: 335}
+      - {x: -204, y: 289}
+      - {x: -198, y: 288}
+      - {x: -175, y: 288}
+      - {x: -175, y: 335}
+      - {x: -183, y: 339}
+    - - {x: -116, y: 288}
+      - {x: -116, y: 327}
+      - {x: -118, y: 339}
+      - {x: -144, y: 339}
+      - {x: -147, y: 338}
+      - {x: -147, y: 288}
+    - - {x: -79, y: 339}
+      - {x: -86, y: 323}
+      - {x: -86, y: 302}
+      - {x: -78, y: 290}
+      - {x: -67, y: 288}
+      - {x: -52, y: 288}
+      - {x: -52, y: 337}
+      - {x: -57, y: 339}
+    - - {x: 12, y: 288}
+      - {x: 12, y: 327}
+      - {x: 10, y: 339}
+      - {x: -16, y: 339}
+      - {x: -19, y: 338}
+      - {x: -19, y: 288}
+    - - {x: 70, y: 339}
+      - {x: 57, y: 339}
+      - {x: 52, y: 332}
+      - {x: 52, y: 289}
+      - {x: 57, y: 288}
+      - {x: 76, y: 288}
+      - {x: 81, y: 300}
+      - {x: 81, y: 319}
+      - {x: 77, y: 333}
+    - - {x: -331, y: 401}
+      - {x: -334, y: 397}
+      - {x: -334, y: 350}
+      - {x: -304, y: 350}
+      - {x: -304, y: 400}
+      - {x: -306, y: 401}
+    - - {x: -268, y: 357}
+      - {x: -259, y: 350}
+      - {x: -249, y: 350}
+      - {x: -242, y: 352}
+      - {x: -242, y: 402}
+      - {x: -268, y: 402}
+    - - {x: -204, y: 354}
+      - {x: -194, y: 350}
+      - {x: -178, y: 350}
+      - {x: -178, y: 402}
+      - {x: -202, y: 402}
+      - {x: -204, y: 401}
+    - - {x: -139, y: 401}
+      - {x: -139, y: 355}
+      - {x: -131, y: 350}
+      - {x: -114, y: 350}
+      - {x: -113, y: 352}
+      - {x: -113, y: 401}
+    - - {x: -75, y: 401}
+      - {x: -75, y: 353}
+      - {x: -68, y: 350}
+      - {x: -52, y: 350}
+      - {x: -49, y: 360}
+      - {x: -49, y: 396}
+      - {x: -50, y: 401}
+    - - {x: -11, y: 401}
+      - {x: -11, y: 355}
+      - {x: -3, y: 350}
+      - {x: 14, y: 350}
+      - {x: 15, y: 352}
+      - {x: 15, y: 401}
+    - - {x: 52, y: 402}
+      - {x: 52, y: 370}
+      - {x: 53, y: 359}
+      - {x: 57, y: 350}
+      - {x: 78, y: 350}
+      - {x: 78, y: 398}
+      - {x: 76, y: 402}
+    - - {x: -373, y: 402}
+      - {x: -393, y: 402}
+      - {x: -398, y: 400}
+      - {x: -401, y: 388}
+      - {x: -401, y: 358}
+      - {x: -395, y: 352}
+      - {x: -367, y: 352}
+      - {x: -367, y: 390}
+    - - {x: -397, y: 467}
+      - {x: -397, y: 416}
+      - {x: -377, y: 416}
+      - {x: -373, y: 418}
+      - {x: -373, y: 463}
+      - {x: -376, y: 467}
+    - - {x: -330, y: 467}
+      - {x: -334, y: 458}
+      - {x: -334, y: 422}
+      - {x: -333, y: 418}
+      - {x: -327, y: 416}
+      - {x: -309, y: 416}
+      - {x: -307, y: 417}
+      - {x: -307, y: 467}
+    - - {x: -266, y: 467}
+      - {x: -269, y: 464}
+      - {x: -269, y: 417}
+      - {x: -267, y: 416}
+      - {x: -248, y: 416}
+      - {x: -244, y: 418}
+      - {x: -244, y: 465}
+      - {x: -249, y: 467}
+    - - {x: -208, y: 428}
+      - {x: -201, y: 416}
+      - {x: -178, y: 416}
+      - {x: -178, y: 465}
+      - {x: -182, y: 467}
+      - {x: -203, y: 467}
+      - {x: -208, y: 466}
+    - - {x: -140, y: 467}
+      - {x: -144, y: 466}
+      - {x: -149, y: 452}
+      - {x: -149, y: 436}
+      - {x: -137, y: 416}
+      - {x: -124, y: 416}
+      - {x: -114, y: 418}
+      - {x: -112, y: 431}
+      - {x: -112, y: 453}
+      - {x: -117, y: 467}
+    - - {x: -72, y: 467}
+      - {x: -78, y: 466}
+      - {x: -85, y: 459}
+      - {x: -85, y: 444}
+      - {x: -74, y: 416}
+      - {x: -57, y: 416}
+      - {x: -50, y: 418}
+      - {x: -48, y: 436}
+      - {x: -48, y: 458}
+      - {x: -53, y: 467}
+    - - {x: -11, y: 467}
+      - {x: -18, y: 451}
+      - {x: -18, y: 427}
+      - {x: -10, y: 416}
+      - {x: 14, y: 416}
+      - {x: 14, y: 466}
+      - {x: 12, y: 467}
+    - - {x: -381, y: 480}
+      - {x: -373, y: 480}
+      - {x: -367, y: 481}
+      - {x: -367, y: 516}
+      - {x: -373, y: 531}
+      - {x: -399, y: 531}
+      - {x: -401, y: 530}
+      - {x: -401, y: 480}
+      - {x: -387, y: 480}
+      - {x: -385, y: 484}
+      - {x: -385, y: 488}
+    - - {x: -315, y: 480}
+      - {x: -309, y: 480}
+      - {x: -305, y: 482}
+      - {x: -303, y: 488}
+      - {x: -303, y: 519}
+      - {x: -310, y: 531}
+      - {x: -330, y: 531}
+      - {x: -337, y: 513}
+      - {x: -337, y: 487}
+      - {x: -336, y: 481}
+      - {x: -332, y: 480}
+      - {x: -323, y: 480}
+      - {x: -321, y: 484}
+      - {x: -321, y: 488}
+      - {x: -319, y: 484}
+    - - {x: -251, y: 480}
+      - {x: -240, y: 480}
+      - {x: -240, y: 531}
+      - {x: -272, y: 531}
+      - {x: -272, y: 480}
+      - {x: -261, y: 480}
+      - {x: -257, y: 484}
+      - {x: -257, y: 488}
+      - {x: -255, y: 484}
+    - - {x: -189, y: 480}
+      - {x: -181, y: 480}
+      - {x: -175, y: 481}
+      - {x: -172, y: 487}
+      - {x: -172, y: 513}
+      - {x: -181, y: 531}
+      - {x: -204, y: 531}
+      - {x: -212, y: 513}
+      - {x: -212, y: 486}
+      - {x: -209, y: 481}
+      - {x: -204, y: 480}
+      - {x: -195, y: 480}
+      - {x: -193, y: 484}
+      - {x: -193, y: 488}
+    - - {x: -112, y: 480}
+      - {x: -101, y: 492}
+      - {x: -101, y: 525}
+      - {x: -107, y: 531}
+      - {x: -141, y: 531}
+      - {x: -155, y: 524}
+      - {x: -155, y: 495}
+      - {x: -148, y: 480}
+      - {x: -133, y: 480}
+      - {x: -129, y: 484}
+      - {x: -129, y: 482}
+      - {x: -123, y: 480}
+    - - {x: -59, y: 480}
+      - {x: -47, y: 480}
+      - {x: -38, y: 505}
+      - {x: -38, y: 523}
+      - {x: -39, y: 531}
+      - {x: -73, y: 531}
+      - {x: -86, y: 526}
+      - {x: -90, y: 519}
+      - {x: -90, y: 510}
+      - {x: -78, y: 480}
+      - {x: -69, y: 480}
+      - {x: -65, y: 484}
+      - {x: -65, y: 488}
+      - {x: -63, y: 484}
+    - - {x: 15, y: 480}
+      - {x: 19, y: 489}
+      - {x: 19, y: 510}
+      - {x: 14, y: 525}
+      - {x: 10, y: 531}
+      - {x: -9, y: 531}
+      - {x: -19, y: 515}
+      - {x: -19, y: 480}
+      - {x: -3, y: 480}
+      - {x: -1, y: 484}
+      - {x: -1, y: 482}
+      - {x: 5, y: 480}
+    - - {x: -391, y: 595}
+      - {x: -395, y: 591}
+      - {x: -395, y: 546}
+      - {x: -392, y: 544}
+      - {x: -371, y: 544}
+      - {x: -371, y: 595}
+    - - {x: -333, y: 595}
+      - {x: -333, y: 544}
+      - {x: -314, y: 544}
+      - {x: -308, y: 547}
+      - {x: -306, y: 550}
+      - {x: -306, y: 585}
+      - {x: -309, y: 595}
+    - - {x: -266, y: 595}
+      - {x: -268, y: 594}
+      - {x: -268, y: 544}
+      - {x: -245, y: 544}
+      - {x: -243, y: 547}
+      - {x: -243, y: 594}
+      - {x: -248, y: 595}
+    - - {x: -182, y: 595}
+      - {x: -201, y: 595}
+      - {x: -206, y: 584}
+      - {x: -206, y: 544}
+      - {x: -182, y: 544}
+      - {x: -176, y: 562}
+      - {x: -176, y: 585}
+      - {x: -178, y: 593}
+    - - {x: -136, y: 595}
+      - {x: -144, y: 585}
+      - {x: -144, y: 544}
+      - {x: -122, y: 544}
+      - {x: -116, y: 547}
+      - {x: -107, y: 558}
+      - {x: -107, y: 590}
+      - {x: -109, y: 595}
+    - - {x: -58, y: 595}
+      - {x: -71, y: 595}
+      - {x: -80, y: 586}
+      - {x: -80, y: 566}
+      - {x: -75, y: 544}
+      - {x: -56, y: 544}
+      - {x: -52, y: 547}
+      - {x: -43, y: 576}
+      - {x: -43, y: 584}
+    - - {x: -14, y: 595}
+      - {x: -14, y: 544}
+      - {x: 7, y: 544}
+      - {x: 13, y: 546}
+      - {x: 18, y: 553}
+      - {x: 18, y: 593}
+      - {x: 15, y: 595}
+    - - {x: -375, y: 658}
+      - {x: -391, y: 658}
+      - {x: -398, y: 656}
+      - {x: -401, y: 640}
+      - {x: -401, y: 608}
+      - {x: -368, y: 608}
+      - {x: -367, y: 610}
+      - {x: -367, y: 644}
+      - {x: -370, y: 652}
+    - - {x: -311, y: 658}
+      - {x: -326, y: 658}
+      - {x: -334, y: 656}
+      - {x: -336, y: 649}
+      - {x: -336, y: 618}
+      - {x: -334, y: 608}
+      - {x: -306, y: 608}
+      - {x: -304, y: 613}
+      - {x: -304, y: 648}
+      - {x: -306, y: 652}
+    - - {x: -263, y: 658}
+      - {x: -270, y: 656}
+      - {x: -272, y: 643}
+      - {x: -272, y: 608}
+      - {x: -240, y: 608}
+      - {x: -240, y: 653}
+      - {x: -245, y: 658}
+    - - {x: -203, y: 658}
+      - {x: -206, y: 656}
+      - {x: -212, y: 641}
+      - {x: -212, y: 625}
+      - {x: -207, y: 608}
+      - {x: -173, y: 608}
+      - {x: -172, y: 610}
+      - {x: -172, y: 649}
+      - {x: -177, y: 658}
+    - - {x: -141, y: 658}
+      - {x: -155, y: 653}
+      - {x: -155, y: 613}
+      - {x: -152, y: 608}
+      - {x: -116, y: 608}
+      - {x: -111, y: 610}
+      - {x: -101, y: 624}
+      - {x: -101, y: 646}
+      - {x: -111, y: 658}
+    - - {x: -75, y: 658}
+      - {x: -86, y: 653}
+      - {x: -90, y: 648}
+      - {x: -90, y: 633}
+      - {x: -79, y: 608}
+      - {x: -49, y: 608}
+      - {x: -38, y: 632}
+      - {x: -38, y: 655}
+      - {x: -40, y: 658}
+    - - {x: -9, y: 658}
+      - {x: -14, y: 656}
+      - {x: -20, y: 644}
+      - {x: -20, y: 622}
+      - {x: -15, y: 608}
+      - {x: 20, y: 608}
+      - {x: 20, y: 642}
+      - {x: 11, y: 658}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
