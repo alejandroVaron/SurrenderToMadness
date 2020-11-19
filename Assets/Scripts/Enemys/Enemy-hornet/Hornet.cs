@@ -32,7 +32,6 @@ public class Hornet : MonoBehaviour
         
         value = 0;
         value = Vector2.Distance(target.position, transform.position);
-        //Debug.Log("Este es el cambio " + value + "El target.position es: "+ target.position+ "El transform.position"+ transform.position);
         if (value <= chaseRadius)
         {
             if(value > attackRadius) 
@@ -50,4 +49,5 @@ public class Hornet : MonoBehaviour
             anim.SetBool("perseguir", false);
         }
     }
+    
 }
