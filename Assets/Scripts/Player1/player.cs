@@ -10,21 +10,20 @@ public class player : MonoBehaviour
     Rigidbody2D rb2d;
     Vector2 mov;
     CircleCollider2D attackCollider;
-    //public GameObject initialMap;
-
-    void Awake()
-    {
-        //Assert.IsNotNull(initialMap);
-    }
-
+    Life lifeBar;
+    public GameObject wavePrefab;
+    public GameObject minimap;
 
     void Start()
     {
+
         Camera.main.GetComponent<MainCamera>().updateLimit(-16, 3, 6, -12);
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
         attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
         attackCollider.enabled = false;
+        lifeBar = gameObject.GetComponent<Life>();
+        minimap.GetComponent<MainCamera>().updateLimit(-16, 3, 6, -12);
     }
 
 
@@ -45,11 +44,13 @@ public class player : MonoBehaviour
             anim.SetBool("walking", false);
         }
 
+
         AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
         bool validate = stateInfo.IsName("player_attack");
         if (Input.GetKeyDown(KeyCode.Mouse0) && !validate)
         {
-            anim.SetTrigger("slash-trigger");      
+            anim.SetTrigger("slash-trigger");
+            //wave();
         }
         if(mov != Vector2.zero)
         {
@@ -72,5 +73,24 @@ public class player : MonoBehaviour
     {
         rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+       if(collision.tag == "AttackEnemy")
+        {
+            lifeBar.loseHealth(15);
+        }
+    }
+    public void wave()
+    {
+        float angle = Mathf.Atan2(anim.GetFloat("movy"), anim.GetFloat("movx")) * Mathf.Rad2Deg;
+        GameObject wave = Instantiate(wavePrefab, transform.position, Quaternion.AngleAxis(angle, Vector3.forward)
+            );
+
+        Wave obj = wave.GetComponent<Wave>();
+        obj.mov.x = anim.GetFloat("movx");
+        obj.mov.y = anim.GetFloat("movy");
+    }
+
 }
 

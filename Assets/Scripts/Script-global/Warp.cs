@@ -7,6 +7,7 @@ public class Warp : MonoBehaviour
 {
     public float x, y, dx, dy;
     public GameObject target;
+    public GameObject minimap;
     // Start is called before the first frame update
 
     void Awake()
@@ -25,6 +26,7 @@ public class Warp : MonoBehaviour
             other.transform.position = target.transform.position;
           
             Camera.main.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
+            minimap.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
         }
     }
 
