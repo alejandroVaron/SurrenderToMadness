@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Experimental.AssetImporters;
 using UnityEngine;
 
 public class MainCamera : MonoBehaviour
@@ -8,6 +7,7 @@ public class MainCamera : MonoBehaviour
     public float smoothTime = 3f;
     Transform target;
     //Vector2 velocity;
+    //public Animator anim;
 
     private float tlx, tly, brx, bry;
     private Vector3 velocity;
@@ -19,7 +19,7 @@ public class MainCamera : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-     
+        
     }
 
     // Update is called once per frame
@@ -30,7 +30,6 @@ public class MainCamera : MonoBehaviour
             Mathf.Clamp(target.position.y, bry, tly), 
             transform.position.y-100
             );
-        //transform.position = new Vector3(target.position.x, target.position.y , transform.position.y);
     }
 
     public void updateLimit(float x, float y, float z, float  u)
@@ -42,5 +41,4 @@ public class MainCamera : MonoBehaviour
         bry = u + cameraSize;
 
     }
-
 }

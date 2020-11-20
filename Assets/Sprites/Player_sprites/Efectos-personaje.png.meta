@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 05d05d3723e39094f8b33ae34a2a1947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5808581080358863838
+    second: Efectos-personaje_0
+  - first:
+      213: 6434137359497827937
+    second: Efectos-personaje_1
+  - first:
+      213: -5647962416983614533
+    second: Efectos-personaje_2
+  - first:
+      213: 5976405897489325508
+    second: Efectos-personaje_3
+  - first:
+      213: -5896897318898668401
+    second: Efectos-personaje_4
+  - first:
+      213: 1401869660918157040
+    second: Efectos-personaje_5
+  - first:
+      213: -4211993722384988938
+    second: Efectos-personaje_6
+  - first:
+      213: 2250384310098189974
+    second: Efectos-personaje_7
+  - first:
+      213: -2025487454417246175
+    second: Efectos-personaje_8
+  - first:
+      213: 6941664887069031260
+    second: Efectos-personaje_9
+  - first:
+      213: -1086819129985152695
+    second: Efectos-personaje_10
+  - first:
+      213: -7317240324953729204
+    second: Efectos-personaje_11
+  - first:
+      213: -5556533584686365023
+    second: Efectos-personaje_12
+  - first:
+      213: -3696722664701633175
+    second: Efectos-personaje_13
+  - first:
+      213: 5307485152326439976
+    second: Efectos-personaje_14
+  - first:
+      213: -5897695008383582553
+    second: Efectos-personaje_15
+  - first:
+      213: -1977428762860530378
+    second: Efectos-personaje_16
+  - first:
+      213: -6818316374390693083
+    second: Efectos-personaje_17
+  - first:
+      213: -3115207415269493130
+    second: Efectos-personaje_18
+  - first:
+      213: -5143723798325266
+    second: Efectos-personaje_19
+  - first:
+      213: -3246216268040432605
+    second: Efectos-personaje_20
+  - first:
+      213: 8688152735161245759
+    second: Efectos-personaje_21
+  - first:
+      213: 6384689233642292313
+    second: Efectos-personaje_22
+  - first:
+      213: -8435444337032703987
+    second: Efectos-personaje_23
+  - first:
+      213: -1337716085843261296
+    second: Efectos-personaje_24
+  - first:
+      213: 1848295708636009821
+    second: Efectos-personaje_25
+  - first:
+      213: -453848054381063430
+    second: Efectos-personaje_26
+  - first:
+      213: 2375811410897076484
+    second: Efectos-personaje_27
+  - first:
+      213: -7771207085884631979
+    second: Efectos-personaje_28
+  - first:
+      213: -6709892900001099338
+    second: Efectos-personaje_29
+  - first:
+      213: -6745466095755875347
+    second: Efectos-personaje_30
+  - first:
+      213: -3988080588927183707
+    second: Efectos-personaje_31
+  - first:
+      213: 8026407599796519211
+    second: Efectos-personaje_32
+  - first:
+      213: 7544884444580904632
+    second: Efectos-personaje_33
+  - first:
+      213: 8592003602628217244
+    second: Efectos-personaje_34
+  - first:
+      213: 6990643597095196891
+    second: Efectos-personaje_35
+  - first:
+      213: 2677543013726750300
+    second: Efectos-personaje_36
+  - first:
+      213: 1715023793107768119
+    second: Efectos-personaje_37
+  - first:
+      213: -8018484976210417340
+    second: Efectos-personaje_38
+  - first:
+      213: 2516138574926413556
+    second: Efectos-personaje_39
+  - first:
+      213: 8633360658789660780
+    second: Efectos-personaje_40
+  - first:
+      213: 3677764877864542710
+    second: Efectos-personaje_41
+  - first:
+      213: -8499177265357811196
+    second: Efectos-personaje_42
+  - first:
+      213: 1974488832271290955
+    second: Efectos-personaje_43
+  - first:
+      213: 6006084054339356975
+    second: Efectos-personaje_44
+  - first:
+      213: -3829428620350352973
+    second: Efectos-personaje_45
+  - first:
+      213: -7616112610314860458
+    second: Efectos-personaje_46
+  - first:
+      213: 8883000370942111445
+    second: Efectos-personaje_47
+  - first:
+      213: -9207683421682740755
+    second: Efectos-personaje_48
+  - first:
+      213: 9060877959633098420
+    second: Efectos-personaje_49
+  - first:
+      213: 1841290614021164790
+    second: Efectos-personaje_50
+  - first:
+      213: 8936345701189427671
+    second: Efectos-personaje_51
+  - first:
+      213: 1352599708783054179
+    second: Efectos-personaje_52
+  - first:
+      213: 6265982608027489115
+    second: Efectos-personaje_53
+  - first:
+      213: 1463881139350210322
+    second: Efectos-personaje_54
+  - first:
+      213: 5746731300925396628
+    second: Efectos-personaje_55
+  - first:
+      213: -2865798055904050690
+    second: Efectos-personaje_56
+  - first:
+      213: 6622528341616848983
+    second: Efectos-personaje_57
+  - first:
+      213: -6971286613048265094
+    second: Efectos-personaje_58
+  - first:
+      213: -5801523837923418491
+    second: Efectos-personaje_59
+  - first:
+      213: -1318508108496409901
+    second: Efectos-personaje_60
+  - first:
+      213: -7485327983432962647
+    second: Efectos-personaje_61
+  - first:
+      213: -2095540728910883877
+    second: Efectos-personaje_62
+  - first:
+      213: 7147235242289161151
+    second: Efectos-personaje_63
+  - first:
+      213: -2518179773244024915
+    second: Efectos-personaje_64
+  - first:
+      213: 2530049528783310418
+    second: Efectos-personaje_65
+  - first:
+      213: -1877778176781928040
+    second: Efectos-personaje_66
+  - first:
+      213: -6709304325023510881
+    second: Efectos-personaje_67
+  - first:
+      213: -7199659332977445187
+    second: Efectos-personaje_68
+  - first:
+      213: -2389786647141363905
+    second: Efectos-personaje_69
+  - first:
+      213: 372506279835136127
+    second: Efectos-personaje_70
+  - first:
+      213: -8602727592939924534
+    second: Efectos-personaje_71
+  - first:
+      213: -3125584524956381380
+    second: Efectos-personaje_72
+  - first:
+      213: 839551900933600456
+    second: Efectos-personaje_73
+  - first:
+      213: 6878895203709263713
+    second: Efectos-personaje_74
+  - first:
+      213: -400227669713319934
+    second: Efectos-personaje_75
+  - first:
+      213: -6671091520539865193
+    second: Efectos-personaje_76
+  - first:
+      213: 4262359054477597642
+    second: Efectos-personaje_77
+  - first:
+      213: 7677322967227340336
+    second: Efectos-personaje_78
+  - first:
+      213: -8129327315219074147
+    second: Efectos-personaje_79
+  - first:
+      213: -1394676184913918072
+    second: Efectos-personaje_80
+  - first:
+      213: -7083838346814309247
+    second: Efectos-personaje_81
+  - first:
+      213: 8012955800480057212
+    second: Efectos-personaje_82
+  - first:
+      213: 4519683824063961230
+    second: Efectos-personaje_83
+  - first:
+      213: 462894372040655008
+    second: Efectos-personaje_84
+  - first:
+      213: -8125904914768286995
+    second: Efectos-personaje_85
+  - first:
+      213: 639921555844240110
+    second: Efectos-personaje_86
+  - first:
+      213: -8573946151473675934
+    second: Efectos-personaje_87
+  - first:
+      213: -527130124902427677
+    second: Efectos-personaje_88
+  - first:
+      213: 1501817890073855819
+    second: Efectos-personaje_89
+  - first:
+      213: -3006691205799264780
+    second: Efectos-personaje_90
+  - first:
+      213: -4483317552057129853
+    second: Efectos-personaje_91
+  - first:
+      213: -5828700257745228894
+    second: Efectos-personaje_92
+  - first:
+      213: -3850955150065542182
+    second: Efectos-personaje_93
+  - first:
+      213: -2350572591966059704
+    second: Efectos-personaje_94
+  - first:
+      213: -2869915745155685575
+    second: Efectos-personaje_95
+  - first:
+      213: -1721998580363499011
+    second: Efectos-personaje_96
+  - first:
+      213: -5164016727043449515
+    second: Efectos-personaje_97
+  - first:
+      213: -1743950465794532292
+    second: Efectos-personaje_98
+  - first:
+      213: 7394282332818165740
+    second: Efectos-personaje_99
+  - first:
+      213: -3665427135504136823
+    second: Efectos-personaje_100
+  - first:
+      213: -1646212259314728239
+    second: Efectos-personaje_101
+  - first:
+      213: 4277766393232976296
+    second: Efectos-personaje_102
+  - first:
+      213: -8942900845893816234
+    second: Efectos-personaje_103
+  - first:
+      213: 6970868735483846119
+    second: Efectos-personaje_104
+  - first:
+      213: 2386458290806463764
+    second: Efectos-personaje_105
+  - first:
+      213: 7852582185190885674
+    second: Efectos-personaje_106
+  - first:
+      213: -1459476907217613792
+    second: Efectos-personaje_107
+  - first:
+      213: -4619010918174662505
+    second: Efectos-personaje_108
+  - first:
+      213: -8783081111696253479
+    second: Efectos-personaje_109
+  - first:
+      213: 9048044852905904155
+    second: Efectos-personaje_110
+  - first:
+      213: 3226194113823441094
+    second: Efectos-personaje_111
+  - first:
+      213: -960748093718654546
+    second: Efectos-personaje_112
+  - first:
+      213: 6236098727189017172
+    second: Efectos-personaje_113
+  - first:
+      213: -2258362583993893087
+    second: Efectos-personaje_114
+  - first:
+      213: -1088184092734628589
+    second: Efectos-personaje_115
+  - first:
+      213: 7416943098199271654
+    second: Efectos-personaje_116
+  - first:
+      213: -5417341640115934036
+    second: Efectos-personaje_117
+  - first:
+      213: 3669315197772380047
+    second: Efectos-personaje_118
+  - first:
+      213: -6478165854640404387
+    second: Efectos-personaje_119
+  - first:
+      213: -6016531696180055771
+    second: Efectos-personaje_120
+  - first:
+      213: -3540250907846691676
+    second: Efectos-personaje_121
+  - first:
+      213: -8059561299784886256
+    second: Efectos-personaje_122
+  - first:
+      213: -7770223479333156188
+    second: Efectos-personaje_123
+  - first:
+      213: 1164689866906183640
+    second: Efectos-personaje_124
+  - first:
+      213: 8281248830492340123
+    second: Efectos-personaje_125
+  - first:
+      213: 3945920715991700025
+    second: Efectos-personaje_126
+  - first:
+      213: 403945785329940814
+    second: Efectos-personaje_127
+  - first:
+      213: -5526633019960912774
+    second: Efectos-personaje_128
+  - first:
+      213: -4473151004251399771
+    second: Efectos-personaje_129
+  - first:
+      213: -5361164058569521112
+    second: Efectos-personaje_130
+  - first:
+      213: -6027021185413822112
+    second: Efectos-personaje_131
+  - first:
+      213: 7867754247130016902
+    second: Efectos-personaje_132
+  - first:
+      213: 4136782993725022030
+    second: Efectos-personaje_133
+  - first:
+      213: 5161840555661155777
+    second: Efectos-personaje_134
+  - first:
+      213: 421640415412623892
+    second: Efectos-personaje_135
+  - first:
+      213: -2889625027681698715
+    second: Efectos-personaje_136
+  - first:
+      213: -7165878853334203458
+    second: Efectos-personaje_137
+  - first:
+      213: 3309896334157994407
+    second: Efectos-personaje_138
+  - first:
+      213: 5967752241363800788
+    second: Efectos-personaje_139
+  - first:
+      213: -6191713414139746748
+    second: Efectos-personaje_140
+  - first:
+      213: -4482500771238698351
+    second: Efectos-personaje_141
+  - first:
+      213: -8666691452068304294
+    second: Efectos-personaje_142
+  - first:
+      213: -3476608044157978976
+    second: Efectos-personaje_143
+  - first:
+      213: -1058713090146933
+    second: Efectos-personaje_144
+  - first:
+      213: 7351464523403334228
+    second: Efectos-personaje_145
+  - first:
+      213: 1728799838193699252
+    second: Efectos-personaje_146
+  - first:
+      213: 3872808239598256629
+    second: Efectos-personaje_147
+  - first:
+      213: -6403893724255621239
+    second: Efectos-personaje_148
+  - first:
+      213: -9055940823763057328
+    second: Efectos-personaje_149
+  - first:
+      213: -145686022707798939
+    second: Efectos-personaje_150
+  - first:
+      213: 8996879146351803418
+    second: Efectos-personaje_151
+  - first:
+      213: 2233459240039352060
+    second: Efectos-personaje_152
+  - first:
+      213: 2423249712780150540
+    second: Efectos-personaje_153
+  - first:
+      213: -5860713593544397475
+    second: Efectos-personaje_154
+  - first:
+      213: 6140510423680542611
+    second: Efectos-personaje_155
+  - first:
+      213: -1565734142125128332
+    second: Efectos-personaje_156
+  - first:
+      213: -8256267507982031058
+    second: Efectos-personaje_157
+  - first:
+      213: 2312666509389988644
+    second: Efectos-personaje_158
+  - first:
+      213: -170632977777380655
+    second: Efectos-personaje_159
+  - first:
+      213: -7448097477208275052
+    second: Efectos-personaje_160
+  - first:
+      213: -6485516329438933381
+    second: Efectos-personaje_161
+  - first:
+      213: -5134851610364560213
+    second: Efectos-personaje_162
+  - first:
+      213: -6911251821847338022
+    second: Efectos-personaje_163
+  - first:
+      213: 6693965193330654778
+    second: Efectos-personaje_164
+  - first:
+      213: 1320860996523139490
+    second: Efectos-personaje_165
+  - first:
+      213: -6139873525609565389
+    second: Efectos-personaje_166
+  - first:
+      213: -3155991869512035361
+    second: Efectos-personaje_167
+  - first:
+      213: 1783020992787636910
+    second: Efectos-personaje_168
+  - first:
+      213: -886927136984811435
+    second: Efectos-personaje_169
+  - first:
+      213: 8687465886634320731
+    second: Efectos-personaje_170
+  - first:
+      213: -962829818743827685
+    second: Efectos-personaje_171
+  - first:
+      213: -4844895249457958654
+    second: Efectos-personaje_172
+  - first:
+      213: -6323200481842283826
+    second: Efectos-personaje_173
+  - first:
+      213: -3889781809376382012
+    second: Efectos-personaje_174
+  - first:
+      213: 2603105678150179732
+    second: Efectos-personaje_175
+  - first:
+      213: 7844484272188159579
+    second: Efectos-personaje_176
+  - first:
+      213: 1950882319305570009
+    second: Efectos-personaje_177
+  - first:
+      213: -32407641284872351
+    second: Efectos-personaje_178
+  - first:
+      213: -4615377769122731897
+    second: Efectos-personaje_179
+  - first:
+      213: 3978470825383005674
+    second: Efectos-personaje_180
+  - first:
+      213: -961307405920287504
+    second: Efectos-personaje_181
+  - first:
+      213: -1481319361669078310
+    second: Efectos-personaje_182
+  - first:
+      213: -2488311396863442707
+    second: Efectos-personaje_183
+  - first:
+      213: -3850939617394543013
+    second: Efectos-personaje_184
+  - first:
+      213: 3043032332484272827
+    second: Efectos-personaje_185
+  - first:
+      213: 6423667540392887857
+    second: Efectos-personaje_186
+  - first:
+      213: -3577283300282170826
+    second: Efectos-personaje_187
+  - first:
+      213: -545748893598129810
+    second: Efectos-personaje_188
+  - first:
+      213: 1665428291536552971
+    second: Efectos-personaje_189
+  - first:
+      213: 2153216274435771109
+    second: Efectos-personaje_190
+  - first:
+      213: -4605966878113381365
+    second: Efectos-personaje_191
+  - first:
+      213: -7936524263443839851
+    second: Efectos-personaje_192
+  - first:
+      213: -7723882838452055672
+    second: Efectos-personaje_193
+  - first:
+      213: -1354813372359051800
+    second: Efectos-personaje_194
+  - first:
+      213: -655822608265014909
+    second: Efectos-personaje_195
+  - first:
+      213: -7903539261633137486
+    second: Efectos-personaje_196
+  - first:
+      213: 2985710240126839195
+    second: Efectos-personaje_197
+  - first:
+      213: 1617523858794858548
+    second: Efectos-personaje_198
+  - first:
+      213: -6817975986618313570
+    second: Efectos-personaje_199
+  - first:
+      213: 6839441817536159336
+    second: Efectos-personaje_200
+  - first:
+      213: 8734824381775711657
+    second: Efectos-personaje_201
+  - first:
+      213: -2283286122510253130
+    second: Efectos-personaje_202
+  - first:
+      213: -4147745042347001114
+    second: Efectos-personaje_203
+  - first:
+      213: -1769847873674003221
+    second: Efectos-personaje_204
+  - first:
+      213: 48717849567807307
+    second: Efectos-personaje_205
+  - first:
+      213: -3680834038656449793
+    second: Efectos-personaje_206
+  - first:
+      213: 1465024519180038331
+    second: Efectos-personaje_207
+  - first:
+      213: -4224590590087755429
+    second: Efectos-personaje_208
+  - first:
+      213: 6764519306645397434
+    second: Efectos-personaje_209
+  - first:
+      213: 833367684240704044
+    second: Efectos-personaje_210
+  - first:
+      213: 7433087044370257516
+    second: Efectos-personaje_211
+  - first:
+      213: 1811198772088710388
+    second: Efectos-personaje_212
+  - first:
+      213: 8003892617215169523
+    second: Efectos-personaje_213
+  - first:
+      213: -6637017350198323803
+    second: Efectos-personaje_214
+  - first:
+      213: -8683988461638225261
+    second: Efectos-personaje_215
+  - first:
+      213: 5118761231799208890
+    second: Efectos-personaje_216
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Efectos-personaje_0
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 624
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: 0.57435226, y: 0.5250978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed348d7a7b93c9050800000000000000
+      internalID: 5808581080358863838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 626
+        width: 94
+        height: 110
+      alignment: 9
+      pivot: {x: 0.57734066, y: 0.35580167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16610f4c6d5aa4950800000000000000
+      internalID: 6434137359497827937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 627
+        width: 109
+        height: 123
+      alignment: 9
+      pivot: {x: 0.56063366, y: 0.31730938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5fee1b186e91b0800000000000000
+      internalID: -5647962416983614533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 634
+        width: 101
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3429523, y: 0.25215912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd9669df7570f250800000000000000
+      internalID: 5976405897489325508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 440
+        width: 59
+        height: 71
+      alignment: 9
+      pivot: {x: 0.44399095, y: 0.481383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c671ea1230a2ea0800000000000000
+      internalID: -5896897318898668401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 81
+        height: 89
+      alignment: 9
+      pivot: {x: 0.57343394, y: 0.4480176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8c687701747310800000000000000
+      internalID: 1401869660918157040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 217
+        width: 90
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6028083, y: 0.6295896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4411d860efb85c0800000000000000
+      internalID: -4211993722384988938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 200
+        width: 110
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5781078, y: 0.6920586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ed3836b98fa3f10800000000000000
+      internalID: 2250384310098189974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 189
+        width: 101
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4018458, y: 0.7220235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128237644e504e3e0800000000000000
+      internalID: -2025487454417246175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 45
+        width: 66
+        height: 82
+      alignment: 9
+      pivot: {x: 0.55006826, y: 0.55641806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b3d8faf6fb55060800000000000000
+      internalID: 6941664887069031260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 32
+        width: 110
+        height: 107
+      alignment: 9
+      pivot: {x: 0.3798351, y: 0.5555901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c22e62c7dae0f0800000000000000
+      internalID: -1086819129985152695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_11
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 37
+        width: 124
+        height: 103
+      alignment: 9
+      pivot: {x: 0.15888633, y: 0.5192493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4718fe51b0f37a90800000000000000
+      internalID: -7317240324953729204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_12
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 38
+        width: 140
+        height: 105
+      alignment: 9
+      pivot: {x: 0.23091605, y: 0.48741078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6cd3ef42a33e2b0800000000000000
+      internalID: -5556533584686365023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 427
+        width: 112
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6534249, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dd251925a92bcc0800000000000000
+      internalID: -3696722664701633175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 421
+        width: 150
+        height: 111
+      alignment: 9
+      pivot: {x: 0.81723595, y: 0.49404576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d31330a9f7a940800000000000000
+      internalID: 5307485152326439976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 424
+        width: 173
+        height: 112
+      alignment: 9
+      pivot: {x: 0.77124023, y: 0.45869255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeb3bf13ad272ea0800000000000000
+      internalID: -5897695008383582553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 630
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635de0d5403ce84e0800000000000000
+      internalID: -1977428762860530378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 621
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a63ae1697061a0800000000000000
+      internalID: -6818316374390693083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 426
+        width: 88
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5723167, y: 0.5554987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f2336c5f84c4d0800000000000000
+      internalID: -3115207415269493130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 418
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5086461, y: 0.4999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79d2a7fc9bdeff0800000000000000
+      internalID: -5143723798325266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 229
+        width: 89
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5268136, y: 0.53280354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3241b5fd08f13f2d0800000000000000
+      internalID: -3246216268040432605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 82
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4320926, y: 0.54339045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ef9d71e4829870800000000000000
+      internalID: 8688152735161245759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 101
+        height: 98
+      alignment: 9
+      pivot: {x: 0.40548676, y: 0.53246886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954828cc709fa9850800000000000000
+      internalID: 6384689233642292313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efectos-personaje_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 32
+        width: 85
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.5303045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d59081184fea80800000000000000
+      internalID: -8435444337032703987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
