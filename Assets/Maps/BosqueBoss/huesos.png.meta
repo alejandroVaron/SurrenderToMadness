@@ -1,0 +1,7981 @@
+fileFormatVersion: 2
+guid: 391eb6e3ebafb6b4da3941d57370c866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3349357919377828905
+    second: huesos_0
+  - first:
+      213: 8658422420491481004
+    second: huesos_1
+  - first:
+      213: 5816953333023043285
+    second: huesos_2
+  - first:
+      213: 8683178121442223694
+    second: huesos_3
+  - first:
+      213: -5867666248358148053
+    second: huesos_4
+  - first:
+      213: -1803176478947217755
+    second: huesos_5
+  - first:
+      213: -6232119120767388043
+    second: huesos_6
+  - first:
+      213: -7427170076406882967
+    second: huesos_7
+  - first:
+      213: -5884265252367322147
+    second: huesos_8
+  - first:
+      213: 3701622130152420696
+    second: huesos_9
+  - first:
+      213: 5630658304381933704
+    second: huesos_10
+  - first:
+      213: -1811296745603682215
+    second: huesos_11
+  - first:
+      213: -6320847334005565739
+    second: huesos_12
+  - first:
+      213: -3781823216481322049
+    second: huesos_13
+  - first:
+      213: 2752934183732144065
+    second: huesos_14
+  - first:
+      213: 1263298054304651283
+    second: huesos_15
+  - first:
+      213: 6775216137512038673
+    second: huesos_16
+  - first:
+      213: 6412649434547677186
+    second: huesos_17
+  - first:
+      213: -8313770326710484679
+    second: huesos_18
+  - first:
+      213: -6669606508917871679
+    second: huesos_19
+  - first:
+      213: -1183747224222730627
+    second: huesos_20
+  - first:
+      213: 8485130694614980442
+    second: huesos_21
+  - first:
+      213: 7286814000915060185
+    second: huesos_22
+  - first:
+      213: -6889325541768243086
+    second: huesos_23
+  - first:
+      213: -8569141799719385915
+    second: huesos_24
+  - first:
+      213: 4468828965601187336
+    second: huesos_25
+  - first:
+      213: -3415286980603084193
+    second: huesos_26
+  - first:
+      213: -5546568778993744762
+    second: huesos_27
+  - first:
+      213: -5982299366381136232
+    second: huesos_28
+  - first:
+      213: 185679842319019605
+    second: huesos_29
+  - first:
+      213: -4644829275475627274
+    second: huesos_30
+  - first:
+      213: -8703433870046325296
+    second: huesos_31
+  - first:
+      213: -4527196624599339316
+    second: huesos_32
+  - first:
+      213: 4384623473938067780
+    second: huesos_33
+  - first:
+      213: -1209565533635238140
+    second: huesos_34
+  - first:
+      213: 5043073372529879601
+    second: huesos_35
+  - first:
+      213: 2663676986081516659
+    second: huesos_36
+  - first:
+      213: 8090453059370988539
+    second: huesos_37
+  - first:
+      213: -7434146555060813340
+    second: huesos_38
+  - first:
+      213: 6167951940302880164
+    second: huesos_39
+  - first:
+      213: -3702075215043761639
+    second: huesos_40
+  - first:
+      213: 6621987474633573297
+    second: huesos_41
+  - first:
+      213: -8962937822512962467
+    second: huesos_42
+  - first:
+      213: -2623444913898804625
+    second: huesos_43
+  - first:
+      213: 2143068860039667436
+    second: huesos_44
+  - first:
+      213: 7846880720570779750
+    second: huesos_45
+  - first:
+      213: 7840190807966472416
+    second: huesos_46
+  - first:
+      213: -1334885010192132553
+    second: huesos_47
+  - first:
+      213: -4647363480740447940
+    second: huesos_48
+  - first:
+      213: -3033134278555034450
+    second: huesos_49
+  - first:
+      213: 1330142076152472009
+    second: huesos_50
+  - first:
+      213: 7427552152490675127
+    second: huesos_51
+  - first:
+      213: -8161479418930876129
+    second: huesos_52
+  - first:
+      213: -1392696170972679176
+    second: huesos_53
+  - first:
+      213: 3456885634930620294
+    second: huesos_54
+  - first:
+      213: -2681875805046016100
+    second: huesos_55
+  - first:
+      213: -3101437350567107450
+    second: huesos_56
+  - first:
+      213: 252088919843111998
+    second: huesos_57
+  - first:
+      213: -3848147384824300062
+    second: huesos_58
+  - first:
+      213: 459611906092619943
+    second: huesos_59
+  - first:
+      213: -5463055094384610496
+    second: huesos_60
+  - first:
+      213: 1938510014636202707
+    second: huesos_61
+  - first:
+      213: 1113260057712024265
+    second: huesos_62
+  - first:
+      213: -6596181690967160615
+    second: huesos_63
+  - first:
+      213: 7210042143574777641
+    second: huesos_64
+  - first:
+      213: 414111315923410910
+    second: huesos_65
+  - first:
+      213: 6582578969380165694
+    second: huesos_66
+  - first:
+      213: 2046258352966662388
+    second: huesos_67
+  - first:
+      213: 6460300433216135067
+    second: huesos_68
+  - first:
+      213: 5877030487796354012
+    second: huesos_69
+  - first:
+      213: -6727351735952998585
+    second: huesos_70
+  - first:
+      213: 7811379323955996661
+    second: huesos_71
+  - first:
+      213: -765115527322194464
+    second: huesos_72
+  - first:
+      213: 3262772074232249926
+    second: huesos_73
+  - first:
+      213: 3771617143991390944
+    second: huesos_74
+  - first:
+      213: -2123989681147655985
+    second: huesos_75
+  - first:
+      213: 7486933651257570001
+    second: huesos_76
+  - first:
+      213: -6166142425762417768
+    second: huesos_77
+  - first:
+      213: -4585448203744445559
+    second: huesos_78
+  - first:
+      213: -5924915344154054072
+    second: huesos_79
+  - first:
+      213: -268654718791532108
+    second: huesos_80
+  - first:
+      213: 4170845686213195805
+    second: huesos_81
+  - first:
+      213: 2318681312889965537
+    second: huesos_82
+  - first:
+      213: 3959990844970746210
+    second: huesos_83
+  - first:
+      213: -4121017599738085496
+    second: huesos_84
+  - first:
+      213: -5163833516400428060
+    second: huesos_85
+  - first:
+      213: 4563126200664770590
+    second: huesos_86
+  - first:
+      213: 9219303317996318038
+    second: huesos_87
+  - first:
+      213: -3429068837495625939
+    second: huesos_88
+  - first:
+      213: -3765799568235465400
+    second: huesos_89
+  - first:
+      213: 8208387247270454425
+    second: huesos_90
+  - first:
+      213: -1654550919293245355
+    second: huesos_91
+  - first:
+      213: -4634589859611025184
+    second: huesos_92
+  - first:
+      213: 7679102629038060385
+    second: huesos_93
+  - first:
+      213: -7623773307247798426
+    second: huesos_94
+  - first:
+      213: -377355185964409946
+    second: huesos_95
+  - first:
+      213: 6325183135195386629
+    second: huesos_96
+  - first:
+      213: -8212866994960931201
+    second: huesos_97
+  - first:
+      213: -7422303815462392051
+    second: huesos_98
+  - first:
+      213: 557072831869966059
+    second: huesos_99
+  - first:
+      213: 1763302106055632906
+    second: huesos_100
+  - first:
+      213: 4542580719425166075
+    second: huesos_101
+  - first:
+      213: 734733238987365838
+    second: huesos_102
+  - first:
+      213: -1155544205471076984
+    second: huesos_103
+  - first:
+      213: -7132229239030408217
+    second: huesos_104
+  - first:
+      213: -470699717702874794
+    second: huesos_105
+  - first:
+      213: -8671355560618687578
+    second: huesos_106
+  - first:
+      213: -8888098136028915314
+    second: huesos_107
+  - first:
+      213: 965597281701417548
+    second: huesos_108
+  - first:
+      213: -1567655042854073552
+    second: huesos_109
+  - first:
+      213: -2789609970504438353
+    second: huesos_110
+  - first:
+      213: 1615860489429467034
+    second: huesos_111
+  - first:
+      213: 401833546410143912
+    second: huesos_112
+  - first:
+      213: 1558106239251300574
+    second: huesos_113
+  - first:
+      213: 3706436947338070827
+    second: huesos_114
+  - first:
+      213: -7404346986802684434
+    second: huesos_115
+  - first:
+      213: 6456584556705685242
+    second: huesos_116
+  - first:
+      213: -2574324155769965358
+    second: huesos_117
+  - first:
+      213: 4486753241905911876
+    second: huesos_118
+  - first:
+      213: 8601582007853668444
+    second: huesos_119
+  - first:
+      213: -7206169857267026083
+    second: huesos_120
+  - first:
+      213: -1323042099021720358
+    second: huesos_121
+  - first:
+      213: -6700970142898711747
+    second: huesos_122
+  - first:
+      213: -68542206129971298
+    second: huesos_123
+  - first:
+      213: 5651458011848246977
+    second: huesos_124
+  - first:
+      213: -6497393132714358526
+    second: huesos_125
+  - first:
+      213: -5898483339975693975
+    second: huesos_126
+  - first:
+      213: 2371100469911792140
+    second: huesos_127
+  - first:
+      213: -650730773130010677
+    second: huesos_128
+  - first:
+      213: 8090973272087444706
+    second: huesos_129
+  - first:
+      213: -4906438050743886236
+    second: huesos_130
+  - first:
+      213: 3098763020595665939
+    second: huesos_131
+  - first:
+      213: -3788891417809405000
+    second: huesos_132
+  - first:
+      213: 7124619227175971270
+    second: huesos_133
+  - first:
+      213: 1929995919373915836
+    second: huesos_134
+  - first:
+      213: 1914039008028328328
+    second: huesos_135
+  - first:
+      213: -703272282991541220
+    second: huesos_136
+  - first:
+      213: 1984430955740065805
+    second: huesos_137
+  - first:
+      213: -7762482002167290749
+    second: huesos_138
+  - first:
+      213: 1409437898282380663
+    second: huesos_139
+  - first:
+      213: 3912810490089662053
+    second: huesos_140
+  - first:
+      213: -4831546062578908070
+    second: huesos_141
+  - first:
+      213: -5854911539108514484
+    second: huesos_142
+  - first:
+      213: -4572026235291494948
+    second: huesos_143
+  - first:
+      213: 8287663685300190250
+    second: huesos_144
+  - first:
+      213: 5372961743581300707
+    second: huesos_145
+  - first:
+      213: 4897742242061670948
+    second: huesos_146
+  - first:
+      213: -3221367884892047911
+    second: huesos_147
+  - first:
+      213: -2278072385707308956
+    second: huesos_148
+  - first:
+      213: 3311556932317942084
+    second: huesos_149
+  - first:
+      213: -2361002122159613598
+    second: huesos_150
+  - first:
+      213: 5724963540991420180
+    second: huesos_151
+  - first:
+      213: 4233935455684673060
+    second: huesos_152
+  - first:
+      213: 2802149521096100326
+    second: huesos_153
+  - first:
+      213: -249487770191852110
+    second: huesos_154
+  - first:
+      213: 6542375612277355324
+    second: huesos_155
+  - first:
+      213: 6601722614855661616
+    second: huesos_156
+  - first:
+      213: 8853890339764277459
+    second: huesos_157
+  - first:
+      213: -8869498990686704773
+    second: huesos_158
+  - first:
+      213: -7249037232219270867
+    second: huesos_159
+  - first:
+      213: -5317329474429422352
+    second: huesos_160
+  - first:
+      213: -6687395125478973969
+    second: huesos_161
+  - first:
+      213: -7421647421613532347
+    second: huesos_162
+  - first:
+      213: 4153416140512575349
+    second: huesos_163
+  - first:
+      213: 7639990029543666201
+    second: huesos_164
+  - first:
+      213: -5570460846934378284
+    second: huesos_165
+  - first:
+      213: 7152800430045039133
+    second: huesos_166
+  - first:
+      213: 5511708225793252366
+    second: huesos_167
+  - first:
+      213: 1921422035032373465
+    second: huesos_168
+  - first:
+      213: -4111683012712268258
+    second: huesos_169
+  - first:
+      213: -8477461518326625787
+    second: huesos_170
+  - first:
+      213: 2077565117160979135
+    second: huesos_171
+  - first:
+      213: 737589621535789979
+    second: huesos_172
+  - first:
+      213: -5873701229859408664
+    second: huesos_173
+  - first:
+      213: 3306359540094440458
+    second: huesos_174
+  - first:
+      213: -1363303981250711561
+    second: huesos_175
+  - first:
+      213: -8353276700218655699
+    second: huesos_176
+  - first:
+      213: -3426213649479983603
+    second: huesos_177
+  - first:
+      213: 8212960647136452277
+    second: huesos_178
+  - first:
+      213: -5262512803353775123
+    second: huesos_179
+  - first:
+      213: 1490439768235367909
+    second: huesos_180
+  - first:
+      213: 727299586823714037
+    second: huesos_181
+  - first:
+      213: 7670209682098392383
+    second: huesos_182
+  - first:
+      213: 8671398563123161041
+    second: huesos_183
+  - first:
+      213: 4906494757981866269
+    second: huesos_184
+  - first:
+      213: -3031559764562466784
+    second: huesos_185
+  - first:
+      213: 2074481410200700318
+    second: huesos_186
+  - first:
+      213: -271322473818038903
+    second: huesos_187
+  - first:
+      213: -950353436564057092
+    second: huesos_188
+  - first:
+      213: -8351465967721059558
+    second: huesos_189
+  - first:
+      213: 6966126275616225467
+    second: huesos_190
+  - first:
+      213: -6642620217525914832
+    second: huesos_191
+  - first:
+      213: 3347598625878046739
+    second: huesos_192
+  - first:
+      213: 2546606856012463709
+    second: huesos_193
+  - first:
+      213: -6613680593324225306
+    second: huesos_194
+  - first:
+      213: -4380523100435196712
+    second: huesos_195
+  - first:
+      213: 6544089158017458572
+    second: huesos_196
+  - first:
+      213: -6217264486292464431
+    second: huesos_197
+  - first:
+      213: 1734218422139982712
+    second: huesos_198
+  - first:
+      213: 8383982093912620098
+    second: huesos_199
+  - first:
+      213: -3848968762710155928
+    second: huesos_200
+  - first:
+      213: -706927491079811938
+    second: huesos_201
+  - first:
+      213: -7369552700790485643
+    second: huesos_202
+  - first:
+      213: -8048203994134981785
+    second: huesos_203
+  - first:
+      213: -4607798694365608179
+    second: huesos_204
+  - first:
+      213: -8914487960581047723
+    second: huesos_205
+  - first:
+      213: 505578574539363462
+    second: huesos_206
+  - first:
+      213: 602847182913759342
+    second: huesos_207
+  - first:
+      213: 1551807252011589349
+    second: huesos_208
+  - first:
+      213: -677508148508681989
+    second: huesos_209
+  - first:
+      213: 801527434918220735
+    second: huesos_210
+  - first:
+      213: 4506247124195002021
+    second: huesos_211
+  - first:
+      213: 6499425887338960575
+    second: huesos_212
+  - first:
+      213: 8478213512577794893
+    second: huesos_213
+  - first:
+      213: 8024642670636818724
+    second: huesos_214
+  - first:
+      213: 1414516864006475862
+    second: huesos_215
+  - first:
+      213: 3599495717614160483
+    second: huesos_216
+  - first:
+      213: 7069318978893293257
+    second: huesos_217
+  - first:
+      213: 4927833343008862780
+    second: huesos_218
+  - first:
+      213: 1066081782836803322
+    second: huesos_219
+  - first:
+      213: -7653607975583167136
+    second: huesos_220
+  - first:
+      213: 2805944916931710191
+    second: huesos_221
+  - first:
+      213: -6403564654255861875
+    second: huesos_222
+  - first:
+      213: 2102957624983100313
+    second: huesos_223
+  - first:
+      213: -8606079634083302217
+    second: huesos_224
+  - first:
+      213: -5298484967976221227
+    second: huesos_225
+  - first:
+      213: -5216199014160799171
+    second: huesos_226
+  - first:
+      213: -1910916816441427788
+    second: huesos_227
+  - first:
+      213: 3897908282685046066
+    second: huesos_228
+  - first:
+      213: 1070271204653524231
+    second: huesos_229
+  - first:
+      213: 3338855949833076440
+    second: huesos_230
+  - first:
+      213: 6925624904215595417
+    second: huesos_231
+  - first:
+      213: 4389804322072493961
+    second: huesos_232
+  - first:
+      213: -3629904295834765739
+    second: huesos_233
+  - first:
+      213: 7358460620575372088
+    second: huesos_234
+  - first:
+      213: -521990855097188343
+    second: huesos_235
+  - first:
+      213: 1447479948397187208
+    second: huesos_236
+  - first:
+      213: 7140154023978426384
+    second: huesos_237
+  - first:
+      213: 2206357928606372144
+    second: huesos_238
+  - first:
+      213: 1538204120778644228
+    second: huesos_239
+  - first:
+      213: -1691516372676697291
+    second: huesos_240
+  - first:
+      213: 1425363742233175978
+    second: huesos_241
+  - first:
+      213: -357022058031545741
+    second: huesos_242
+  - first:
+      213: -2136256172405147681
+    second: huesos_243
+  - first:
+      213: -231679693852299620
+    second: huesos_244
+  - first:
+      213: -8798262594625602037
+    second: huesos_245
+  - first:
+      213: -8794051696807508193
+    second: huesos_246
+  - first:
+      213: 8355526257456977060
+    second: huesos_247
+  - first:
+      213: -3016346422957953677
+    second: huesos_248
+  - first:
+      213: 5986218217810212017
+    second: huesos_249
+  - first:
+      213: 1703101420225039775
+    second: huesos_250
+  - first:
+      213: -5158373489277973823
+    second: huesos_251
+  - first:
+      213: -313405036687336853
+    second: huesos_252
+  - first:
+      213: -8823935027109904489
+    second: huesos_253
+  - first:
+      213: -2348382423994254852
+    second: huesos_254
+  - first:
+      213: 897258481031796238
+    second: huesos_255
+  - first:
+      213: -4990328269248954450
+    second: huesos_256
+  - first:
+      213: 3232634993645298887
+    second: huesos_257
+  - first:
+      213: -625210548451729680
+    second: huesos_258
+  - first:
+      213: -1202418656245095876
+    second: huesos_259
+  - first:
+      213: -3167949686946625631
+    second: huesos_260
+  - first:
+      213: -723220488108414263
+    second: huesos_261
+  - first:
+      213: -7833874593393368871
+    second: huesos_262
+  - first:
+      213: 2964866609392158454
+    second: huesos_263
+  - first:
+      213: -419573955420873913
+    second: huesos_264
+  - first:
+      213: -4773973301667044066
+    second: huesos_265
+  - first:
+      213: 3836331389242820782
+    second: huesos_266
+  - first:
+      213: -3470693596892910649
+    second: huesos_267
+  - first:
+      213: -3324479058376922501
+    second: huesos_268
+  - first:
+      213: -9015041104190846691
+    second: huesos_269
+  - first:
+      213: -4336664804943527203
+    second: huesos_270
+  - first:
+      213: 5243603086550412493
+    second: huesos_271
+  - first:
+      213: -6950874244005384482
+    second: huesos_272
+  - first:
+      213: 1032285789439314973
+    second: huesos_273
+  - first:
+      213: -7276149299697627102
+    second: huesos_274
+  - first:
+      213: -5025874493072394301
+    second: huesos_275
+  - first:
+      213: 7002087274858187380
+    second: huesos_276
+  - first:
+      213: -9205951692823242425
+    second: huesos_277
+  - first:
+      213: -8900061256537875571
+    second: huesos_278
+  - first:
+      213: -4369644121041079185
+    second: huesos_279
+  - first:
+      213: 7450197720303272668
+    second: huesos_280
+  - first:
+      213: 3191900138928394652
+    second: huesos_281
+  - first:
+      213: 7642144831536326780
+    second: huesos_282
+  - first:
+      213: -4610247996295820743
+    second: huesos_283
+  - first:
+      213: -7784397271634513621
+    second: huesos_284
+  - first:
+      213: 7575751741891313502
+    second: huesos_285
+  - first:
+      213: 5262257531281040684
+    second: huesos_286
+  - first:
+      213: 8173294571053380841
+    second: huesos_287
+  - first:
+      213: 8973605387737713574
+    second: huesos_288
+  - first:
+      213: -6733964924799364404
+    second: huesos_289
+  - first:
+      213: 1338274454222721150
+    second: huesos_290
+  - first:
+      213: -807496529405301929
+    second: huesos_291
+  - first:
+      213: -8620228333280799776
+    second: huesos_292
+  - first:
+      213: -5860969051259789842
+    second: huesos_293
+  - first:
+      213: 6696082881218861442
+    second: huesos_294
+  - first:
+      213: -2001543870488573261
+    second: huesos_295
+  - first:
+      213: -7324024820564497449
+    second: huesos_296
+  - first:
+      213: -8567751624899770862
+    second: huesos_297
+  - first:
+      213: -6463940404551896940
+    second: huesos_298
+  - first:
+      213: 3860611653869159743
+    second: huesos_299
+  - first:
+      213: 6537215834308330787
+    second: huesos_300
+  - first:
+      213: -9193601283792482449
+    second: huesos_301
+  - first:
+      213: -5891713780177841666
+    second: huesos_302
+  - first:
+      213: -6665934572984627896
+    second: huesos_303
+  - first:
+      213: -317147835514312609
+    second: huesos_304
+  - first:
+      213: 2286434848540584104
+    second: huesos_305
+  - first:
+      213: -8935513565292914500
+    second: huesos_306
+  - first:
+      213: -1001124497753407966
+    second: huesos_307
+  - first:
+      213: -3227944183756171647
+    second: huesos_308
+  - first:
+      213: -3432055588003184004
+    second: huesos_309
+  - first:
+      213: 683536946116554995
+    second: huesos_310
+  - first:
+      213: 3027514499793919484
+    second: huesos_311
+  - first:
+      213: 4648223344787707662
+    second: huesos_312
+  - first:
+      213: -2573933593204260463
+    second: huesos_313
+  - first:
+      213: -8260666139171039781
+    second: huesos_314
+  - first:
+      213: -6918993018174151201
+    second: huesos_315
+  - first:
+      213: -8234026257611988934
+    second: huesos_316
+  - first:
+      213: -1302027526285377775
+    second: huesos_317
+  - first:
+      213: -325531516383029783
+    second: huesos_318
+  - first:
+      213: -7646996335215108749
+    second: huesos_319
+  - first:
+      213: 260466515217489890
+    second: huesos_320
+  - first:
+      213: 3487101563547230119
+    second: huesos_321
+  - first:
+      213: -1581248140009372908
+    second: huesos_322
+  - first:
+      213: -6583355729147416771
+    second: huesos_323
+  - first:
+      213: -3657445315720944842
+    second: huesos_324
+  - first:
+      213: -1348728864826886721
+    second: huesos_325
+  - first:
+      213: 2112177922384478102
+    second: huesos_326
+  - first:
+      213: -1613948052148269338
+    second: huesos_327
+  - first:
+      213: 2731360304333707502
+    second: huesos_328
+  - first:
+      213: -9064037612443991370
+    second: huesos_329
+  - first:
+      213: 3742390273617261130
+    second: huesos_330
+  - first:
+      213: 825400378474461387
+    second: huesos_331
+  - first:
+      213: 6241558163772300261
+    second: huesos_332
+  - first:
+      213: 7837210124005050996
+    second: huesos_333
+  - first:
+      213: -7721565890250746436
+    second: huesos_334
+  - first:
+      213: -6581372278742496146
+    second: huesos_335
+  - first:
+      213: 1904348093320768833
+    second: huesos_336
+  - first:
+      213: 8543312700841953207
+    second: huesos_337
+  - first:
+      213: 2538885549505453755
+    second: huesos_338
+  - first:
+      213: -7328294054760157009
+    second: huesos_339
+  - first:
+      213: -5645247449026961953
+    second: huesos_340
+  - first:
+      213: 8736981199128992947
+    second: huesos_341
+  - first:
+      213: 8751568575521914876
+    second: huesos_342
+  - first:
+      213: 1913446521237368153
+    second: huesos_343
+  - first:
+      213: -4491759384152798186
+    second: huesos_344
+  - first:
+      213: -5856653024023339056
+    second: huesos_345
+  - first:
+      213: -5271014348427565022
+    second: huesos_346
+  - first:
+      213: 2687793953213694266
+    second: huesos_347
+  - first:
+      213: -198805106306660656
+    second: huesos_348
+  - first:
+      213: 104635299119018120
+    second: huesos_349
+  - first:
+      213: 1877405411823200369
+    second: huesos_350
+  - first:
+      213: -973715037581549454
+    second: huesos_351
+  - first:
+      213: 9218814072008854017
+    second: huesos_352
+  - first:
+      213: 4378560935917767876
+    second: huesos_353
+  - first:
+      213: -655650465444450103
+    second: huesos_354
+  - first:
+      213: 4899609055913353778
+    second: huesos_355
+  - first:
+      213: -2196700092902504137
+    second: huesos_356
+  - first:
+      213: 6612590057948913910
+    second: huesos_357
+  - first:
+      213: -8109872335226906044
+    second: huesos_358
+  - first:
+      213: 9095800828032652042
+    second: huesos_359
+  - first:
+      213: 991338399598419999
+    second: huesos_360
+  - first:
+      213: 5391893735736403392
+    second: huesos_361
+  - first:
+      213: 8468508726972433192
+    second: huesos_362
+  - first:
+      213: -5453684067581906318
+    second: huesos_363
+  - first:
+      213: 8845683454190986039
+    second: huesos_364
+  - first:
+      213: 5735733289015274977
+    second: huesos_365
+  - first:
+      213: 8582279074616099030
+    second: huesos_366
+  - first:
+      213: 3440381655143681384
+    second: huesos_367
+  - first:
+      213: 5466990047715466830
+    second: huesos_368
+  - first:
+      213: 5213177203808568755
+    second: huesos_369
+  - first:
+      213: -482617238122703878
+    second: huesos_370
+  - first:
+      213: 7608595267961313739
+    second: huesos_371
+  - first:
+      213: -3402216132687383946
+    second: huesos_372
+  - first:
+      213: -6890052480067632231
+    second: huesos_373
+  - first:
+      213: -7066563894363264254
+    second: huesos_374
+  - first:
+      213: 8947379795879279256
+    second: huesos_375
+  - first:
+      213: 6436503871483498611
+    second: huesos_376
+  - first:
+      213: 1386550872800892311
+    second: huesos_377
+  - first:
+      213: -2301507282861512847
+    second: huesos_378
+  - first:
+      213: 7795242529947545701
+    second: huesos_379
+  - first:
+      213: -6086167851478009905
+    second: huesos_380
+  - first:
+      213: -2534515455534384748
+    second: huesos_381
+  - first:
+      213: 4131235320878013768
+    second: huesos_382
+  - first:
+      213: -725996408613574681
+    second: huesos_383
+  - first:
+      213: 3359138794922544600
+    second: huesos_384
+  - first:
+      213: 1217882688048080780
+    second: huesos_385
+  - first:
+      213: -5160193735740872799
+    second: huesos_386
+  - first:
+      213: 7396906298889295781
+    second: huesos_387
+  - first:
+      213: -2105581201522972542
+    second: huesos_388
+  - first:
+      213: 3216639533402714854
+    second: huesos_389
+  - first:
+      213: -2674936880827426967
+    second: huesos_390
+  - first:
+      213: 7506492013510245643
+    second: huesos_391
+  - first:
+      213: 8454041364642962277
+    second: huesos_392
+  - first:
+      213: -2813283259943410894
+    second: huesos_393
+  - first:
+      213: -8933832381328171803
+    second: huesos_394
+  - first:
+      213: 1629073455672845872
+    second: huesos_395
+  - first:
+      213: -6747592200935522449
+    second: huesos_396
+  - first:
+      213: -5528777369339498900
+    second: huesos_397
+  - first:
+      213: -3102316920630383841
+    second: huesos_398
+  - first:
+      213: 2034634004316058982
+    second: huesos_399
+  - first:
+      213: -409005753134388430
+    second: huesos_400
+  - first:
+      213: -2870113558630886158
+    second: huesos_401
+  - first:
+      213: 2453731071679755687
+    second: huesos_402
+  - first:
+      213: -2470130778871278130
+    second: huesos_403
+  - first:
+      213: 409807762423744940
+    second: huesos_404
+  - first:
+      213: -6760398459269688731
+    second: huesos_405
+  - first:
+      213: 178296508793299952
+    second: huesos_406
+  - first:
+      213: -1226125750232805814
+    second: huesos_407
+  - first:
+      213: -8095506396354730650
+    second: huesos_408
+  - first:
+      213: -703156053395218196
+    second: huesos_409
+  - first:
+      213: 100850848664216809
+    second: huesos_410
+  - first:
+      213: -4343767408493422783
+    second: huesos_411
+  - first:
+      213: 3251620845702598382
+    second: huesos_412
+  - first:
+      213: 6814625549480635393
+    second: huesos_413
+  - first:
+      213: 6914662343542490873
+    second: huesos_414
+  - first:
+      213: 465753491845332362
+    second: huesos_415
+  - first:
+      213: -8546070593455625772
+    second: huesos_416
+  - first:
+      213: 850216573961756169
+    second: huesos_417
+  - first:
+      213: 1599166896763175854
+    second: huesos_418
+  - first:
+      213: -2259577925517492862
+    second: huesos_419
+  - first:
+      213: 4883794567576492479
+    second: huesos_420
+  - first:
+      213: 4649505801628473191
+    second: huesos_421
+  - first:
+      213: 1133504638363306386
+    second: huesos_422
+  - first:
+      213: -2862473591058818030
+    second: huesos_423
+  - first:
+      213: -2377343427784214292
+    second: huesos_424
+  - first:
+      213: 6561826929681621331
+    second: huesos_425
+  - first:
+      213: -6251815248405984977
+    second: huesos_426
+  - first:
+      213: -2334869783143814331
+    second: huesos_427
+  - first:
+      213: 4200436520561592006
+    second: huesos_428
+  - first:
+      213: -4907375178992961233
+    second: huesos_429
+  - first:
+      213: 4677806614007080460
+    second: huesos_430
+  - first:
+      213: -7936580392706608266
+    second: huesos_431
+  - first:
+      213: -2520426046991787858
+    second: huesos_432
+  - first:
+      213: -4799661251093952276
+    second: huesos_433
+  - first:
+      213: 4144008965015908974
+    second: huesos_434
+  - first:
+      213: 498016451484598813
+    second: huesos_435
+  - first:
+      213: -2727172681251760066
+    second: huesos_436
+  - first:
+      213: 4393697649721913602
+    second: huesos_437
+  - first:
+      213: 1707877186870014119
+    second: huesos_438
+  - first:
+      213: -2985881314768298900
+    second: huesos_439
+  - first:
+      213: -4256913909767447035
+    second: huesos_440
+  - first:
+      213: -3119199961869944521
+    second: huesos_441
+  - first:
+      213: 7795887245416583622
+    second: huesos_442
+  - first:
+      213: -1273836459744265939
+    second: huesos_443
+  - first:
+      213: -8272038015954937666
+    second: huesos_444
+  - first:
+      213: 3317969478428321489
+    second: huesos_445
+  - first:
+      213: -2358715034916907021
+    second: huesos_446
+  - first:
+      213: 978462090642433097
+    second: huesos_447
+  - first:
+      213: -4123931735108391001
+    second: huesos_448
+  - first:
+      213: 303348174754553845
+    second: huesos_449
+  - first:
+      213: -189727575762650298
+    second: huesos_450
+  - first:
+      213: -920535939281806226
+    second: huesos_451
+  - first:
+      213: 7449394599513782808
+    second: huesos_452
+  - first:
+      213: 8695256863419432681
+    second: huesos_453
+  - first:
+      213: 5405501803483848954
+    second: huesos_454
+  - first:
+      213: -5762982048688448613
+    second: huesos_455
+  - first:
+      213: -5181205347438606618
+    second: huesos_456
+  - first:
+      213: -1898079660815916006
+    second: huesos_457
+  - first:
+      213: 1115765589035587446
+    second: huesos_458
+  - first:
+      213: -6333170524922884220
+    second: huesos_459
+  - first:
+      213: -2165312045816411077
+    second: huesos_460
+  - first:
+      213: 3941501926802669118
+    second: huesos_461
+  - first:
+      213: -1970066513643693251
+    second: huesos_462
+  - first:
+      213: 4081316061860858603
+    second: huesos_463
+  - first:
+      213: 7358103324158696887
+    second: huesos_464
+  - first:
+      213: 458777920335109668
+    second: huesos_465
+  - first:
+      213: -2433828199106934365
+    second: huesos_466
+  - first:
+      213: -8191675567237425069
+    second: huesos_467
+  - first:
+      213: -1245500614259427891
+    second: huesos_468
+  - first:
+      213: -6346160898021353709
+    second: huesos_469
+  - first:
+      213: -1666563267986361954
+    second: huesos_470
+  - first:
+      213: -6004049633235352090
+    second: huesos_471
+  - first:
+      213: 1171477275746683646
+    second: huesos_472
+  - first:
+      213: -1771360037997414725
+    second: huesos_473
+  - first:
+      213: -5624482764493558229
+    second: huesos_474
+  - first:
+      213: 4774715629859336157
+    second: huesos_475
+  - first:
+      213: -3275834605263366997
+    second: huesos_476
+  - first:
+      213: -408140966588532609
+    second: huesos_477
+  - first:
+      213: 1420101876902261184
+    second: huesos_478
+  - first:
+      213: -3694590195541952617
+    second: huesos_479
+  - first:
+      213: 5509934689058269705
+    second: huesos_480
+  - first:
+      213: 3133022673724070440
+    second: huesos_481
+  - first:
+      213: -3017132704767623165
+    second: huesos_482
+  - first:
+      213: -5487131343325147383
+    second: huesos_483
+  - first:
+      213: 8463188045827184077
+    second: huesos_484
+  - first:
+      213: -4555161431879739654
+    second: huesos_485
+  - first:
+      213: 8278817426839550557
+    second: huesos_486
+  - first:
+      213: -2153994568721921977
+    second: huesos_487
+  - first:
+      213: 1571590156140343338
+    second: huesos_488
+  - first:
+      213: -2576376693303677588
+    second: huesos_489
+  - first:
+      213: -4448370279079643163
+    second: huesos_490
+  - first:
+      213: -1039612561521394856
+    second: huesos_491
+  - first:
+      213: 7217862986593879503
+    second: huesos_492
+  - first:
+      213: 2986003120004346353
+    second: huesos_493
+  - first:
+      213: -4422341354163859024
+    second: huesos_494
+  - first:
+      213: 3779485998984046310
+    second: huesos_495
+  - first:
+      213: -8923752049724150528
+    second: huesos_496
+  - first:
+      213: 6506459621053465934
+    second: huesos_497
+  - first:
+      213: 2766507612630958003
+    second: huesos_498
+  - first:
+      213: 561547253993654537
+    second: huesos_499
+  - first:
+      213: 4581869361259754565
+    second: huesos_500
+  - first:
+      213: -7751922396898177741
+    second: huesos_501
+  - first:
+      213: -3683719153344373521
+    second: huesos_502
+  - first:
+      213: -2525882830018991830
+    second: huesos_503
+  - first:
+      213: 5128544105972092145
+    second: huesos_504
+  - first:
+      213: 5577087242836093337
+    second: huesos_505
+  - first:
+      213: 4064244692049935029
+    second: huesos_506
+  - first:
+      213: 129333907976088617
+    second: huesos_507
+  - first:
+      213: 3732164684609929793
+    second: huesos_508
+  - first:
+      213: 1427108483460739236
+    second: huesos_509
+  - first:
+      213: -6801455982316322199
+    second: huesos_510
+  - first:
+      213: -7365563924589620312
+    second: huesos_511
+  - first:
+      213: -397725254127802860
+    second: huesos_512
+  - first:
+      213: -8885865692552470420
+    second: huesos_513
+  - first:
+      213: 6369463909781272237
+    second: huesos_514
+  - first:
+      213: 495976854351364934
+    second: huesos_515
+  - first:
+      213: -2020500242750973661
+    second: huesos_516
+  - first:
+      213: 2798349652152371067
+    second: huesos_517
+  - first:
+      213: -7391393802445364810
+    second: huesos_518
+  - first:
+      213: -2788345560168388554
+    second: huesos_519
+  - first:
+      213: -7680635524656664234
+    second: huesos_520
+  - first:
+      213: 1816202441449363168
+    second: huesos_521
+  - first:
+      213: -1349509816080776099
+    second: huesos_522
+  - first:
+      213: -5572732075123555615
+    second: huesos_523
+  - first:
+      213: -1102613464157346039
+    second: huesos_524
+  - first:
+      213: -1961556039810131176
+    second: huesos_525
+  - first:
+      213: 8678302600474833249
+    second: huesos_526
+  - first:
+      213: -3934204770942286266
+    second: huesos_527
+  - first:
+      213: -8290513654750759210
+    second: huesos_528
+  - first:
+      213: 3635505272311199516
+    second: huesos_529
+  - first:
+      213: -6125314895002338412
+    second: huesos_530
+  - first:
+      213: -241057712343877100
+    second: huesos_531
+  - first:
+      213: 8444898943314720801
+    second: huesos_532
+  - first:
+      213: 6937292955780833633
+    second: huesos_533
+  - first:
+      213: 4674457263276239254
+    second: huesos_534
+  - first:
+      213: 6077247008756413168
+    second: huesos_535
+  - first:
+      213: 7673845256219312330
+    second: huesos_536
+  - first:
+      213: -2717901221743872186
+    second: huesos_537
+  - first:
+      213: -190710264552545162
+    second: huesos_538
+  - first:
+      213: 6340486249936610184
+    second: huesos_539
+  - first:
+      213: 4637436215551826886
+    second: huesos_540
+  - first:
+      213: -2031050846273443476
+    second: huesos_541
+  - first:
+      213: -6599300945675189213
+    second: huesos_542
+  - first:
+      213: -2610916314698200814
+    second: huesos_543
+  - first:
+      213: -1286890493260898558
+    second: huesos_544
+  - first:
+      213: 3710912720880358185
+    second: huesos_545
+  - first:
+      213: -2676125433019031185
+    second: huesos_546
+  - first:
+      213: 6835878316377774552
+    second: huesos_547
+  - first:
+      213: 3333657889068991748
+    second: huesos_548
+  - first:
+      213: 4583207431467810614
+    second: huesos_549
+  - first:
+      213: -8027901932258406181
+    second: huesos_550
+  - first:
+      213: 3691418573361158232
+    second: huesos_551
+  - first:
+      213: -8801125277139700841
+    second: huesos_552
+  - first:
+      213: 5012230119471892519
+    second: huesos_553
+  - first:
+      213: -4528066740565923020
+    second: huesos_554
+  - first:
+      213: 5601027942685684100
+    second: huesos_555
+  - first:
+      213: -4830687215548663801
+    second: huesos_556
+  - first:
+      213: -223574592936622176
+    second: huesos_557
+  - first:
+      213: -1969504908948128920
+    second: huesos_558
+  - first:
+      213: -6689524253884764033
+    second: huesos_559
+  - first:
+      213: -1857674309443563466
+    second: huesos_560
+  - first:
+      213: -2149006000182881015
+    second: huesos_561
+  - first:
+      213: -7595261964849406775
+    second: huesos_562
+  - first:
+      213: 6015769928280699044
+    second: huesos_563
+  - first:
+      213: 2001882621937571551
+    second: huesos_564
+  - first:
+      213: 7834632349560195081
+    second: huesos_565
+  - first:
+      213: 7205025829325879409
+    second: huesos_566
+  - first:
+      213: -3890139583195530514
+    second: huesos_567
+  - first:
+      213: 2973357221874649535
+    second: huesos_568
+  - first:
+      213: -7512548999133369607
+    second: huesos_569
+  - first:
+      213: -3502101343612022582
+    second: huesos_570
+  - first:
+      213: 1467955533718804348
+    second: huesos_571
+  - first:
+      213: 595009603269199220
+    second: huesos_572
+  - first:
+      213: 8457244926875093762
+    second: huesos_573
+  - first:
+      213: -728066477352761286
+    second: huesos_574
+  - first:
+      213: 2705484136086241727
+    second: huesos_575
+  - first:
+      213: -3150253462315669038
+    second: huesos_576
+  - first:
+      213: 8100825948028540717
+    second: huesos_577
+  - first:
+      213: 6987613700118245368
+    second: huesos_578
+  - first:
+      213: 4306387351600776708
+    second: huesos_579
+  - first:
+      213: -6040287481496207363
+    second: huesos_580
+  - first:
+      213: -3811270862367772615
+    second: huesos_581
+  - first:
+      213: 7817893778501364981
+    second: huesos_582
+  - first:
+      213: -3984793397001470723
+    second: huesos_583
+  - first:
+      213: -6738837043564363646
+    second: huesos_584
+  - first:
+      213: 1216725903076391214
+    second: huesos_585
+  - first:
+      213: 1474412431741613387
+    second: huesos_586
+  - first:
+      213: -8475456285242259403
+    second: huesos_587
+  - first:
+      213: -5053527886169829816
+    second: huesos_588
+  - first:
+      213: -8368998281041522536
+    second: huesos_589
+  - first:
+      213: 1081686371903354217
+    second: huesos_590
+  - first:
+      213: 4066923665761865726
+    second: huesos_591
+  - first:
+      213: -4818336867879315323
+    second: huesos_592
+  - first:
+      213: -3340073536825257963
+    second: huesos_593
+  - first:
+      213: -6379104614683084330
+    second: huesos_594
+  - first:
+      213: -2605175811990323753
+    second: huesos_595
+  - first:
+      213: -987414108063567836
+    second: huesos_596
+  - first:
+      213: 4568856409790473830
+    second: huesos_597
+  - first:
+      213: 1925259809460885011
+    second: huesos_598
+  - first:
+      213: 518670934601245636
+    second: huesos_599
+  - first:
+      213: -3728078700993623255
+    second: huesos_600
+  - first:
+      213: 6641057889934988260
+    second: huesos_601
+  - first:
+      213: 9031709129485606553
+    second: huesos_602
+  - first:
+      213: 3412677953865517421
+    second: huesos_603
+  - first:
+      213: 6552972729899060910
+    second: huesos_604
+  - first:
+      213: 3827170453127169087
+    second: huesos_605
+  - first:
+      213: 8814408229220281550
+    second: huesos_606
+  - first:
+      213: -5111216537385573520
+    second: huesos_607
+  - first:
+      213: 5702219353025097142
+    second: huesos_608
+  - first:
+      213: -6217435728883541651
+    second: huesos_609
+  - first:
+      213: 5755430105496544211
+    second: huesos_610
+  - first:
+      213: -2923333819726885406
+    second: huesos_611
+  - first:
+      213: -3700157830080870450
+    second: huesos_612
+  - first:
+      213: 3146109065724872078
+    second: huesos_613
+  - first:
+      213: 8593866743461975254
+    second: huesos_614
+  - first:
+      213: 5630920335171887168
+    second: huesos_615
+  - first:
+      213: -2342869854841927933
+    second: huesos_616
+  - first:
+      213: -6545222472857268020
+    second: huesos_617
+  - first:
+      213: -818081647031857213
+    second: huesos_618
+  - first:
+      213: 7599934239348851691
+    second: huesos_619
+  - first:
+      213: -2674386667722981017
+    second: huesos_620
+  - first:
+      213: -2446157079720284675
+    second: huesos_621
+  - first:
+      213: -3193187083277424466
+    second: huesos_622
+  - first:
+      213: -5493313564190499562
+    second: huesos_623
+  - first:
+      213: -8783430232137830971
+    second: huesos_624
+  - first:
+      213: 4162685131530791607
+    second: huesos_625
+  - first:
+      213: 6098171764584213792
+    second: huesos_626
+  - first:
+      213: -835371039755149415
+    second: huesos_627
+  - first:
+      213: 8271983735621147343
+    second: huesos_628
+  - first:
+      213: 493283707266112479
+    second: huesos_629
+  - first:
+      213: 4264361729484968842
+    second: huesos_630
+  - first:
+      213: -4774355887081050408
+    second: huesos_631
+  - first:
+      213: 5998687207269582184
+    second: huesos_632
+  - first:
+      213: 7873623192835152837
+    second: huesos_633
+  - first:
+      213: 8335988789352802018
+    second: huesos_634
+  - first:
+      213: -2480779471108484578
+    second: huesos_635
+  - first:
+      213: 6579958324405526949
+    second: huesos_636
+  - first:
+      213: 3213427936637213655
+    second: huesos_637
+  - first:
+      213: 1545172330941909677
+    second: huesos_638
+  - first:
+      213: -894654598574787511
+    second: huesos_639
+  - first:
+      213: -2260522410268378805
+    second: huesos_640
+  - first:
+      213: -3298252154296723370
+    second: huesos_641
+  - first:
+      213: -9001231001527166841
+    second: huesos_642
+  - first:
+      213: -4523542408646087517
+    second: huesos_643
+  - first:
+      213: -1803882905733242463
+    second: huesos_644
+  - first:
+      213: 4875588707267549923
+    second: huesos_645
+  - first:
+      213: -4500507844285422776
+    second: huesos_646
+  - first:
+      213: 1182557004002346978
+    second: huesos_647
+  - first:
+      213: 1289575458997943576
+    second: huesos_648
+  - first:
+      213: -5270276598895952583
+    second: huesos_649
+  - first:
+      213: 9039220750775561772
+    second: huesos_650
+  - first:
+      213: 6871269194230802801
+    second: huesos_651
+  - first:
+      213: 8421488070710514689
+    second: huesos_652
+  - first:
+      213: 6108176099088972460
+    second: huesos_653
+  - first:
+      213: 2002982081348781510
+    second: huesos_654
+  - first:
+      213: 1557021449228605716
+    second: huesos_655
+  - first:
+      213: 7975396728199551458
+    second: huesos_656
+  - first:
+      213: 3630774740824529636
+    second: huesos_657
+  - first:
+      213: -3118993031946965227
+    second: huesos_658
+  - first:
+      213: -7802585293896352544
+    second: huesos_659
+  - first:
+      213: -735548941907956855
+    second: huesos_660
+  - first:
+      213: -201030055045331633
+    second: huesos_661
+  - first:
+      213: 5659950901570132916
+    second: huesos_662
+  - first:
+      213: 3693177902255331504
+    second: huesos_663
+  - first:
+      213: -7340062861809783952
+    second: huesos_664
+  - first:
+      213: -4343264500646418788
+    second: huesos_665
+  - first:
+      213: -3443357040925171807
+    second: huesos_666
+  - first:
+      213: 5328956964033917315
+    second: huesos_667
+  - first:
+      213: -3751390907023223361
+    second: huesos_668
+  - first:
+      213: 4118162150078403318
+    second: huesos_669
+  - first:
+      213: -2661219010786008957
+    second: huesos_670
+  - first:
+      213: -5485253338918527598
+    second: huesos_671
+  - first:
+      213: -4434451430065031114
+    second: huesos_672
+  - first:
+      213: 5481515856702895517
+    second: huesos_673
+  - first:
+      213: -5244694434295861227
+    second: huesos_674
+  - first:
+      213: 51837066614917953
+    second: huesos_675
+  - first:
+      213: 5833887675978289036
+    second: huesos_676
+  - first:
+      213: 588850029398419558
+    second: huesos_677
+  - first:
+      213: 4330871470675108279
+    second: huesos_678
+  - first:
+      213: -5589922607543693649
+    second: huesos_679
+  - first:
+      213: 5204031171947100641
+    second: huesos_680
+  - first:
+      213: -6922024026478127316
+    second: huesos_681
+  - first:
+      213: -8064557038029412778
+    second: huesos_682
+  - first:
+      213: 2273626532286316879
+    second: huesos_683
+  - first:
+      213: 8642558516964709421
+    second: huesos_684
+  - first:
+      213: -5392219792162887382
+    second: huesos_685
+  - first:
+      213: 3958367330433877681
+    second: huesos_686
+  - first:
+      213: -5646479520949252084
+    second: huesos_687
+  - first:
+      213: 9039441159290597020
+    second: huesos_688
+  - first:
+      213: -1414623521399728962
+    second: huesos_689
+  - first:
+      213: -5188571891622849314
+    second: huesos_690
+  - first:
+      213: 128500621712787915
+    second: huesos_691
+  - first:
+      213: 3326120897985261114
+    second: huesos_692
+  - first:
+      213: -3637687303361007483
+    second: huesos_693
+  - first:
+      213: 2136457445865817909
+    second: huesos_694
+  - first:
+      213: 1597180183925172143
+    second: huesos_695
+  - first:
+      213: -4555147434657421911
+    second: huesos_696
+  - first:
+      213: -8789078384743159123
+    second: huesos_697
+  - first:
+      213: 5656963951076308067
+    second: huesos_698
+  - first:
+      213: 5149812142526319272
+    second: huesos_699
+  - first:
+      213: -6866700363365610543
+    second: huesos_700
+  - first:
+      213: -6562298823560639173
+    second: huesos_701
+  - first:
+      213: 192439242575361920
+    second: huesos_702
+  - first:
+      213: -950357542846469428
+    second: huesos_703
+  - first:
+      213: -3142930975509872561
+    second: huesos_704
+  - first:
+      213: -4905690478681564799
+    second: huesos_705
+  - first:
+      213: 5810784686820866178
+    second: huesos_706
+  - first:
+      213: -1741036593489722244
+    second: huesos_707
+  - first:
+      213: -708362832017223582
+    second: huesos_708
+  - first:
+      213: 7247665227209622935
+    second: huesos_709
+  - first:
+      213: 8121244008874460750
+    second: huesos_710
+  - first:
+      213: 33537503809135309
+    second: huesos_711
+  - first:
+      213: -5104242321414062505
+    second: huesos_712
+  - first:
+      213: -4162701076004560064
+    second: huesos_713
+  - first:
+      213: 8151515836808084267
+    second: huesos_714
+  - first:
+      213: 1398011533255050103
+    second: huesos_715
+  - first:
+      213: 6521062131727990242
+    second: huesos_716
+  - first:
+      213: 4615641353056858866
+    second: huesos_717
+  - first:
+      213: -7633145254403610319
+    second: huesos_718
+  - first:
+      213: 416798231136803708
+    second: huesos_719
+  - first:
+      213: -3947692800959070466
+    second: huesos_720
+  - first:
+      213: 2978527780648272769
+    second: huesos_721
+  - first:
+      213: 5046980011433562468
+    second: huesos_722
+  - first:
+      213: -9081132130506873093
+    second: huesos_723
+  - first:
+      213: -7256836782498579495
+    second: huesos_724
+  - first:
+      213: -5983993423538036900
+    second: huesos_725
+  - first:
+      213: 5549818423114647060
+    second: huesos_726
+  - first:
+      213: -1377422757034204488
+    second: huesos_727
+  - first:
+      213: -5018487171817522130
+    second: huesos_728
+  - first:
+      213: -1599455012147131304
+    second: huesos_729
+  - first:
+      213: 8455703798848626952
+    second: huesos_730
+  - first:
+      213: 7700081294119221481
+    second: huesos_731
+  - first:
+      213: 2113179080565780585
+    second: huesos_732
+  - first:
+      213: -1415989081539481719
+    second: huesos_733
+  - first:
+      213: 1791503368765799359
+    second: huesos_734
+  - first:
+      213: 8376857890703867949
+    second: huesos_735
+  - first:
+      213: -6328676292129442172
+    second: huesos_736
+  - first:
+      213: 2836640388961843362
+    second: huesos_737
+  - first:
+      213: -7430443772488289316
+    second: huesos_738
+  - first:
+      213: 3654694003416661192
+    second: huesos_739
+  - first:
+      213: -7895202227405795714
+    second: huesos_740
+  - first:
+      213: -3859651172907553248
+    second: huesos_741
+  - first:
+      213: 2640270222751126253
+    second: huesos_742
+  - first:
+      213: 4456761181121122433
+    second: huesos_743
+  - first:
+      213: 4456736756970018407
+    second: huesos_744
+  - first:
+      213: -1744351680378222992
+    second: huesos_745
+  - first:
+      213: 2851906654569854787
+    second: huesos_746
+  - first:
+      213: -6710230045879150512
+    second: huesos_747
+  - first:
+      213: -5362450361849557678
+    second: huesos_748
+  - first:
+      213: 2719407577532379859
+    second: huesos_749
+  - first:
+      213: 5318106246797811578
+    second: huesos_750
+  - first:
+      213: -4283374239890701525
+    second: huesos_751
+  - first:
+      213: 5450165087226366096
+    second: huesos_752
+  - first:
+      213: -7666454730689407532
+    second: huesos_753
+  - first:
+      213: -4935657004576184504
+    second: huesos_754
+  - first:
+      213: 2399881568128205016
+    second: huesos_755
+  - first:
+      213: -2547664655915061933
+    second: huesos_756
+  - first:
+      213: 1523010797837283291
+    second: huesos_757
+  - first:
+      213: 2849569363301329594
+    second: huesos_758
+  - first:
+      213: 5490153135132380759
+    second: huesos_759
+  - first:
+      213: -6058182088930708631
+    second: huesos_760
+  - first:
+      213: -5625977945273407449
+    second: huesos_761
+  - first:
+      213: 1363694899828814620
+    second: huesos_762
+  - first:
+      213: -1549151463023324961
+    second: huesos_763
+  - first:
+      213: -4702330429478446913
+    second: huesos_764
+  - first:
+      213: 8174079634411095868
+    second: huesos_765
+  - first:
+      213: 6954657290734698295
+    second: huesos_766
+  - first:
+      213: 4464420294999108126
+    second: huesos_767
+  - first:
+      213: 1740836424405388701
+    second: huesos_768
+  - first:
+      213: 5280875204691320855
+    second: huesos_769
+  - first:
+      213: -7281768627981916176
+    second: huesos_770
+  - first:
+      213: -6900690916160672332
+    second: huesos_771
+  - first:
+      213: 2796422826316234644
+    second: huesos_772
+  - first:
+      213: 8700727300635098053
+    second: huesos_773
+  - first:
+      213: -4681191925046626527
+    second: huesos_774
+  - first:
+      213: -2845045530619151100
+    second: huesos_775
+  - first:
+      213: -3383848622822689852
+    second: huesos_776
+  - first:
+      213: 733128635587649396
+    second: huesos_777
+  - first:
+      213: 6355391967604370536
+    second: huesos_778
+  - first:
+      213: -2249441654287882884
+    second: huesos_779
+  - first:
+      213: -5324798182585127603
+    second: huesos_780
+  - first:
+      213: -7532218834697086567
+    second: huesos_781
+  - first:
+      213: 3756865885278889088
+    second: huesos_782
+  - first:
+      213: 4510618280461645471
+    second: huesos_783
+  - first:
+      213: -7836276583197035166
+    second: huesos_784
+  - first:
+      213: -4957525605019460693
+    second: huesos_785
+  - first:
+      213: -4356310477458732136
+    second: huesos_786
+  - first:
+      213: -2120129091440122999
+    second: huesos_787
+  - first:
+      213: -8474083626640916861
+    second: huesos_788
+  - first:
+      213: 7978873091689223569
+    second: huesos_789
+  - first:
+      213: -7343828937978801702
+    second: huesos_790
+  - first:
+      213: -770767336187826746
+    second: huesos_791
+  - first:
+      213: 5618969680260162160
+    second: huesos_792
+  - first:
+      213: -6431499058727514296
+    second: huesos_793
+  - first:
+      213: -70424509659422193
+    second: huesos_794
+  - first:
+      213: -7269156107391466965
+    second: huesos_795
+  - first:
+      213: 5434186601661286799
+    second: huesos_796
+  - first:
+      213: -2888090336522699797
+    second: huesos_797
+  - first:
+      213: 1468638087039866216
+    second: huesos_798
+  - first:
+      213: -3363806275763113505
+    second: huesos_799
+  - first:
+      213: -4480824585768077133
+    second: huesos_800
+  - first:
+      213: -605051052231949567
+    second: huesos_801
+  - first:
+      213: -5384208615572490384
+    second: huesos_802
+  - first:
+      213: 704037285117638697
+    second: huesos_803
+  - first:
+      213: 5613986159260944069
+    second: huesos_804
+  - first:
+      213: 2986848610725442445
+    second: huesos_805
+  - first:
+      213: 483994762816395678
+    second: huesos_806
+  - first:
+      213: -3074339614200850836
+    second: huesos_807
+  - first:
+      213: -830990436033369718
+    second: huesos_808
+  - first:
+      213: 922570605702795931
+    second: huesos_809
+  - first:
+      213: 3556882162009885182
+    second: huesos_810
+  - first:
+      213: 6771951028516049016
+    second: huesos_811
+  - first:
+      213: 6491468894518602453
+    second: huesos_812
+  - first:
+      213: -5707278973507971656
+    second: huesos_813
+  - first:
+      213: -2845726690173631739
+    second: huesos_814
+  - first:
+      213: -7092547152961711975
+    second: huesos_815
+  - first:
+      213: -1566632378059210460
+    second: huesos_816
+  - first:
+      213: 7491355077244766787
+    second: huesos_817
+  - first:
+      213: 2446895300099765183
+    second: huesos_818
+  - first:
+      213: 5393501342315447104
+    second: huesos_819
+  - first:
+      213: 6470209797676470856
+    second: huesos_820
+  - first:
+      213: 4668447955048734095
+    second: huesos_821
+  - first:
+      213: 378363504151743792
+    second: huesos_822
+  - first:
+      213: -9188377685032071626
+    second: huesos_823
+  - first:
+      213: 442162820424727517
+    second: huesos_824
+  - first:
+      213: -3820578039929031512
+    second: huesos_825
+  - first:
+      213: -3834134376839513160
+    second: huesos_826
+  - first:
+      213: -1729761685615586705
+    second: huesos_827
+  - first:
+      213: 469614187815955191
+    second: huesos_828
+  - first:
+      213: -7150492220381434062
+    second: huesos_829
+  - first:
+      213: -3025253674768078350
+    second: huesos_830
+  - first:
+      213: -8650457181171198508
+    second: huesos_831
+  - first:
+      213: -6547706669686039299
+    second: huesos_832
+  - first:
+      213: -2958546450456824753
+    second: huesos_833
+  - first:
+      213: -3264167463798300513
+    second: huesos_834
+  - first:
+      213: -6642422942348221662
+    second: huesos_835
+  - first:
+      213: -6942027065910854103
+    second: huesos_836
+  - first:
+      213: -5656043630546325584
+    second: huesos_837
+  - first:
+      213: 7009044997579767964
+    second: huesos_838
+  - first:
+      213: 6663276988778347706
+    second: huesos_839
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huesos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c2822384f4b7e20800000000000000
+      internalID: 3349357919377828905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2ca03155e82870800000000000000
+      internalID: 8658422420491481004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deecd1ac38f9b050800000000000000
+      internalID: 5816953333023043285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e10afe78d08870800000000000000
+      internalID: 8683178121442223694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b284016a2acd19ea0800000000000000
+      internalID: -5867666248358148053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee209cb84d9f6e0800000000000000
+      internalID: -1803176478947217755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767db8cda01389a0800000000000000
+      internalID: -6232119120767388043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5b559a246de890800000000000000
+      internalID: -7427170076406882967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b87cdde3e65ea0800000000000000
+      internalID: -5884265252367322147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855b57027bdce5330800000000000000
+      internalID: 3701622130152420696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d94435ed142e40800000000000000
+      internalID: 5630658304381933704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b87fd43bfcd6e0800000000000000
+      internalID: -1811296745603682215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d69f19c6d6d748a0800000000000000
+      internalID: -6320847334005565739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3e4252d3448bc0800000000000000
+      internalID: -3781823216481322049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7626fed03643620800000000000000
+      internalID: 2752934183732144065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318554c13e2288110800000000000000
+      internalID: 1263298054304651283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11136e03e27660e50800000000000000
+      internalID: 6775216137512038673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e25f5fae4ef850800000000000000
+      internalID: 6412649434547677186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310d34afed8f9c80800000000000000
+      internalID: -8313770326710484679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb215c973cc073a0800000000000000
+      internalID: -6669606508917871679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76795cdb2c729fe0800000000000000
+      internalID: -1183747224222730627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571a4d196d31c570800000000000000
+      internalID: 8485130694614980442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d592e40ab6ff1560800000000000000
+      internalID: 7286814000915060185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278d0e4cbe23460a0800000000000000
+      internalID: -6889325541768243086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c446c53fea441980800000000000000
+      internalID: -8569141799719385915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80692a07448740e30800000000000000
+      internalID: 4468828965601187336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52032b06967a90d0800000000000000
+      internalID: -3415286980603084193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6844ecd1511a603b0800000000000000
+      internalID: -5546568778993744762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896decefb6a9afca0800000000000000
+      internalID: -5982299366381136232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e206335daa39200800000000000000
+      internalID: 185679842319019605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2b0f022604a8fb0800000000000000
+      internalID: -4644829275475627274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d519c90201373780800000000000000
+      internalID: -8703433870046325296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea862f7aa2c21c0800000000000000
+      internalID: -4527196624599339316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441faed91df49dc30800000000000000
+      internalID: 4384623473938067780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ad134e82c63fe0800000000000000
+      internalID: -1209565533635238140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aefd153889cf540800000000000000
+      internalID: 5043073372529879601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c95c72b1847f420800000000000000
+      internalID: 2663676986081516659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3b7c34130174070800000000000000
+      internalID: 8090453059370988539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e10861981b94d890800000000000000
+      internalID: -7434146555060813340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad3f694c97f89550800000000000000
+      internalID: 6167951940302880164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae983d4369f9cc0800000000000000
+      internalID: -3702075215043761639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ce9cf58606eb50800000000000000
+      internalID: 6621987474633573297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a331c98f3d9380800000000000000
+      internalID: -8962937822512962467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aa14b10c6a79bd0800000000000000
+      internalID: -2623444913898804625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee9dd316c5bdbd10800000000000000
+      internalID: 2143068860039667436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688b78d078b5ec60800000000000000
+      internalID: 7846880720570779750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8df103004fdcc60800000000000000
+      internalID: 7840190807966472416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736118fd729897de0800000000000000
+      internalID: -1334885010192132553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b75c798f318fb0800000000000000
+      internalID: -4647363480740447940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9aa2a17428e5d0800000000000000
+      internalID: -3033134278555034450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16eddbb2d957210800000000000000
+      internalID: 1330142076152472009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb05ef6457f31760800000000000000
+      internalID: 7427552152490675127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b6f8b5b99cbe80800000000000000
+      internalID: -8161479418930876129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3702916362cace0800000000000000
+      internalID: -1392696170972679176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b03b6b2359ff20800000000000000
+      internalID: 3456885634930620294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97748c1a2018cad0800000000000000
+      internalID: -2681875805046016100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a15a692b75f4d0800000000000000
+      internalID: -3101437350567107450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348f0779899f7300800000000000000
+      internalID: 252088919843111998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf2348752a89ac0800000000000000
+      internalID: -3848147384824300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d03de79ed06600800000000000000
+      internalID: 459611906092619943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04331de06545f24b0800000000000000
+      internalID: -5463055094384610496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da9def6698f6ea10800000000000000
+      internalID: 1938510014636202707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca5e8acf18137f00800000000000000
+      internalID: 1113260057712024265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d887fb33b7a574a0800000000000000
+      internalID: -6596181690967160615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fde5f01273f0460800000000000000
+      internalID: 7210042143574777641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf951b3c083fb500800000000000000
+      internalID: 414111315923410910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e389cd752b40a5b50800000000000000
+      internalID: 6582578969380165694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8f0476125c56c10800000000000000
+      internalID: 2046258352966662388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f5620140997a950800000000000000
+      internalID: 6460300433216135067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb0e3f37186f8150800000000000000
+      internalID: 5877030487796354012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff96b3d35a3a2a0800000000000000
+      internalID: -6727351735952998585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f76a32db18976c60800000000000000
+      internalID: 7811379323955996661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed23dd4b73c165f0800000000000000
+      internalID: -765115527322194464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7da32ae1b74d20800000000000000
+      internalID: 3262772074232249926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e251604fc9775430800000000000000
+      internalID: 3771617143991390944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8499c63a21682e0800000000000000
+      internalID: -2123989681147655985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d230240d7ee6e760800000000000000
+      internalID: 7486933651257570001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89337f522267d6aa0800000000000000
+      internalID: -6166142425762417768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bfbd747273d50c0800000000000000
+      internalID: -4585448203744445559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bf63d2e876cda0800000000000000
+      internalID: -5924915344154054072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c237e4fb854cf0800000000000000
+      internalID: -268654718791532108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1835b3bd02d1e930800000000000000
+      internalID: 4170845686213195805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb84228e5c9d2020800000000000000
+      internalID: 2318681312889965537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c74c41b6b4f630800000000000000
+      internalID: 3959990844970746210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7a7eb3543fc6c0800000000000000
+      internalID: -4121017599738085496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb32b7a6c06658b0800000000000000
+      internalID: -5163833516400428060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c6ef5a1b735f30800000000000000
+      internalID: 4563126200664770590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d20c1958b81ff70800000000000000
+      internalID: 9219303317996318038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2726be6f008960d0800000000000000
+      internalID: -3429068837495625939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457108ae313dbbc0800000000000000
+      internalID: -3765799568235465400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e66426bc0ae170800000000000000
+      internalID: 8208387247270454425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558eab084bad909e0800000000000000
+      internalID: -1654550919293245355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e14ae311aeafb0800000000000000
+      internalID: -4634589859611025184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163f49dc727a19a60800000000000000
+      internalID: 7679102629038060385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667d36dc19ae23690800000000000000
+      internalID: -7623773307247798426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab907a257d53caf0800000000000000
+      internalID: -377355185964409946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503dc989c8097c750800000000000000
+      internalID: 6325183135195386629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e2d15bf8060e80800000000000000
+      internalID: -8212866994960931201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6650410eaef890800000000000000
+      internalID: -7422303815462392051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be651a10ace1bb700800000000000000
+      internalID: 557072831869966059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e42f4ce1887810800000000000000
+      internalID: 1763302106055632906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa10e0c81d7a0f30800000000000000
+      internalID: 4542580719425166075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd9382fcfb423a00800000000000000
+      internalID: 734733238987365838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88da2aedaaea6ffe0800000000000000
+      internalID: -1155544205471076984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb10f69b4b350d90800000000000000
+      internalID: -7132229239030408217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598172c91db779f0800000000000000
+      internalID: -470699717702874794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a307387f0829a780800000000000000
+      internalID: -8671355560618687578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895f2126d127a480800000000000000
+      internalID: -8888098136028915314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4255eb9c9d766d00800000000000000
+      internalID: 965597281701417548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b45585b029e3ae0800000000000000
+      internalID: -1567655042854073552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade13603805949d0800000000000000
+      internalID: -2789609970504438353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f380fcd80bc6610800000000000000
+      internalID: 1615860489429467034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0bc904b79939500800000000000000
+      internalID: 401833546410143912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c4e09e518f9510800000000000000
+      internalID: 1558106239251300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b087c14c8ef6330800000000000000
+      internalID: 3706436947338070827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed54e935a97e3990800000000000000
+      internalID: -7404346986802684434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe17b422756a9950800000000000000
+      internalID: 6456584556705685242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4bf96d1d9264cd0800000000000000
+      internalID: -2574324155769965358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44852aa3d46244e30800000000000000
+      internalID: 4486753241905911876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5852845345fe5770800000000000000
+      internalID: 8601582007853668444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b87ad1ba8efb90800000000000000
+      internalID: -7206169857267026083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad45ce0883c93ade0800000000000000
+      internalID: -1323042099021720358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331606882f5103a0800000000000000
+      internalID: -6700970142898711747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f50870a3d7c0ff0800000000000000
+      internalID: -68542206129971298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6004b7e130e6e40800000000000000
+      internalID: 5651458011848246977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2098f76de5f94d5a0800000000000000
+      internalID: -6497393132714358526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969603f57a0642ea0800000000000000
+      internalID: -5898483339975693975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aaad39057d7e020800000000000000
+      internalID: 2371100469911792140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf9b2f3fc328f6f0800000000000000
+      internalID: -650730773130010677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb3f9b259e84070800000000000000
+      internalID: 8090973272087444706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e53f89694d8ebb0800000000000000
+      internalID: -4906438050743886236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c98bd9c84010b20800000000000000
+      internalID: 3098763020595665939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb1f474572b6bc0800000000000000
+      internalID: -3788891417809405000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9edb3707bbfd260800000000000000
+      internalID: 7124619227175971270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65c382019b8ca10800000000000000
+      internalID: 1929995919373915836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88105c73658009a10800000000000000
+      internalID: 1914039008028328328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1449efa5997d36f0800000000000000
+      internalID: -703272282991541220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00fc26b07d1a8b10800000000000000
+      internalID: 1984430955740065805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384a4751fbf164490800000000000000
+      internalID: -7762482002167290749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d281c0d445f8310800000000000000
+      internalID: 1409437898282380663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5666737e8681d4630800000000000000
+      internalID: 3912810490089662053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a540c086476e2fcb0800000000000000
+      internalID: -4831546062578908070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45f910d9fc2fbea0800000000000000
+      internalID: -5854911539108514484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51fa5dc56ec80c0800000000000000
+      internalID: -4572026235291494948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cf83c3632b30370800000000000000
+      internalID: 8287663685300190250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74de51d38909a40800000000000000
+      internalID: 5372961743581300707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad28bae9648f340800000000000000
+      internalID: 4897742242061670948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5782ae9f66b43d0800000000000000
+      internalID: -3221367884892047911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680a452c39a260e0800000000000000
+      internalID: -2278072385707308956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4411b4c0c7305fd20800000000000000
+      internalID: 3311556932317942084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2699bba34190c3fd0800000000000000
+      internalID: -2361002122159613598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172bd42208237f40800000000000000
+      internalID: 5724963540991420180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e34065dd5f1ca30800000000000000
+      internalID: 4233935455684673060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9c67c942c33e620800000000000000
+      internalID: 2802149521096100326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd09e1e134a98cf0800000000000000
+      internalID: -249487770191852110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3378f4d4ff2bca50800000000000000
+      internalID: 6542375612277355324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387224adb70e9b50800000000000000
+      internalID: 6601722614855661616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d099e5aa565fda70800000000000000
+      internalID: 8853890339764277459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bee6c19a539e480800000000000000
+      internalID: -8869498990686704773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215df95b0f366b90800000000000000
+      internalID: -7249037232219270867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f47be2f30d0536b0800000000000000
+      internalID: -5317329474429422352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed952190999133a0800000000000000
+      internalID: -6687395125478973969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b188addf2010990800000000000000
+      internalID: -7421647421613532347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f30ab59f5e3a930800000000000000
+      internalID: 4153416140512575349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f9761472b60a60800000000000000
+      internalID: 7639990029543666201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8314f8f5fb1b2b0800000000000000
+      internalID: -5570460846934378284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a881e081ad34360800000000000000
+      internalID: 7152800430045039133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5108dd658d7c40800000000000000
+      internalID: 5511708225793252366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d876b529234aaa10800000000000000
+      internalID: 1921422035032373465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef646a51e50f6c0800000000000000
+      internalID: -4111683012712268258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a09132aa10a5a80800000000000000
+      internalID: -8477461518326625787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba7f16777ef4dc10800000000000000
+      internalID: 2077565117160979135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d7a55ad17c3a00800000000000000
+      internalID: 737589621535789979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e474750adb6c7ea0800000000000000
+      internalID: -5873701229859408664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049d0fdb7c82ed20800000000000000
+      internalID: 3306359540094440458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffecac8042941de0800000000000000
+      internalID: -1363303981250711561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7be44913331c80800000000000000
+      internalID: -8353276700218655699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e9622b6d4a370d0800000000000000
+      internalID: -3426213649479983603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be94d6c13c4af170800000000000000
+      internalID: 8212960647136452277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33722cc7cc7f6b0800000000000000
+      internalID: -5262512803353775123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd8c0921b1fa410800000000000000
+      internalID: 1490439768235367909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47aedee13e71a00800000000000000
+      internalID: 727299586823714037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d8c3e311f027a60800000000000000
+      internalID: 7670209682098392383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e9c4dc0ff65870800000000000000
+      internalID: 8671398563123161041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1943d59cfe571440800000000000000
+      internalID: 4906494757981866269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02823edb47cbde5d0800000000000000
+      internalID: -3031559764562466784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_186
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e950a2cf9d90acc10800000000000000
+      internalID: 2074481410200700318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dde78c5a11c3cf0800000000000000
+      internalID: -271322473818038903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_188
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3178aa59aafc2f0800000000000000
+      internalID: -950353436564057092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_189
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be83843f1a91c80800000000000000
+      internalID: -8351465967721059558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8be9680f6aca060800000000000000
+      internalID: 6966126275616225467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333a843b1ca0d3a0800000000000000
+      internalID: -6642620217525914832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318fb02c63f057e20800000000000000
+      internalID: 3347598625878046739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e723b617d575320800000000000000
+      internalID: 2546606856012463709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc3098a8c7734a0800000000000000
+      internalID: -6613680593324225306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_195
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4da2cf2714533c0800000000000000
+      internalID: -4380523100435196712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ad1aca6641da50800000000000000
+      internalID: 6544089158017458572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd2e3e3e6d7b9a0800000000000000
+      internalID: -6217264486292464431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_198
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739796777e211810800000000000000
+      internalID: 1734218422139982712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb5ee4b43e95470800000000000000
+      internalID: 8383982093912620098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d16139d47b59ac0800000000000000
+      internalID: -3848968762710155928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cca3c313d7036f0800000000000000
+      internalID: -706927491079811938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_202
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dccdb3dd61ab990800000000000000
+      internalID: -7369552700790485643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76354b9cb190f4090800000000000000
+      internalID: -8048203994134981785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_204
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0744d9208fcd00c0800000000000000
+      internalID: -4607798694365608179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_205
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55af11b4e60694480800000000000000
+      internalID: -8914487960581047723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_206
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684977de80d240700800000000000000
+      internalID: 505578574539363462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686b6f915ebd5800800000000000000
+      internalID: 602847182913759342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee96005970298510800000000000000
+      internalID: 1551807252011589349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf815b3bde10996f0800000000000000
+      internalID: -677508148508681989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3d70494f89f1b00800000000000000
+      internalID: 801527434918220735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c4c362e7698e30800000000000000
+      internalID: 4506247124195002021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_212
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb611dab869923a50800000000000000
+      internalID: 6499425887338960575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43cd1b254aa8a570800000000000000
+      internalID: 8478213512577794893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421efb81ef14d5f60800000000000000
+      internalID: 8024642670636818724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_215
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650d7e7e79f51a310800000000000000
+      internalID: 1414516864006475862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_216
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8ee2c84af3f130800000000000000
+      internalID: 3599495717614160483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_217
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6acdc08244b1260800000000000000
+      internalID: 7069318978893293257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_218
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327e52115e236440800000000000000
+      internalID: 4927833343008862780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_219
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b08fabbb7bce00800000000000000
+      internalID: 1066081782836803322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_220
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc445c81ce8c590800000000000000
+      internalID: -7653607975583167136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_221
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec07011908b0f620800000000000000
+      internalID: 2805944916931710191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_222
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f05dedfd7f127a0800000000000000
+      internalID: -6403564654255861875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b11d661d43f2d10800000000000000
+      internalID: 2102957624983100313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_224
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4bdb57b20119880800000000000000
+      internalID: -8606079634083302217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c7048efff776b0800000000000000
+      internalID: -5298484967976221227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ae33b12a65c97b0800000000000000
+      internalID: -5216199014160799171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_227
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b830b8a74f0b75e0800000000000000
+      internalID: -1910916816441427788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_228
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbe7c5ee6281630800000000000000
+      internalID: 3897908282685046066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_229
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e3b67dfd5ade00800000000000000
+      internalID: 1070271204653524231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_230
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8defffddbcff55e20800000000000000
+      internalID: 3338855949833076440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_231
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998e572823cc1060800000000000000
+      internalID: 6925624904215595417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_232
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ffa92d5c7bbec30800000000000000
+      internalID: 4389804322072493961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_233
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ba16664dff9dc0800000000000000
+      internalID: -3629904295834765739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_234
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833781792f08e1660800000000000000
+      internalID: 7358460620575372088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_235
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9000ee9351481c8f0800000000000000
+      internalID: -521990855097188343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_236
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88017bf085b761410800000000000000
+      internalID: 1447479948397187208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_237
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106fc0314ce61360800000000000000
+      internalID: 7140154023978426384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_238
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03113f5a8de8e9e10800000000000000
+      internalID: 2206357928606372144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9d038f7cc85510800000000000000
+      internalID: 1538204120778644228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_240
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53329d232d68688e0800000000000000
+      internalID: -1691516372676697291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a78b85c8e7c310800000000000000
+      internalID: 1425363742233175978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720d0e645a9b0bf0800000000000000
+      internalID: -357022058031545741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_243
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73e8e545e7a52e0800000000000000
+      internalID: -2136256172405147681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_244
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e2342cb88e8ccf0800000000000000
+      internalID: -231679693852299620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_245
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0efbbe09ca46e580800000000000000
+      internalID: -8798262594625602037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_246
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170e5b139045f580800000000000000
+      internalID: -8794051696807508193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_247
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a41c279cdac4f370800000000000000
+      internalID: 8355526257456977060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_248
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d221cd8e8c326d0800000000000000
+      internalID: -3016346422957953677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_249
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4bc84b0c1531350800000000000000
+      internalID: 5986218217810212017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_250
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0af0e7b1a2a710800000000000000
+      internalID: 1703101420225039775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_251
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca4bc844a6c968b0800000000000000
+      internalID: -5158373489277973823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_252
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ade6597cf86abf0800000000000000
+      internalID: -313405036687336853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_253
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fbcf318d51b8580800000000000000
+      internalID: -8823935027109904489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huesos_254
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf93d0da0aed86fd0800000000000000
+      internalID: -2348382423994254852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
