@@ -17,13 +17,13 @@ public class player : MonoBehaviour
     void Start()
     {
 
-        Camera.main.GetComponent<MainCamera>().updateLimit(-16, 3, 6, -12);
+        Camera.main.GetComponent<MainCamera>().updateLimit(-35, 22, 20, -12);
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
         attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
         attackCollider.enabled = false;
         lifeBar = gameObject.GetComponent<Life>();
-        minimap.GetComponent<MainCamera>().updateLimit(-16, 3, 6, -12);
+        minimap.GetComponent<MainCamera>().updateLimit(-35, 22, 20, -12);
     }
 
 
