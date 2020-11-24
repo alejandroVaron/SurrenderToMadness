@@ -104,9 +104,10 @@ public class Skeleton : MonoBehaviour
     {
         if (!inProcess)
         {
+            anim.SetTrigger("attack");
             inProcess = true;
             reset = false;
-            yield return new WaitForSeconds(1);
+            yield return new WaitForSeconds(2);
             reset = true;
             inProcess = false;
         }
