@@ -190,9 +190,9 @@ GameObject:
   m_Component:
   - component: {fileID: 453851645}
   - component: {fileID: 453851649}
+  - component: {fileID: 453851646}
   - component: {fileID: 453851648}
   - component: {fileID: 453851647}
-  - component: {fileID: 453851646}
   - component: {fileID: 453851650}
   m_Layer: 0
   m_Name: Skeleton
@@ -209,7 +209,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 453851644}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.36, y: -2, z: 0}
+  m_LocalPosition: {x: 1.11, y: -2.89, z: 0}
   m_LocalScale: {x: 2.108459, y: 2.148718, z: 1}
   m_Children: []
   m_Father: {fileID: 1144391751}
@@ -344,10 +344,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a8eba190ce679c4089f7afb463fecda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  visionRadius: 0
-  attackRadius: 0
-  speed: 0
-  slashPrefab: {fileID: 0}
+  visionRadius: 3
+  attackRadius: 2
+  speed: 20
+  slashPrefab: {fileID: 1281357491}
   maxHp: 3
   hp: 0
 --- !u!1001 &540540267
@@ -797,6 +797,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1281357491 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5855271030219902634, guid: 8693f17ab0145b14fa2f98ca80c1ad01, type: 3}
+  m_PrefabInstance: {fileID: 1066888695}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1528628458
 PrefabInstance:
   m_ObjectHideFlags: 0
