@@ -7,6 +7,8 @@ TagManager:
   - omp
   - Attack
   - Enemy
+  - wall
+  - AttackEnemy
   layers:
   - Default
   - TransparentFX
@@ -46,4 +48,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2190994437
+    locked: 0
+  - name: scene
+    uniqueID: 74977821
     locked: 0
