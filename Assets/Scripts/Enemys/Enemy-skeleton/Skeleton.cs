@@ -116,9 +116,9 @@ public class Skeleton : MonoBehaviour
     {
         if (--hp <= 0)
         {
-            anim.Play("batDeath");
+            anim.Play("skeleton-death");
             stopMov = false;
-            yield return new WaitForSeconds(0.45F);
+            yield return new WaitForSeconds(1.75f);
             Destroy(gameObject);
         }
     }
