@@ -40,7 +40,8 @@ public class Orc : MonoBehaviour
                 anim.SetFloat("movx", dir.x);
                 anim.SetFloat("movy", dir.y);
                 transform.position = Vector2.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
-            }else if(value <= attackRadius){
+            }
+            if(value <= attackRadius){
                 anim.SetBool("atacar", true);
             } else {
                 anim.SetBool("atacar", false);
