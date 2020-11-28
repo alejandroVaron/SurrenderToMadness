@@ -7,8 +7,7 @@ public class MainCamera : MonoBehaviour
     public float smoothTime = 3f;
     Transform target;
     //Vector2 velocity;
-    //public Animator anim;
-
+    Animator anim;
     private float tlx, tly, brx, bry;
     private Vector3 velocity;
     Vector2 velocitys;
@@ -20,7 +19,7 @@ public class MainCamera : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -53,5 +52,9 @@ public class MainCamera : MonoBehaviour
             target.position.y,
             target.position.z
             );
+    }
+    public void player_death()
+    {
+        anim.Play("camera_zoom");
     }
 }

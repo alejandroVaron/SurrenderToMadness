@@ -43,7 +43,6 @@ public class BatScript : MonoBehaviour
             {
                 if (hit.collider.tag == "Player")
                 {
-                    Debug.Log("entree");
                     target = player.transform.position;
                     anim.SetBool("walk", true);
                 }
@@ -62,7 +61,7 @@ public class BatScript : MonoBehaviour
                     anim.SetFloat("movy", dir.y);
                 }
             }
-            //Rango de ataque
+        //Rango de ataque
             if (target != initialPosition && distance < attackRadius)
             {
                 if (reset)
