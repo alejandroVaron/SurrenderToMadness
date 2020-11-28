@@ -10,6 +10,7 @@ TagManager:
   - wall
   - AttackEnemy
   - Area
+  - Death
   layers:
   - Default
   - TransparentFX
