@@ -11,6 +11,7 @@ public class MainCamera : MonoBehaviour
 
     private float tlx, tly, brx, bry;
     private Vector3 velocity;
+    Vector2 velocitys;
 
     void Awake()
     {
@@ -25,9 +26,12 @@ public class MainCamera : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        float posx = Mathf.Round( Mathf.SmoothDamp(transform.position.x, target.position.x, ref velocitys.x, 0.3f) * 100) / 100;
+        float posy = Mathf.Round(Mathf.SmoothDamp(transform.position.y, target.position.y, ref velocitys.y, 0.3f) * 100) / 100;
+
         transform.position = new Vector3(
-            Mathf.Clamp(target.position.x, tlx, brx) , 
-            Mathf.Clamp(target.position.y, bry, tly), 
+            Mathf.Clamp(posx, tlx, brx) , 
+            Mathf.Clamp(posy, bry, tly), 
             transform.position.y-100
             );
     }
@@ -39,6 +43,15 @@ public class MainCamera : MonoBehaviour
         tly = y - cameraSize;
         brx = z - cameraSize;
         bry = u + cameraSize;
+        fastMove();
 
+    }
+    public void fastMove()
+    {
+        transform.position = new Vector3(
+            target.position.x,
+            target.position.y,
+            target.position.z
+            );
     }
 }
