@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3169005858327965737}
   - component: {fileID: 6588560212280851248}
-  m_Layer: 15
+  m_Layer: 9
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145,7 +145,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 986444890977069676, guid: 05147ec57f4fd8842b5e7f0f6468f094, type: 3}
       propertyPath: m_Layer
-      value: 12
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 986444890977069676, guid: 05147ec57f4fd8842b5e7f0f6468f094, type: 3}
       propertyPath: m_TagString
