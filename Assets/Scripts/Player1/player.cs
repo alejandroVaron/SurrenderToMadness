@@ -13,6 +13,8 @@ public class player : MonoBehaviour
     Life lifeBar;
     public GameObject wavePrefab;
     public GameObject minimap;
+    float angle;
+    Quaternion rotation;
 
     void Start()
     {
@@ -72,6 +74,13 @@ public class player : MonoBehaviour
     void FixedUpdate()
     {
         rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
+        angle = Mathf.Atan2(
+                        anim.GetFloat("movy"),
+                        anim.GetFloat("movx")
+                        ) * Mathf.Rad2Deg;
+        Debug.Log("Este es el angulo: " + angle);
+        rotation = Quaternion.AngleAxis(angle-90, Vector3.forward);
+        transform.GetChild(1).transform.rotation =  rotation;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
