@@ -14,6 +14,8 @@ public class Warp : MonoBehaviour
     float fadeTime = 1f;
     GameObject area;
     public string targetMapName;
+    public GameObject door;
+    public string animation;
     // Start is called before the first frame update
 
     void Awake()
@@ -30,6 +32,11 @@ public class Warp : MonoBehaviour
         {
             other.GetComponent<player>().enabled = false;
             other.GetComponent<Animator>().enabled = false;
+            if(door != null && animation == "OpenDoor")
+            {
+                door.transform.GetComponent<Animator>().Play(animation);
+                yield return new WaitForSeconds(0.09f);
+            }
             fadeIn();
             yield return new WaitForSeconds(fadeTime);
             other.transform.position = target.transform.position;
@@ -37,6 +44,11 @@ public class Warp : MonoBehaviour
             Camera.main.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
             minimap.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
             fadeOut();
+            if (door != null && animation == "CloseDoor")
+            {
+                yield return new WaitForSeconds(0.01f);
+                door.transform.GetComponent<Animator>().Play(animation);
+            }
             other.GetComponent<player>().enabled = true;
             other.GetComponent<Animator>().enabled = true;
             StartCoroutine(area.GetComponent<Area>().showText(targetMapName));

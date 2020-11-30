@@ -15,6 +15,7 @@ public class npcController : MonoBehaviour
     public GameObject dialoguePanel;
     string activeSentence;
     public float typingSpeed;
+    GameObject imageFaceSet;
 
 
     void Start()
@@ -22,6 +23,19 @@ public class npcController : MonoBehaviour
         sentences = new Queue<string>();
         player = GameObject.FindGameObjectWithTag("Player");
         anim = GetComponent<Animator>();
+        if (nameNpc == "Ritha")
+        {
+            Debug.Log("Soy Ritha");
+            imageFaceSet = dialoguePanel.transform.GetChild(3).gameObject;
+        }else if (nameNpc == "Xavier")
+        {
+            Debug.Log("Soy Xavier");
+            imageFaceSet = dialoguePanel.transform.GetChild(2).gameObject;
+        }else if (nameNpc == "Lina")
+        {
+            Debug.Log("Soy Lina");
+            imageFaceSet = dialoguePanel.transform.GetChild(1).gameObject;
+        }
 
     }
 
@@ -66,6 +80,7 @@ public class npcController : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.E))
             {
                 dialoguePanel.SetActive(true);
+                imageFaceSet.SetActive(true);
                 Vector3 dir = (player.transform.position - transform.position).normalized;
             anim.SetBool("dir", true);
             anim.SetFloat("movx", dir.x);
@@ -95,6 +110,7 @@ public class npcController : MonoBehaviour
         {
             enter = false;
             dialoguePanel.SetActive(false);
+            imageFaceSet.SetActive(false);
         }
     }
 }
