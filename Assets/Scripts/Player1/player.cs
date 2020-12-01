@@ -78,7 +78,6 @@ public class player : MonoBehaviour
                         anim.GetFloat("movy"),
                         anim.GetFloat("movx")
                         ) * Mathf.Rad2Deg;
-        Debug.Log("Este es el angulo: " + angle);
         rotation = Quaternion.AngleAxis(angle-90, Vector3.forward);
         transform.GetChild(1).transform.rotation =  rotation;
     }
