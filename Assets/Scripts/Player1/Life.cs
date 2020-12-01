@@ -34,6 +34,7 @@ public class Life : MonoBehaviour
         GetComponentInParent<player>().GetComponent<Animator>().Play("player_death");
         GetComponentInParent<player>().GetComponent<player>().enabled = false;
         GetComponentInParent<player>().tag = "Death";
+        FindObjectOfType<AudioManager>().Play("PlayerDeath");
         Camera.main.GetComponent<MainCamera>().player_death();
         yield return new WaitForSeconds(3f);
         fadeIn();

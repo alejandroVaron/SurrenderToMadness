@@ -14,6 +14,7 @@ public class Attack : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        FindObjectOfType<AudioManager>().Play("PlayerSwordSlashHit");
         if(collision.tag == "Enemy")
         {
             collision.SendMessage("Attacked");

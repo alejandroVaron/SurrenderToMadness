@@ -44,6 +44,7 @@ public class player : MonoBehaviour
         }else
         {
             anim.SetBool("walking", false);
+            FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
         }
 
 
@@ -52,6 +53,7 @@ public class player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0) && !validate)
         {
             anim.SetTrigger("slash-trigger");
+            FindObjectOfType<AudioManager>().Play("PlayerSwordSlash");
             //wave();
         }
         if(mov != Vector2.zero)
@@ -86,7 +88,8 @@ public class player : MonoBehaviour
     {
        if(collision.tag == "AttackEnemy")
         {
-            lifeBar.loseHealth(15);
+            lifeBar.loseHealth(15);            
+            FindObjectOfType<AudioManager>().Play("PlayerGotHit");
         }
     }
     public void wave()
