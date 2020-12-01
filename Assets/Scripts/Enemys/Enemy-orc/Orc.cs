@@ -18,6 +18,7 @@ public class Orc : MonoBehaviour
     public int maxHp = 3;
     public int hp;
     bool stopMov = true;
+    bool death = false;
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
@@ -44,19 +45,20 @@ public class Orc : MonoBehaviour
             if (hit.collider.tag == "Player")
             {
                 target = player.transform.position;
-                anim.SetBool("walk", true);
-            }
-            else
-            {
-                anim.SetBool("walk", false);
+                anim.SetBool("perseguir", true);
             }
         }
+        else
+        {
+            anim.SetBool("perseguir", false);
+        }
         float distance = Vector3.Distance(target, transform.position);
-        Vector3 dir = (target - transform.position).normalized;
+        Vector3 dir = (player.transform.position - transform.position).normalized;
         if (hit.collider != null)
         {
             if (hit.collider.tag == "Player")
             {
+                anim.SetBool("perseguir", true);
                 anim.SetFloat("movx", dir.x);
                 anim.SetFloat("movy", dir.y);
             }
@@ -64,9 +66,12 @@ public class Orc : MonoBehaviour
         //Rango de ataque
         if (target != initialPosition && distance < attackRadius)
         {
+            anim.SetBool("perseguir", false);
             if (reset)
             {
+                anim.SetTrigger("atacar");
                 StartCoroutine("resetShoot");
+                /*
                 float angle = Mathf.Atan2(
                     anim.GetFloat("movy"),
                     anim.GetFloat("movx")
@@ -78,9 +83,10 @@ public class Orc : MonoBehaviour
                 orcslash shoot = slashObj.GetComponent<orcslash>();
                 shoot.mov.x = anim.GetFloat("movx");
                 shoot.mov.y = anim.GetFloat("movy");
+                */
             }
         }
-        else
+        else if(!death)
         {
             rb2d.MovePosition(transform.position + dir * speed * Time.deltaTime);
             //Se mueve
@@ -103,11 +109,10 @@ public class Orc : MonoBehaviour
     {
         if (!inProcess)
         {
-            anim.SetTrigger("attack");
             Debug.Log("Golpea");
             inProcess = true;
             reset = false;
-            yield return new WaitForSeconds(2);
+            yield return new WaitForSeconds(0.51f);
             reset = true;
             inProcess = false;
         }
@@ -116,9 +121,10 @@ public class Orc : MonoBehaviour
     {
         if (--hp <= 0)
         {
+            death = true;
             anim.Play("orc-death");
             stopMov = false;
-            yield return new WaitForSeconds(1.75f);
+            yield return new WaitForSeconds(1.15f);
             Destroy(gameObject);
         }
     }
