@@ -43,7 +43,6 @@ public class Orc : MonoBehaviour
         {
             if (hit.collider.tag == "Player")
             {
-                Debug.Log("entree");
                 target = player.transform.position;
                 anim.SetBool("walk", true);
             }
