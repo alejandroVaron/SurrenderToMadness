@@ -19,14 +19,17 @@ public class Orc : MonoBehaviour
     public int hp;
     bool stopMov = true;
     bool death = false;
+    CircleCollider2D attackCollider;
+    Vector2 mov;
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
         initialPosition = transform.position;
-
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
         hp = maxHp;
+        attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
+        attackCollider.enabled = false;
     }
 
     // Update is called once per frame
@@ -34,7 +37,7 @@ public class Orc : MonoBehaviour
     {
         Vector3 target = initialPosition;
         RaycastHit2D hit = Physics2D.Raycast(transform.position, player.transform.position - transform.position, visionRadius, 1 << LayerMask.NameToLayer("Default"));
-
+        Debug.Log(hit.collider.tag);
         //debug
         Vector3 forward = transform.TransformDirection(player.transform.position - transform.position);
         Debug.DrawRay(transform.position, forward, Color.red);
@@ -54,6 +57,10 @@ public class Orc : MonoBehaviour
         }
         float distance = Vector3.Distance(target, transform.position);
         Vector3 dir = (player.transform.position - transform.position).normalized;
+        mov = new Vector2(
+            dir.x,
+            dir.y
+            );
         if (hit.collider != null)
         {
             if (hit.collider.tag == "Player")
@@ -71,26 +78,31 @@ public class Orc : MonoBehaviour
             {
                 anim.SetTrigger("atacar");
                 StartCoroutine("resetShoot");
-                /*
-                float angle = Mathf.Atan2(
-                    anim.GetFloat("movy"),
-                    anim.GetFloat("movx")
-                    ) * Mathf.Rad2Deg;
-                GameObject slashObj = Instantiate(
-                    slashPrefab, transform.position,
-                    Quaternion.AngleAxis(angle, Vector3.forward)
-                    );
-                orcslash shoot = slashObj.GetComponent<orcslash>();
-                shoot.mov.x = anim.GetFloat("movx");
-                shoot.mov.y = anim.GetFloat("movy");
-                */
             }
-        }
-        else if(!death)
+        } else if(!death &&  hit.collider.tag != "Death")
         {
             rb2d.MovePosition(transform.position + dir * speed * Time.deltaTime);
             //Se mueve
         }
+        AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
+        bool validate = stateInfo.IsName("Attack");
+        if (mov != Vector2.zero)
+        {
+            attackCollider.offset = new Vector2(mov.x / 3, mov.y /3);
+        }
+        if (validate)
+        {
+            float playbackTime = stateInfo.normalizedTime;
+            if (playbackTime > 0.4 && playbackTime < 0.7)
+            {
+                attackCollider.enabled = true;
+            }
+            else
+            {
+                attackCollider.enabled = false;
+            }
+        }
+
         if (target == initialPosition && distance < 0.02f)
         {
             transform.position = initialPosition;

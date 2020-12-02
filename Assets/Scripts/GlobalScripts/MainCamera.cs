@@ -11,6 +11,7 @@ public class MainCamera : MonoBehaviour
     private float tlx, tly, brx, bry;
     private Vector3 velocity;
     Vector2 velocitys;
+    Vector3 positionActual;
 
     void Awake()
     {
@@ -33,6 +34,7 @@ public class MainCamera : MonoBehaviour
             Mathf.Clamp(posy, bry, tly), 
             transform.position.y-100
             );
+        positionActual = transform.position;
     }
 
     public void updateLimit(float x, float y, float z, float  u)
@@ -56,5 +58,9 @@ public class MainCamera : MonoBehaviour
     public void player_death()
     {
         anim.Play("camera_zoom");
+    }
+    public Vector3 getPositionActual()
+    {
+        return positionActual;
     }
 }

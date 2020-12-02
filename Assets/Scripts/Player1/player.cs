@@ -15,7 +15,6 @@ public class player : MonoBehaviour
     public GameObject minimap;
     float angle;
     Quaternion rotation;
-
     void Start()
     {
 
@@ -99,6 +98,5 @@ public class player : MonoBehaviour
         obj.mov.x = anim.GetFloat("movx");
         obj.mov.y = anim.GetFloat("movy");
     }
-
 }
 
