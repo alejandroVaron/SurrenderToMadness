@@ -109,7 +109,6 @@ public class Orc : MonoBehaviour
     {
         if (!inProcess)
         {
-            Debug.Log("Golpea");
             inProcess = true;
             reset = false;
             yield return new WaitForSeconds(0.51f);
