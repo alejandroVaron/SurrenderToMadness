@@ -15,11 +15,20 @@ public class player : MonoBehaviour
     public GameObject minimap;
     float angle;
     Quaternion rotation;
+    //Queue<string> sentences;
+    //public TextMeshProUGUI displayText;
+    //public GameObject dialoguePanel;
+    //string activeSentence;
+    //public Dialogue dialogue;
+    //int count = 0;
+
     void Start()
     {
-
+        //sentences = new Queue<string>();
         Camera.main.GetComponent<MainCamera>().updateLimit(-89, -22, -76.4f, -33.4f);
         anim = GetComponent<Animator>();
+        //anim.Play("Player-Exclamation");
+        //StartCoroutine("introTransition");
         rb2d = GetComponent<Rigidbody2D>();
         attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
         attackCollider.enabled = false;
@@ -101,5 +110,61 @@ public class player : MonoBehaviour
         obj.mov.x = anim.GetFloat("movx");
         obj.mov.y = anim.GetFloat("movy");
     }
+
+    /*
+    IEnumerator introTransition()
+    {
+        yield return new WaitForSeconds(7.1f);
+        startDialogue();
+        dialoguePanel.SetActive(true);
+        dialoguePanel.transform.GetChild(1).gameObject.SetActive(true);
+        displayNextSentence();
+    }
+
+    void startDialogue()
+    {
+        sentences.Clear();
+
+        foreach (string sentence in dialogue.sentenceList)
+        {
+            sentences.Enqueue(sentence);
+        }
+    }
+    void displayNextSentence()
+    {
+        if (sentences.Count <= 0)
+        {
+            displayText.text = activeSentence;
+            dialoguePanel.SetActive(false);
+            return;
+        }
+        activeSentence = sentences.Dequeue();
+        displayText.text = activeSentence;
+        StopAllCoroutines();
+        StartCoroutine(typeTheSentence(activeSentence));
+    }
+
+    IEnumerator typeTheSentence(string sentence)
+    {
+        displayText.text = "";
+        foreach (char letter in sentence.ToCharArray())
+        {
+            FindObjectOfType<AudioManager>().Play("Typing");
+            displayText.text += letter;
+            yield return new WaitForSeconds(0.3f);
+        }
+        if (count == 0)
+        {
+            count++;
+            dialoguePanel.transform.GetChild(1).gameObject.SetActive(false);
+            dialoguePanel.transform.GetChild(2).gameObject.SetActive(true);
+            displayNextSentence();
+        }
+        else
+        {
+            yield return new WaitForSeconds(0.3f);
+            dialoguePanel.SetActive(false);
+        }
+    }*/
 }
 

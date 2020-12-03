@@ -286,7 +286,7 @@ MonoBehaviour:
     - "Hermano, \xA1despierta!"
     - "\xA1Hermanooo!"
   displayText: {fileID: 1403170487}
-  typingSpeed: 0.15
+  typingSpeed: 0.05
   Intro: {fileID: 991065641}
   panel: {fileID: 523376485}
 --- !u!114 &480770467
@@ -419,7 +419,7 @@ MonoBehaviour:
   dialogue:
     name: 
     sentenceList:
-    - El pasado nunca muere... ni siquiera es pasado
+    - "El pasado no est\xE1 muerto... ni siquiera es pasado"
   displayText: {fileID: 1301214127}
   typingSpeed: 0.12
   Intro: {fileID: 991065641}

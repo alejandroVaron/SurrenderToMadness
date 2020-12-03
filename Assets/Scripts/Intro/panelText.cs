@@ -53,6 +53,7 @@ public class panelText : MonoBehaviour
         displayText.text = "";
         foreach (char letter in sentence.ToCharArray())
         {
+            FindObjectOfType<AudioManager>().Play("Typing");
             displayText.text += letter;
             if (letter == '.')
             {

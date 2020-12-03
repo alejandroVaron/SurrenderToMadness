@@ -51,7 +51,7 @@ public class parchment : MonoBehaviour
         displayText.text = "";
         foreach (char letter in sentence.ToCharArray())
         {
-            FindObjectOfType<AudioManager>().Play("Typing");
+            //FindObjectOfType<AudioManager>().Play("Typing");
             displayText.text += letter;
             if(letter == '.')
             {
