@@ -27,11 +27,13 @@ public class menuPrincipal : MonoBehaviour
 
     public void startDificulty()
     {
+        FindObjectOfType<AudioManager>().Play("EffectSelect");
         panel.transform.GetChild(0).gameObject.SetActive(false);
         panel.transform.GetChild(1).gameObject.SetActive(true);
     }
     public void startIntro()
     {
+        FindObjectOfType<AudioManager>().Play("EffectSelect");
         StartCoroutine("loadScenes");
     }
     public void quitGame()

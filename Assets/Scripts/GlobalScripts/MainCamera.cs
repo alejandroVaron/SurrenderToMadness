@@ -14,6 +14,7 @@ public class MainCamera : MonoBehaviour
     Vector3 positionActual;
     public GameObject transitionIntro;
     public GameObject canva;
+    public GameObject area;
     void Awake()
     {
         target = GameObject.FindGameObjectWithTag("Player").transform;
@@ -22,6 +23,7 @@ public class MainCamera : MonoBehaviour
     void Start()
     {
         StartCoroutine("transition");
+        StartCoroutine(area.GetComponent<Area>().showText("Hogar"));
         anim = GetComponent<Animator>();
     }
 

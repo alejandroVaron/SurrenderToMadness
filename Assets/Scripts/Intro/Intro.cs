@@ -9,6 +9,7 @@ public class Intro : MonoBehaviour
     void Start()
     {
         // StartCoroutine("showParchment");
+        FindObjectOfType<AudioManager>().Play("Rain");
         StartCoroutine("StartIntro1");
     }
     
