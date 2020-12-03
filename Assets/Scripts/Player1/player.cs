@@ -18,13 +18,13 @@ public class player : MonoBehaviour
     void Start()
     {
 
-        Camera.main.GetComponent<MainCamera>().updateLimit(-35, 22, 20, -12);
+        Camera.main.GetComponent<MainCamera>().updateLimit(-89, -22, -76.4f, -33.5f);
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
         attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
         attackCollider.enabled = false;
         lifeBar = gameObject.GetComponent<Life>();
-        minimap.GetComponent<MainCamera>().updateLimit(-35, 22, 20, -12);
+        minimap.GetComponent<MainCamera>().updateLimit(-89, -22, -76.5f, -33.5f);
     }
 
 
@@ -43,7 +43,7 @@ public class player : MonoBehaviour
         }else
         {
             anim.SetBool("walking", false);
-            FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
+            //FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
         }
 
 

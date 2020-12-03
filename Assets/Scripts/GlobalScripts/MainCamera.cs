@@ -12,7 +12,8 @@ public class MainCamera : MonoBehaviour
     private Vector3 velocity;
     Vector2 velocitys;
     Vector3 positionActual;
-
+    public GameObject transitionIntro;
+    public GameObject canva;
     void Awake()
     {
         target = GameObject.FindGameObjectWithTag("Player").transform;
@@ -20,6 +21,7 @@ public class MainCamera : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        StartCoroutine("transition");
         anim = GetComponent<Animator>();
     }
 
@@ -62,5 +64,13 @@ public class MainCamera : MonoBehaviour
     public Vector3 getPositionActual()
     {
         return positionActual;
+    }
+    IEnumerator transition()
+    {
+        yield return new WaitForSeconds(0.5f);
+
+        canva.GetComponent<Animator>().Play("transitionIntro");
+        yield return new WaitForSeconds(0.5f);
+        transitionIntro.SetActive(false);
     }
 }
