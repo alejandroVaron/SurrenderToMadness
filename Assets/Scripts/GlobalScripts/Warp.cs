@@ -42,7 +42,7 @@ public class Warp : MonoBehaviour
             other.transform.position = target.transform.position;
           
             Camera.main.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
-            minimap.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
+            minimap.GetComponent<MinimapCamera>().updateLimit(x, y, dx, dy);
             fadeOut();
             if (door != null && animation == "CloseDoor")
             {
