@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Assertions;
+using UnityEngine.UI;
 
 public class player : MonoBehaviour
 {
@@ -23,6 +24,7 @@ public class player : MonoBehaviour
     public Dialogue dialogue;
     int count = 0;
     public GameObject canvas;
+    bool inTransition = false;
 
     void Start()
     {
@@ -40,57 +42,64 @@ public class player : MonoBehaviour
 
     void Update()
     {
-        mov = new Vector2(
-            Input.GetAxisRaw("Horizontal"),
-            Input.GetAxisRaw("Vertical")
-            );
+        if (!inTransition)
+        {
+            mov = new Vector2(
+           Input.GetAxisRaw("Horizontal"),
+           Input.GetAxisRaw("Vertical")
+           );
 
-        if(mov != Vector2.zero)
-        {
-            anim.SetFloat("movx", mov.x);
-            anim.SetFloat("movy", mov.y);
-            anim.SetBool("walking", true);
-        }else
-        {
-            anim.SetBool("walking", false);
-            //FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
-        }
-
-
-        AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
-        bool validate = stateInfo.IsName("player_attack");
-        if (Input.GetKeyDown(KeyCode.Mouse0) && !validate)
-        {
-            anim.SetTrigger("slash-trigger");
-            FindObjectOfType<AudioManager>().Play("PlayerSwordSlash");
-            //wave();
-        }
-        if(mov != Vector2.zero)
-        {
-            attackCollider.offset = new Vector2(mov.x / 3, mov.y / 3);
-        }
-        if (validate)
-        {
-            float playbackTime = stateInfo.normalizedTime;
-            if (playbackTime > 0.4 && playbackTime < 0.7)
+            if (mov != Vector2.zero)
             {
-                attackCollider.enabled = true;
+                anim.SetFloat("movx", mov.x);
+                anim.SetFloat("movy", mov.y);
+                anim.SetBool("walking", true);
             }
             else
             {
-                attackCollider.enabled = false;
+                anim.SetBool("walking", false);
+                //FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
+            }
+
+
+            AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
+            bool validate = stateInfo.IsName("player_attack");
+            if (Input.GetKeyDown(KeyCode.Mouse0) && !validate)
+            {
+                anim.SetTrigger("slash-trigger");
+                FindObjectOfType<AudioManager>().Play("PlayerSwordSlash");
+                //wave();
+            }
+            if (mov != Vector2.zero)
+            {
+                attackCollider.offset = new Vector2(mov.x / 3, mov.y / 3);
+            }
+            if (validate)
+            {
+                float playbackTime = stateInfo.normalizedTime;
+                if (playbackTime > 0.4 && playbackTime < 0.7)
+                {
+                    attackCollider.enabled = true;
+                }
+                else
+                {
+                    attackCollider.enabled = false;
+                }
             }
         }
     }
     void FixedUpdate()
     {
-        rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
-        angle = Mathf.Atan2(
-                        anim.GetFloat("movy"),
-                        anim.GetFloat("movx")
-                        ) * Mathf.Rad2Deg;
-        rotation = Quaternion.AngleAxis(angle-90, Vector3.forward);
-        transform.GetChild(1).transform.rotation =  rotation;
+        if (!inTransition)
+        {
+            rb2d.MovePosition(rb2d.position + mov * speed * Time.deltaTime);
+            angle = Mathf.Atan2(
+                            anim.GetFloat("movy"),
+                            anim.GetFloat("movx")
+                            ) * Mathf.Rad2Deg;
+            rotation = Quaternion.AngleAxis(angle - 90, Vector3.forward);
+            transform.GetChild(1).transform.rotation = rotation;
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -114,6 +123,7 @@ public class player : MonoBehaviour
 
     IEnumerator introTransition()
     {
+        inTransition = true;
         canvas.transform.GetChild(0).gameObject.SetActive(false);
         canvas.transform.GetChild(1).gameObject.SetActive(false);
         canvas.transform.GetChild(2).gameObject.SetActive(false);
@@ -171,8 +181,10 @@ public class player : MonoBehaviour
             yield return new WaitForSeconds(1.6f);
             dialoguePanel.SetActive(false);
             canvas.transform.GetChild(0).gameObject.SetActive(true);
+            canvas.transform.GetChild(0).transform.GetChild(1).GetComponent<Image>().fillAmount = 100 / 100;
             canvas.transform.GetChild(1).gameObject.SetActive(true);
             canvas.transform.GetChild(2).gameObject.SetActive(true);
+            inTransition = false;
         }
 
 }
