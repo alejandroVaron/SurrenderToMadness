@@ -15,17 +15,16 @@ public class player : MonoBehaviour
     public GameObject minimap;
     float angle;
     Quaternion rotation;
-
     void Start()
     {
 
-        Camera.main.GetComponent<MainCamera>().updateLimit(-35, 22, 20, -12);
+        Camera.main.GetComponent<MainCamera>().updateLimit(-89, -22, -76.4f, -33.4f);
         anim = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
         attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
         attackCollider.enabled = false;
         lifeBar = gameObject.GetComponent<Life>();
-        minimap.GetComponent<MainCamera>().updateLimit(-35, 22, 20, -12);
+        minimap.GetComponent<MinimapCamera>().updateLimit(-89, -22, -76.5f, -33.4f);
     }
 
 
@@ -44,7 +43,7 @@ public class player : MonoBehaviour
         }else
         {
             anim.SetBool("walking", false);
-            FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
+            //FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
         }
 
 
@@ -102,6 +101,5 @@ public class player : MonoBehaviour
         obj.mov.x = anim.GetFloat("movx");
         obj.mov.y = anim.GetFloat("movy");
     }
-
 }
 

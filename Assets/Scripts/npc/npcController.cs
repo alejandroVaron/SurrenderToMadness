@@ -68,6 +68,7 @@ public class npcController : MonoBehaviour
         displayText.text = nameNpc+": ";
         foreach(char letter in sentence.ToCharArray())
         {
+            FindObjectOfType<AudioManager>().Play("Typing");
             displayText.text += letter;
             yield return new WaitForSeconds(typingSpeed);
         }

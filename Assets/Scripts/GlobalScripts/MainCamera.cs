@@ -11,7 +11,10 @@ public class MainCamera : MonoBehaviour
     private float tlx, tly, brx, bry;
     private Vector3 velocity;
     Vector2 velocitys;
-
+    Vector3 positionActual;
+    public GameObject transitionIntro;
+    public GameObject canva;
+    public GameObject area;
     void Awake()
     {
         target = GameObject.FindGameObjectWithTag("Player").transform;
@@ -19,6 +22,8 @@ public class MainCamera : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        StartCoroutine("transition");
+        StartCoroutine(area.GetComponent<Area>().showText("Hogar"));
         anim = GetComponent<Animator>();
     }
 
@@ -33,6 +38,7 @@ public class MainCamera : MonoBehaviour
             Mathf.Clamp(posy, bry, tly), 
             transform.position.y-100
             );
+        positionActual = transform.position;
     }
 
     public void updateLimit(float x, float y, float z, float  u)
@@ -56,5 +62,17 @@ public class MainCamera : MonoBehaviour
     public void player_death()
     {
         anim.Play("camera_zoom");
+    }
+    public Vector3 getPositionActual()
+    {
+        return positionActual;
+    }
+    IEnumerator transition()
+    {
+        yield return new WaitForSeconds(0.5f);
+
+        canva.GetComponent<Animator>().Play("transitionIntro");
+        yield return new WaitForSeconds(0.5f);
+        transitionIntro.SetActive(false);
     }
 }
