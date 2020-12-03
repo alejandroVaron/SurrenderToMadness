@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Assertions;
 
@@ -15,20 +16,20 @@ public class player : MonoBehaviour
     public GameObject minimap;
     float angle;
     Quaternion rotation;
-    //Queue<string> sentences;
-    //public TextMeshProUGUI displayText;
-    //public GameObject dialoguePanel;
-    //string activeSentence;
-    //public Dialogue dialogue;
-    //int count = 0;
+    Queue<string> sentences;
+    public TextMeshProUGUI displayText;
+    public GameObject dialoguePanel;
+    string activeSentence;
+    public Dialogue dialogue;
+    int count = 0;
+    public GameObject canvas;
 
     void Start()
     {
-        //sentences = new Queue<string>();
+        sentences = new Queue<string>();
         Camera.main.GetComponent<MainCamera>().updateLimit(-89, -22, -76.4f, -33.4f);
         anim = GetComponent<Animator>();
-        //anim.Play("Player-Exclamation");
-        //StartCoroutine("introTransition");
+       StartCoroutine("introTransition");
         rb2d = GetComponent<Rigidbody2D>();
         attackCollider = transform.GetChild(0).GetComponent<CircleCollider2D>();
         attackCollider.enabled = false;
@@ -111,10 +112,14 @@ public class player : MonoBehaviour
         obj.mov.y = anim.GetFloat("movy");
     }
 
-    /*
     IEnumerator introTransition()
     {
-        yield return new WaitForSeconds(7.1f);
+        canvas.transform.GetChild(0).gameObject.SetActive(false);
+        canvas.transform.GetChild(1).gameObject.SetActive(false);
+        canvas.transform.GetChild(2).gameObject.SetActive(false);
+        yield return new WaitForSeconds(1);
+        anim.Play("Player-Exclamation");
+        yield return new WaitForSeconds(4.1f);
         startDialogue();
         dialoguePanel.SetActive(true);
         dialoguePanel.transform.GetChild(1).gameObject.SetActive(true);
@@ -151,10 +156,11 @@ public class player : MonoBehaviour
         {
             FindObjectOfType<AudioManager>().Play("Typing");
             displayText.text += letter;
-            yield return new WaitForSeconds(0.3f);
+            yield return new WaitForSeconds(0.1f);
         }
         if (count == 0)
         {
+            yield return new WaitForSeconds(2);
             count++;
             dialoguePanel.transform.GetChild(1).gameObject.SetActive(false);
             dialoguePanel.transform.GetChild(2).gameObject.SetActive(true);
@@ -162,9 +168,14 @@ public class player : MonoBehaviour
         }
         else
         {
-            yield return new WaitForSeconds(0.3f);
+            yield return new WaitForSeconds(1.6f);
             dialoguePanel.SetActive(false);
+            canvas.transform.GetChild(0).gameObject.SetActive(true);
+            canvas.transform.GetChild(1).gameObject.SetActive(true);
+            canvas.transform.GetChild(2).gameObject.SetActive(true);
         }
-    }*/
+
 }
+}
+
 
