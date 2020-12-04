@@ -37,7 +37,7 @@ public class Orc : MonoBehaviour
     {
         Vector3 target = initialPosition;
         RaycastHit2D hit = Physics2D.Raycast(transform.position, player.transform.position - transform.position, visionRadius, 1 << LayerMask.NameToLayer("Default"));
-        Debug.Log(hit.collider.tag);
+
         //debug
         Vector3 forward = transform.TransformDirection(player.transform.position - transform.position);
         Debug.DrawRay(transform.position, forward, Color.red);
@@ -56,11 +56,8 @@ public class Orc : MonoBehaviour
             anim.SetBool("perseguir", false);
         }
         float distance = Vector3.Distance(target, transform.position);
-        Vector3 dir = (player.transform.position - transform.position).normalized;
-        mov = new Vector2(
-            dir.x,
-            dir.y
-            );
+        Vector3 dir = (target - transform.position).normalized;
+        mov = new Vector2(dir.x, dir.y);
         if (hit.collider != null)
         {
             if (hit.collider.tag == "Player")
@@ -79,7 +76,7 @@ public class Orc : MonoBehaviour
                 anim.SetTrigger("atacar");
                 StartCoroutine("resetShoot");
             }
-        } else if(!death &&  hit.collider.tag != "Death")
+        } else if(hit.collider.tag != "Death" && !death)
         {
             rb2d.MovePosition(transform.position + dir * speed * Time.deltaTime);
             //Se mueve
