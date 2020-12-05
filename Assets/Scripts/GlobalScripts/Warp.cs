@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UB.Simple2dWeatherEffects.Standard;
 using UnityEngine;
 using UnityEngine.Assertions;
 
@@ -17,6 +18,7 @@ public class Warp : MonoBehaviour
     public GameObject door;
     public string animation;
     public GameObject[] animals;
+    public bool fogs;
     // Start is called before the first frame update
 
     void Awake()
@@ -45,6 +47,14 @@ public class Warp : MonoBehaviour
             Camera.main.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
             minimap.GetComponent<MinimapCamera>().updateLimit(x, y, dx, dy);
             fadeOut();
+            if (fogs)
+            {
+                Camera.main.GetComponent<D2FogsPE>().enabled = true;
+            }
+            else
+            {
+                Camera.main.GetComponent<D2FogsPE>().enabled = false;
+            }
             if (door != null && animation == "CloseDoor")
             {
                 yield return new WaitForSeconds(0.01f);
@@ -55,7 +65,7 @@ public class Warp : MonoBehaviour
             StartCoroutine(area.GetComponent<Area>().showText(targetMapName));
             if(animals.Length > 0)
             {
-                animals[0].gameObject.SetActive(true);
+                animals[0].transform.GetChild(0).gameObject.SetActive(true);
             }
         }
     }

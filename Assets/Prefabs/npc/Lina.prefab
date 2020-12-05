@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 7720865314525973969}
   - component: {fileID: 7720865314525973973}
   - component: {fileID: 7720865314525973970}
-  - component: {fileID: 7720865313499635821}
   m_Layer: 0
   m_Name: Lina
   m_TagString: Untagged
@@ -172,28 +171,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fixEveryFrame: 0
---- !u!114 &7720865313499635821
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7720865314525973996}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8760c9d8bf289444a9fbecdb05c7d94b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  dialogue:
-    name: 
-    sentenceList:
-    - "\xBFYa pensaste qu\xE9 haras para el morteum?"
-    - "\xBFQue si vi a tu hermano?"
-    - La vi yendo al norte del pueblo hace algunas horas
-  nameNpc: Lina
-  displayText: {fileID: 0}
-  dialoguePanel: {fileID: 0}
-  typingSpeed: 0.05
 --- !u!1 &8712850758067244016
 GameObject:
   m_ObjectHideFlags: 0

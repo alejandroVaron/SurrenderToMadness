@@ -27,6 +27,7 @@ public class player : MonoBehaviour
     bool inTransition = false;
     bool menu = false;
     int startMenu = 0;
+    public bool inDialogue = false;
 
     void Start()
     {
@@ -81,7 +82,7 @@ public class player : MonoBehaviour
 
             AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
             bool validate = stateInfo.IsName("player_attack");
-            if (Input.GetKeyDown(KeyCode.Mouse0) && !validate)
+            if (Input.GetKeyDown(KeyCode.Mouse0) && !validate && !inDialogue)
             {
                 anim.SetTrigger("slash-trigger");
                 FindObjectOfType<AudioManager>().Play("PlayerSwordSlash");
@@ -124,6 +125,13 @@ public class player : MonoBehaviour
        if(collision.tag == "AttackEnemy")
         {
             lifeBar.loseHealth(15);            
+            FindObjectOfType<AudioManager>().Play("PlayerGotHit");
+        }
+
+       if(collision.tag == "AttackEnemyOrc")
+        {
+            FindObjectOfType<AudioManager>().Play("orcHit");
+            lifeBar.loseHealth(15);
             FindObjectOfType<AudioManager>().Play("PlayerGotHit");
         }
     }
