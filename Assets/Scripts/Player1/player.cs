@@ -25,6 +25,8 @@ public class player : MonoBehaviour
     int count = 0;
     public GameObject canvas;
     bool inTransition = false;
+    bool menu = false;
+    int startMenu = 0;
 
     void Start()
     {
@@ -61,6 +63,21 @@ public class player : MonoBehaviour
                 //FindObjectOfType<AudioManager>().Play("PlayerWalkGrass");
             }
 
+
+
+            if(Input.GetKeyDown(KeyCode.G))
+            {
+                startMenu++;
+                menu = !menu;          
+            }
+            if (menu == true && startMenu > 0)
+            {
+                canvas.GetComponent<Animator>().Play("showPanelMenu");
+            }
+            else if(menu == false && startMenu > 0)
+            {
+                canvas.GetComponent<Animator>().Play("hidePanelMenu");
+            }
 
             AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
             bool validate = stateInfo.IsName("player_attack");

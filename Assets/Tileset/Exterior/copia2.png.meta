@@ -1,0 +1,5554 @@
+fileFormatVersion: 2
+guid: c8ce17add5fc1334fa1bde5edc198eb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9032656830862035985
+    second: copia2_0
+  - first:
+      213: 8754574076157541054
+    second: copia2_1
+  - first:
+      213: -7761844095818730017
+    second: copia2_2
+  - first:
+      213: -1362898730562961139
+    second: copia2_3
+  - first:
+      213: 7120398380331652170
+    second: copia2_4
+  - first:
+      213: 219970302510645697
+    second: copia2_5
+  - first:
+      213: 8277284291076771872
+    second: copia2_6
+  - first:
+      213: -7882998031744966824
+    second: copia2_7
+  - first:
+      213: -5432990195105005878
+    second: copia2_8
+  - first:
+      213: -1909859498135747401
+    second: copia2_9
+  - first:
+      213: -947744685758034757
+    second: copia2_10
+  - first:
+      213: -4010823446492400712
+    second: copia2_11
+  - first:
+      213: -240037526296367094
+    second: copia2_12
+  - first:
+      213: 3395469884508419975
+    second: copia2_13
+  - first:
+      213: -3781679530023075808
+    second: copia2_14
+  - first:
+      213: 9036688764838497949
+    second: copia2_15
+  - first:
+      213: -8257480627396200837
+    second: copia2_16
+  - first:
+      213: 7902345136686337714
+    second: copia2_17
+  - first:
+      213: 6921656018267879777
+    second: copia2_18
+  - first:
+      213: 792884913842872252
+    second: copia2_19
+  - first:
+      213: 4925828214565337016
+    second: copia2_20
+  - first:
+      213: 125181889685171372
+    second: copia2_21
+  - first:
+      213: -28487027918617352
+    second: copia2_22
+  - first:
+      213: -7120679027422706240
+    second: copia2_23
+  - first:
+      213: -5155396125808181177
+    second: copia2_24
+  - first:
+      213: 6663375442871421655
+    second: copia2_25
+  - first:
+      213: 3899342058729010220
+    second: copia2_26
+  - first:
+      213: 3080786490152593546
+    second: copia2_27
+  - first:
+      213: 1649288760564437703
+    second: copia2_28
+  - first:
+      213: -4152252574836509349
+    second: copia2_29
+  - first:
+      213: 2931877809161339516
+    second: copia2_30
+  - first:
+      213: 5235923359923095191
+    second: copia2_31
+  - first:
+      213: -6538124715055812513
+    second: copia2_32
+  - first:
+      213: -4729410696540000783
+    second: copia2_33
+  - first:
+      213: -1822476625250535714
+    second: copia2_34
+  - first:
+      213: -8260333306554504823
+    second: copia2_35
+  - first:
+      213: 3364959571797514492
+    second: copia2_36
+  - first:
+      213: 1118912612739857980
+    second: copia2_37
+  - first:
+      213: -3067817130832168394
+    second: copia2_38
+  - first:
+      213: -6612331928141288605
+    second: copia2_39
+  - first:
+      213: -9109055082281994310
+    second: copia2_40
+  - first:
+      213: -5000061841923919555
+    second: copia2_41
+  - first:
+      213: 3530209207457714296
+    second: copia2_42
+  - first:
+      213: -2431148177046025429
+    second: copia2_43
+  - first:
+      213: -2549931837720474917
+    second: copia2_44
+  - first:
+      213: 5194019633819300906
+    second: copia2_45
+  - first:
+      213: 2155763594352298346
+    second: copia2_46
+  - first:
+      213: 4551993676975570388
+    second: copia2_47
+  - first:
+      213: 1503581038396720313
+    second: copia2_48
+  - first:
+      213: -5669034398839335489
+    second: copia2_49
+  - first:
+      213: 6368803568669812366
+    second: copia2_50
+  - first:
+      213: 875506241897021494
+    second: copia2_51
+  - first:
+      213: -4057886030833612257
+    second: copia2_52
+  - first:
+      213: 6909327687996248189
+    second: copia2_53
+  - first:
+      213: -8843030224460183053
+    second: copia2_54
+  - first:
+      213: 6800590571978224301
+    second: copia2_55
+  - first:
+      213: 7033787898307013650
+    second: copia2_56
+  - first:
+      213: 3424012607470657932
+    second: copia2_57
+  - first:
+      213: 1046139879911042738
+    second: copia2_58
+  - first:
+      213: -5151238993880042653
+    second: copia2_59
+  - first:
+      213: -7119665747454075880
+    second: copia2_60
+  - first:
+      213: -1149388260871934629
+    second: copia2_61
+  - first:
+      213: 5780605487578860643
+    second: copia2_62
+  - first:
+      213: -5751410364099317729
+    second: copia2_63
+  - first:
+      213: 7955959692807042971
+    second: copia2_64
+  - first:
+      213: 4727614717739282956
+    second: copia2_65
+  - first:
+      213: 1866846402747963575
+    second: copia2_66
+  - first:
+      213: 2293088312771267051
+    second: copia2_67
+  - first:
+      213: 4325531498795952867
+    second: copia2_68
+  - first:
+      213: -8557244601984819257
+    second: copia2_69
+  - first:
+      213: 4582719652921591638
+    second: copia2_70
+  - first:
+      213: 5770728729343120378
+    second: copia2_71
+  - first:
+      213: -6942987714241165577
+    second: copia2_72
+  - first:
+      213: -5920783456680687324
+    second: copia2_73
+  - first:
+      213: -9169158279735040073
+    second: copia2_74
+  - first:
+      213: 993828063032169276
+    second: copia2_75
+  - first:
+      213: -925300910162341725
+    second: copia2_76
+  - first:
+      213: -5145050682264014119
+    second: copia2_77
+  - first:
+      213: -4686311111533717217
+    second: copia2_78
+  - first:
+      213: -1618962149823356015
+    second: copia2_79
+  - first:
+      213: 6064823179077652620
+    second: copia2_80
+  - first:
+      213: -1698738040458790924
+    second: copia2_81
+  - first:
+      213: -2835568431968520193
+    second: copia2_82
+  - first:
+      213: 4237980331957115159
+    second: copia2_83
+  - first:
+      213: 6356279703275183118
+    second: copia2_84
+  - first:
+      213: -2561583741754630569
+    second: copia2_85
+  - first:
+      213: -5302995291337739365
+    second: copia2_86
+  - first:
+      213: -7042322110434589761
+    second: copia2_87
+  - first:
+      213: 4033834933327640661
+    second: copia2_88
+  - first:
+      213: -2586148539299640875
+    second: copia2_89
+  - first:
+      213: 5901031284224156122
+    second: copia2_90
+  - first:
+      213: 1682026470500098758
+    second: copia2_91
+  - first:
+      213: -4007032112835205854
+    second: copia2_92
+  - first:
+      213: -469368215492995241
+    second: copia2_93
+  - first:
+      213: 7729896627500677906
+    second: copia2_94
+  - first:
+      213: -478500628631191169
+    second: copia2_95
+  - first:
+      213: -8504428383876009168
+    second: copia2_96
+  - first:
+      213: -504771439379209429
+    second: copia2_97
+  - first:
+      213: 1058212224151473627
+    second: copia2_98
+  - first:
+      213: 2015407680788645144
+    second: copia2_99
+  - first:
+      213: -6031942648836950251
+    second: copia2_100
+  - first:
+      213: 6880549633177696041
+    second: copia2_101
+  - first:
+      213: -7439371207853386733
+    second: copia2_102
+  - first:
+      213: -4678781014649751442
+    second: copia2_103
+  - first:
+      213: 1710779738615338176
+    second: copia2_104
+  - first:
+      213: -818051329706354249
+    second: copia2_105
+  - first:
+      213: 4376215791969205708
+    second: copia2_106
+  - first:
+      213: -3747094273432836461
+    second: copia2_107
+  - first:
+      213: 770943519873845978
+    second: copia2_108
+  - first:
+      213: 7815575758876065313
+    second: copia2_109
+  - first:
+      213: -4817787615533063652
+    second: copia2_110
+  - first:
+      213: -3769529293240877792
+    second: copia2_111
+  - first:
+      213: -4161310476008536935
+    second: copia2_112
+  - first:
+      213: 4207312035382714549
+    second: copia2_113
+  - first:
+      213: -2542922109275909206
+    second: copia2_114
+  - first:
+      213: 7803553127526126983
+    second: copia2_115
+  - first:
+      213: 5795221790431470648
+    second: copia2_116
+  - first:
+      213: -4154961906863023431
+    second: copia2_117
+  - first:
+      213: -8518068674923249678
+    second: copia2_118
+  - first:
+      213: 7709045499506964118
+    second: copia2_119
+  - first:
+      213: -3436622917454245788
+    second: copia2_120
+  - first:
+      213: -1828165094510335952
+    second: copia2_121
+  - first:
+      213: -4492863619414675739
+    second: copia2_122
+  - first:
+      213: -592695615624533224
+    second: copia2_123
+  - first:
+      213: 3606918908156196123
+    second: copia2_124
+  - first:
+      213: -1657044881006875890
+    second: copia2_125
+  - first:
+      213: 2534009628539112227
+    second: copia2_126
+  - first:
+      213: -7101303701718205367
+    second: copia2_127
+  - first:
+      213: -1432970556153871036
+    second: copia2_128
+  - first:
+      213: 2271481093935706057
+    second: copia2_129
+  - first:
+      213: 4917849539786387789
+    second: copia2_130
+  - first:
+      213: 869166946065068912
+    second: copia2_131
+  - first:
+      213: -3083360642713515672
+    second: copia2_132
+  - first:
+      213: 1701230813938938110
+    second: copia2_133
+  - first:
+      213: -6839807720434601303
+    second: copia2_134
+  - first:
+      213: 7277964816899465351
+    second: copia2_135
+  - first:
+      213: 5232697150746109885
+    second: copia2_136
+  - first:
+      213: 6122103960098991077
+    second: copia2_137
+  - first:
+      213: 8275274675067948566
+    second: copia2_138
+  - first:
+      213: -5992799704498789614
+    second: copia2_139
+  - first:
+      213: 612359801568897485
+    second: copia2_140
+  - first:
+      213: 4487863573462342261
+    second: copia2_141
+  - first:
+      213: 8977451779194837472
+    second: copia2_142
+  - first:
+      213: 660710844276771712
+    second: copia2_143
+  - first:
+      213: 998374979403691637
+    second: copia2_144
+  - first:
+      213: -1989946554398930294
+    second: copia2_145
+  - first:
+      213: 5881099550397579423
+    second: copia2_146
+  - first:
+      213: -1083333848112862190
+    second: copia2_147
+  - first:
+      213: -2076410817113227855
+    second: copia2_148
+  - first:
+      213: 1936194959738445147
+    second: copia2_149
+  - first:
+      213: 2684280493542471579
+    second: copia2_150
+  - first:
+      213: -8056712146462236172
+    second: copia2_151
+  - first:
+      213: 25367920474005342
+    second: copia2_152
+  - first:
+      213: -5269271732445458100
+    second: copia2_153
+  - first:
+      213: -8832891910703018998
+    second: copia2_154
+  - first:
+      213: -3883585106828274408
+    second: copia2_155
+  - first:
+      213: 3489339119671807277
+    second: copia2_156
+  - first:
+      213: 1300343714004175484
+    second: copia2_157
+  - first:
+      213: -5060140156625284525
+    second: copia2_158
+  - first:
+      213: 3198890959731990814
+    second: copia2_159
+  - first:
+      213: -1003808071782614071
+    second: copia2_160
+  - first:
+      213: -4686905277157384816
+    second: copia2_161
+  - first:
+      213: -8893334574780152413
+    second: copia2_162
+  - first:
+      213: -2052638952583186384
+    second: copia2_163
+  - first:
+      213: -7436040295528664325
+    second: copia2_164
+  - first:
+      213: 3411755704807944452
+    second: copia2_165
+  - first:
+      213: -1973583673501993280
+    second: copia2_166
+  - first:
+      213: 8707331740396907700
+    second: copia2_167
+  - first:
+      213: 9000159948844541359
+    second: copia2_168
+  - first:
+      213: 7438517387239983570
+    second: copia2_169
+  - first:
+      213: -3811076257252140259
+    second: copia2_170
+  - first:
+      213: -7040603914975008374
+    second: copia2_171
+  - first:
+      213: 3262791176608991626
+    second: copia2_172
+  - first:
+      213: 7206412939781531881
+    second: copia2_173
+  - first:
+      213: 4835332363127945191
+    second: copia2_174
+  - first:
+      213: 5833321100502837797
+    second: copia2_175
+  - first:
+      213: -243725461565473305
+    second: copia2_176
+  - first:
+      213: -1084073988176893540
+    second: copia2_177
+  - first:
+      213: 4232383415427066967
+    second: copia2_178
+  - first:
+      213: 5922214762728296785
+    second: copia2_179
+  - first:
+      213: -8130537736555648382
+    second: copia2_180
+  - first:
+      213: 2507101318053867417
+    second: copia2_181
+  - first:
+      213: 1107084293927108941
+    second: copia2_182
+  - first:
+      213: 4652633468490696217
+    second: copia2_183
+  - first:
+      213: -6172962994631987650
+    second: copia2_184
+  - first:
+      213: -3829992013497287102
+    second: copia2_185
+  - first:
+      213: -3806658735324951967
+    second: copia2_186
+  - first:
+      213: 572255796711958627
+    second: copia2_187
+  - first:
+      213: 729008786824526542
+    second: copia2_188
+  - first:
+      213: -7254641716212791414
+    second: copia2_189
+  - first:
+      213: -6318876058582427525
+    second: copia2_190
+  - first:
+      213: -8192195646315523740
+    second: copia2_191
+  - first:
+      213: 8918747479807853334
+    second: copia2_192
+  - first:
+      213: -4846725326577793324
+    second: copia2_193
+  - first:
+      213: -1042235460240593744
+    second: copia2_194
+  - first:
+      213: 4230648530069762359
+    second: copia2_195
+  - first:
+      213: -2447672607957651399
+    second: copia2_196
+  - first:
+      213: 5625606039925601600
+    second: copia2_197
+  - first:
+      213: -2314655962592783976
+    second: copia2_198
+  - first:
+      213: 7531725619292163233
+    second: copia2_199
+  - first:
+      213: 8972038752439367313
+    second: copia2_200
+  - first:
+      213: -5313895380498796211
+    second: copia2_201
+  - first:
+      213: 9139128008752445425
+    second: copia2_202
+  - first:
+      213: -6804245128520090055
+    second: copia2_203
+  - first:
+      213: -4677811472819754554
+    second: copia2_204
+  - first:
+      213: 6708910046690074269
+    second: copia2_205
+  - first:
+      213: 7398651138536025085
+    second: copia2_206
+  - first:
+      213: -859145118711019165
+    second: copia2_207
+  - first:
+      213: -904195131174259145
+    second: copia2_208
+  - first:
+      213: -1383954560355047815
+    second: copia2_209
+  - first:
+      213: -6387567064089741857
+    second: copia2_210
+  - first:
+      213: 1113490756660529080
+    second: copia2_211
+  - first:
+      213: -5693386605572195335
+    second: copia2_212
+  - first:
+      213: 6243854390581296401
+    second: copia2_213
+  - first:
+      213: 3336317612470419831
+    second: copia2_214
+  - first:
+      213: 7876574765746897407
+    second: copia2_215
+  - first:
+      213: -6765935108287592239
+    second: copia2_216
+  - first:
+      213: -3894717862184149055
+    second: copia2_217
+  - first:
+      213: 7828810643269607749
+    second: copia2_218
+  - first:
+      213: -4737848629971317994
+    second: copia2_219
+  - first:
+      213: -181460758534426538
+    second: copia2_220
+  - first:
+      213: -1308083540736462464
+    second: copia2_221
+  - first:
+      213: -3727658585501910638
+    second: copia2_222
+  - first:
+      213: -4056172499702305484
+    second: copia2_223
+  - first:
+      213: 1512593587340728699
+    second: copia2_224
+  - first:
+      213: -9153129928226759300
+    second: copia2_225
+  - first:
+      213: -1605640257706988498
+    second: copia2_226
+  - first:
+      213: 2101351962118667773
+    second: copia2_227
+  - first:
+      213: 2271674528073559521
+    second: copia2_228
+  - first:
+      213: -1580308910568789569
+    second: copia2_229
+  - first:
+      213: -7122762725554927419
+    second: copia2_230
+  - first:
+      213: -2013793396102823792
+    second: copia2_231
+  - first:
+      213: 7350674987441356078
+    second: copia2_232
+  - first:
+      213: 5059567838512994457
+    second: copia2_233
+  - first:
+      213: -8465705018814159799
+    second: copia2_234
+  - first:
+      213: -253457353423934851
+    second: copia2_235
+  - first:
+      213: -200343003008930391
+    second: copia2_236
+  - first:
+      213: 3824406863423141534
+    second: copia2_237
+  - first:
+      213: 5762255129784475571
+    second: copia2_238
+  - first:
+      213: 1155560792893266892
+    second: copia2_239
+  - first:
+      213: -7347562452637231402
+    second: copia2_240
+  - first:
+      213: -6640327828246472669
+    second: copia2_241
+  - first:
+      213: 915779751054785406
+    second: copia2_242
+  - first:
+      213: -9139555790732054359
+    second: copia2_243
+  - first:
+      213: -7733713622651490970
+    second: copia2_244
+  - first:
+      213: -2872599484769607854
+    second: copia2_245
+  - first:
+      213: 8953157911878447596
+    second: copia2_246
+  - first:
+      213: -3631748671719207828
+    second: copia2_247
+  - first:
+      213: -7480605732614845336
+    second: copia2_248
+  - first:
+      213: -3319318898942406671
+    second: copia2_249
+  - first:
+      213: 6434932271701684329
+    second: copia2_250
+  - first:
+      213: 4824130049724083558
+    second: copia2_251
+  - first:
+      213: 2086281026088702081
+    second: copia2_252
+  - first:
+      213: 5715622050162822122
+    second: copia2_253
+  - first:
+      213: 8207995478158705241
+    second: copia2_254
+  - first:
+      213: -2284654068374966485
+    second: copia2_255
+  - first:
+      213: -2089938386972881005
+    second: copia2_256
+  - first:
+      213: -1326410581625354341
+    second: copia2_257
+  - first:
+      213: -1540885422576447783
+    second: copia2_258
+  - first:
+      213: 3146772363116384990
+    second: copia2_259
+  - first:
+      213: -8983802050885030131
+    second: copia2_260
+  - first:
+      213: -793358038773258277
+    second: copia2_261
+  - first:
+      213: -407913016409954057
+    second: copia2_262
+  - first:
+      213: -8867519718355184320
+    second: copia2_263
+  - first:
+      213: 79353439236369503
+    second: copia2_264
+  - first:
+      213: -3837849564891274473
+    second: copia2_265
+  - first:
+      213: -6572960378864036696
+    second: copia2_266
+  - first:
+      213: 2534873708105105069
+    second: copia2_267
+  - first:
+      213: 8306964408323825539
+    second: copia2_268
+  - first:
+      213: 7800200848930465731
+    second: copia2_269
+  - first:
+      213: -6316193702734233282
+    second: copia2_270
+  - first:
+      213: -2143941093000081448
+    second: copia2_271
+  - first:
+      213: -375799153478565406
+    second: copia2_272
+  - first:
+      213: -6352084473730013216
+    second: copia2_273
+  - first:
+      213: -5085701890605467425
+    second: copia2_274
+  - first:
+      213: -687496371202621252
+    second: copia2_275
+  - first:
+      213: 7547888209060092561
+    second: copia2_276
+  - first:
+      213: -4927144804141297738
+    second: copia2_277
+  - first:
+      213: -335341213696526302
+    second: copia2_278
+  - first:
+      213: 1992604598901356317
+    second: copia2_279
+  - first:
+      213: 6410086126740428359
+    second: copia2_280
+  - first:
+      213: -8972651931314957021
+    second: copia2_281
+  - first:
+      213: 8422206166722256580
+    second: copia2_282
+  - first:
+      213: 1068408468109831675
+    second: copia2_283
+  - first:
+      213: -4493321652100546362
+    second: copia2_284
+  - first:
+      213: -4729746622648409474
+    second: copia2_285
+  - first:
+      213: 6579167660432715042
+    second: copia2_286
+  - first:
+      213: 2652505009145302341
+    second: copia2_287
+  - first:
+      213: -1056476858061893640
+    second: copia2_288
+  - first:
+      213: -8475527601830294973
+    second: copia2_289
+  - first:
+      213: -8659227941942576154
+    second: copia2_290
+  - first:
+      213: 1428243140722326552
+    second: copia2_291
+  - first:
+      213: -8968694968426292505
+    second: copia2_292
+  - first:
+      213: -4564790622859381489
+    second: copia2_293
+  - first:
+      213: -3731845616965347429
+    second: copia2_294
+  - first:
+      213: 7869400076617121457
+    second: copia2_295
+  - first:
+      213: -4335595340250704079
+    second: copia2_296
+  - first:
+      213: -6108242716723363892
+    second: copia2_297
+  - first:
+      213: -5496784930916999307
+    second: copia2_298
+  - first:
+      213: -4041784311832897440
+    second: copia2_299
+  - first:
+      213: 8821658670273371245
+    second: copia2_300
+  - first:
+      213: -1416466417365089581
+    second: copia2_301
+  - first:
+      213: -9030232893697818676
+    second: copia2_302
+  - first:
+      213: -2338139717931860413
+    second: copia2_303
+  - first:
+      213: -7612679977933732770
+    second: copia2_304
+  - first:
+      213: -7586193377994906804
+    second: copia2_305
+  - first:
+      213: -7058113075714103171
+    second: copia2_306
+  - first:
+      213: 5196531768956448256
+    second: copia2_307
+  - first:
+      213: 6495221136640232592
+    second: copia2_308
+  - first:
+      213: -6454342915379997184
+    second: copia2_309
+  - first:
+      213: -2721152133440747602
+    second: copia2_310
+  - first:
+      213: 1331726751010957767
+    second: copia2_311
+  - first:
+      213: 2414350558291531773
+    second: copia2_312
+  - first:
+      213: -459389995245502827
+    second: copia2_313
+  - first:
+      213: 8466151153614175776
+    second: copia2_314
+  - first:
+      213: -2179044730341189743
+    second: copia2_315
+  - first:
+      213: 227868693989871010
+    second: copia2_316
+  - first:
+      213: -8767606968297608548
+    second: copia2_317
+  - first:
+      213: -9007110451160007560
+    second: copia2_318
+  - first:
+      213: -6448123195671378765
+    second: copia2_319
+  - first:
+      213: -5849468497028990891
+    second: copia2_320
+  - first:
+      213: 7713575650653968021
+    second: copia2_321
+  - first:
+      213: -8625631773002349846
+    second: copia2_322
+  - first:
+      213: -4640979229493368845
+    second: copia2_323
+  - first:
+      213: -5878745284519709141
+    second: copia2_324
+  - first:
+      213: 2276046938454555882
+    second: copia2_325
+  - first:
+      213: 5091381289258370333
+    second: copia2_326
+  - first:
+      213: 6552866370013381655
+    second: copia2_327
+  - first:
+      213: 1671683231852745389
+    second: copia2_328
+  - first:
+      213: 4369664846868674716
+    second: copia2_329
+  - first:
+      213: 609945439295283675
+    second: copia2_330
+  - first:
+      213: -1991625028032513700
+    second: copia2_331
+  - first:
+      213: 8076584591878197024
+    second: copia2_332
+  - first:
+      213: -5691528926783047758
+    second: copia2_333
+  - first:
+      213: -6904282421049849770
+    second: copia2_334
+  - first:
+      213: 1481978232632454455
+    second: copia2_335
+  - first:
+      213: -478356506309296081
+    second: copia2_336
+  - first:
+      213: -1631224877663041282
+    second: copia2_337
+  - first:
+      213: 8311854176027895383
+    second: copia2_338
+  - first:
+      213: -6088286988773017872
+    second: copia2_339
+  - first:
+      213: 7757342666447899149
+    second: copia2_340
+  - first:
+      213: -6025556636912138543
+    second: copia2_341
+  - first:
+      213: -5542515008427050451
+    second: copia2_342
+  - first:
+      213: 3866457047578277008
+    second: copia2_343
+  - first:
+      213: -1970471518850551534
+    second: copia2_344
+  - first:
+      213: -7880616598370425597
+    second: copia2_345
+  - first:
+      213: 2987515029939867548
+    second: copia2_346
+  - first:
+      213: -7299643731396933943
+    second: copia2_347
+  - first:
+      213: 8304224707701516943
+    second: copia2_348
+  - first:
+      213: -5629806793195608644
+    second: copia2_349
+  - first:
+      213: -1331914721293457251
+    second: copia2_350
+  - first:
+      213: 5983183031885356445
+    second: copia2_351
+  - first:
+      213: 1956150406525884748
+    second: copia2_352
+  - first:
+      213: 8394748451719986503
+    second: copia2_353
+  - first:
+      213: -7255218281646546667
+    second: copia2_354
+  - first:
+      213: -7295533343129049804
+    second: copia2_355
+  - first:
+      213: 7784701615318868908
+    second: copia2_356
+  - first:
+      213: 7524176670721796279
+    second: copia2_357
+  - first:
+      213: -8116111456838169669
+    second: copia2_358
+  - first:
+      213: -7619694747352754366
+    second: copia2_359
+  - first:
+      213: -1053397315310363134
+    second: copia2_360
+  - first:
+      213: -1798874284007441559
+    second: copia2_361
+  - first:
+      213: 688896600940373378
+    second: copia2_362
+  - first:
+      213: 1104312550088236403
+    second: copia2_363
+  - first:
+      213: -3534242441314992376
+    second: copia2_364
+  - first:
+      213: 2537797379680828866
+    second: copia2_365
+  - first:
+      213: -1639879103388204284
+    second: copia2_366
+  - first:
+      213: 3821649528402232793
+    second: copia2_367
+  - first:
+      213: 7547551746761937826
+    second: copia2_368
+  - first:
+      213: 8865742412819405028
+    second: copia2_369
+  - first:
+      213: 3318339039012826216
+    second: copia2_370
+  - first:
+      213: 4573807854419488372
+    second: copia2_371
+  - first:
+      213: 1295766482581346618
+    second: copia2_372
+  - first:
+      213: 227036637845187580
+    second: copia2_373
+  - first:
+      213: -3272282412499626284
+    second: copia2_374
+  - first:
+      213: -330303957927685077
+    second: copia2_375
+  - first:
+      213: 852508007694998488
+    second: copia2_376
+  - first:
+      213: -1254963888814398358
+    second: copia2_377
+  - first:
+      213: 8400158640737737740
+    second: copia2_378
+  - first:
+      213: 5689964310708699748
+    second: copia2_379
+  - first:
+      213: -5153961012300444911
+    second: copia2_380
+  - first:
+      213: -4518740373091240141
+    second: copia2_381
+  - first:
+      213: 5114814713368727842
+    second: copia2_382
+  - first:
+      213: 4844112996725505540
+    second: copia2_383
+  - first:
+      213: -7908157763010843274
+    second: copia2_384
+  - first:
+      213: -3063275218060969375
+    second: copia2_385
+  - first:
+      213: -4956445515337060999
+    second: copia2_386
+  - first:
+      213: -4393403290254928436
+    second: copia2_387
+  - first:
+      213: 1543495473868005565
+    second: copia2_388
+  - first:
+      213: 1635317549712705256
+    second: copia2_389
+  - first:
+      213: -4519836882705019815
+    second: copia2_390
+  - first:
+      213: 1369484339186477972
+    second: copia2_391
+  - first:
+      213: 4611992452798244250
+    second: copia2_392
+  - first:
+      213: -5984867977572642854
+    second: copia2_393
+  - first:
+      213: 5451986483716108000
+    second: copia2_394
+  - first:
+      213: -6486690848967288781
+    second: copia2_395
+  - first:
+      213: -1632082966989796042
+    second: copia2_396
+  - first:
+      213: -13329352234033787
+    second: copia2_397
+  - first:
+      213: -3694837827532261273
+    second: copia2_398
+  - first:
+      213: -4981457222607240603
+    second: copia2_399
+  - first:
+      213: -7471609166440275735
+    second: copia2_400
+  - first:
+      213: 9054081933467314290
+    second: copia2_401
+  - first:
+      213: -7048450524035095826
+    second: copia2_402
+  - first:
+      213: 4527018889893600656
+    second: copia2_403
+  - first:
+      213: -2396064825723130408
+    second: copia2_404
+  - first:
+      213: 7858361847355087563
+    second: copia2_405
+  - first:
+      213: -3526665366666056467
+    second: copia2_406
+  - first:
+      213: -3285262404760773329
+    second: copia2_407
+  - first:
+      213: 2793394286657631701
+    second: copia2_408
+  - first:
+      213: 3476895301163350425
+    second: copia2_409
+  - first:
+      213: 2375004494390061801
+    second: copia2_410
+  - first:
+      213: 1991632600422485429
+    second: copia2_411
+  - first:
+      213: -2165772997010783510
+    second: copia2_412
+  - first:
+      213: -5549823727914580611
+    second: copia2_413
+  - first:
+      213: 1732448632704263316
+    second: copia2_414
+  - first:
+      213: -9177280935906222103
+    second: copia2_415
+  - first:
+      213: 7587011658937129239
+    second: copia2_416
+  - first:
+      213: -4444721703278798311
+    second: copia2_417
+  - first:
+      213: 3380525253671515645
+    second: copia2_418
+  - first:
+      213: -463382011248002226
+    second: copia2_419
+  - first:
+      213: -6881533944161165948
+    second: copia2_420
+  - first:
+      213: -2177514270159620043
+    second: copia2_421
+  - first:
+      213: 1346678501336588753
+    second: copia2_422
+  - first:
+      213: 3578280771520352530
+    second: copia2_423
+  - first:
+      213: 217297839105945381
+    second: copia2_424
+  - first:
+      213: 5679043237897837411
+    second: copia2_425
+  - first:
+      213: 8198529779782711468
+    second: copia2_426
+  - first:
+      213: 5048348880825397308
+    second: copia2_427
+  - first:
+      213: 5193243990411567554
+    second: copia2_428
+  - first:
+      213: 996794755363283463
+    second: copia2_429
+  - first:
+      213: 2439334986306560843
+    second: copia2_430
+  - first:
+      213: 8812280012100173396
+    second: copia2_431
+  - first:
+      213: -2235856416475160233
+    second: copia2_432
+  - first:
+      213: 5540269744265318504
+    second: copia2_433
+  - first:
+      213: 8838543074338230022
+    second: copia2_434
+  - first:
+      213: 4021860281143249085
+    second: copia2_435
+  - first:
+      213: 3114100640121498934
+    second: copia2_436
+  - first:
+      213: -4663440162262756997
+    second: copia2_437
+  - first:
+      213: -7426448449813740070
+    second: copia2_438
+  - first:
+      213: 5002219235624785592
+    second: copia2_439
+  - first:
+      213: 8679542551945698056
+    second: copia2_440
+  - first:
+      213: 8076303976289422008
+    second: copia2_441
+  - first:
+      213: 8461481640956000262
+    second: copia2_442
+  - first:
+      213: -8481848316170210690
+    second: copia2_443
+  - first:
+      213: 4745418647547449234
+    second: copia2_444
+  - first:
+      213: -2189827751842853846
+    second: copia2_445
+  - first:
+      213: -3331052248745715244
+    second: copia2_446
+  - first:
+      213: -675755152542690953
+    second: copia2_447
+  - first:
+      213: -1266602438874249474
+    second: copia2_448
+  - first:
+      213: 3876569726355504176
+    second: copia2_449
+  - first:
+      213: -6871736410801254208
+    second: copia2_450
+  - first:
+      213: -2103943841444009101
+    second: copia2_451
+  - first:
+      213: -7742020027874662237
+    second: copia2_452
+  - first:
+      213: 8865836487934476597
+    second: copia2_453
+  - first:
+      213: -1162428945635006726
+    second: copia2_454
+  - first:
+      213: -6239607446333332307
+    second: copia2_455
+  - first:
+      213: -7105230513067376733
+    second: copia2_456
+  - first:
+      213: -1744612620657000912
+    second: copia2_457
+  - first:
+      213: -7608747860567762139
+    second: copia2_458
+  - first:
+      213: -7984817105109092473
+    second: copia2_459
+  - first:
+      213: -1476499407837784386
+    second: copia2_460
+  - first:
+      213: -8473409296337897341
+    second: copia2_461
+  - first:
+      213: 7362279663193612313
+    second: copia2_462
+  - first:
+      213: -7485893747083902163
+    second: copia2_463
+  - first:
+      213: -1414943195794865285
+    second: copia2_464
+  - first:
+      213: -798556081166547691
+    second: copia2_465
+  - first:
+      213: 8749859555933767995
+    second: copia2_466
+  - first:
+      213: -4519250531257358559
+    second: copia2_467
+  - first:
+      213: 1468403540872232519
+    second: copia2_468
+  - first:
+      213: 3321312301941529483
+    second: copia2_469
+  - first:
+      213: 4999233867856649614
+    second: copia2_470
+  - first:
+      213: -375562154497718323
+    second: copia2_471
+  - first:
+      213: 66638488620175362
+    second: copia2_472
+  - first:
+      213: -351925445735261630
+    second: copia2_473
+  - first:
+      213: -5805572896637060829
+    second: copia2_474
+  - first:
+      213: 2396573703864825236
+    second: copia2_475
+  - first:
+      213: 569266353304072721
+    second: copia2_476
+  - first:
+      213: 591788104245098116
+    second: copia2_477
+  - first:
+      213: 1679880998026433430
+    second: copia2_478
+  - first:
+      213: 8499184126948561792
+    second: copia2_479
+  - first:
+      213: -3706201960005560766
+    second: copia2_480
+  - first:
+      213: -8555497801667631847
+    second: copia2_481
+  - first:
+      213: 1413606684048933043
+    second: copia2_482
+  - first:
+      213: 7831088800060448748
+    second: copia2_483
+  - first:
+      213: 6763805393040701447
+    second: copia2_484
+  - first:
+      213: -3313596997873088349
+    second: copia2_485
+  - first:
+      213: -850658043571943755
+    second: copia2_486
+  - first:
+      213: 2924185306263868103
+    second: copia2_487
+  - first:
+      213: -231895950573964646
+    second: copia2_488
+  - first:
+      213: 5441861603027231086
+    second: copia2_489
+  - first:
+      213: 4123378824650445310
+    second: copia2_490
+  - first:
+      213: 120482050853140970
+    second: copia2_491
+  - first:
+      213: -7261808635230635070
+    second: copia2_492
+  - first:
+      213: -6301375535318682310
+    second: copia2_493
+  - first:
+      213: 1053662150057413778
+    second: copia2_494
+  - first:
+      213: 7270177663781972007
+    second: copia2_495
+  - first:
+      213: -4389669849687458102
+    second: copia2_496
+  - first:
+      213: 1292786950806055765
+    second: copia2_497
+  - first:
+      213: -1079930545527677394
+    second: copia2_498
+  - first:
+      213: 6800795950242406976
+    second: copia2_499
+  - first:
+      213: 2887441580757221328
+    second: copia2_500
+  - first:
+      213: -2105551891003222633
+    second: copia2_501
+  - first:
+      213: -7316799961065505132
+    second: copia2_502
+  - first:
+      213: 9150550122648583251
+    second: copia2_503
+  - first:
+      213: 2829766174613093683
+    second: copia2_504
+  - first:
+      213: 3531239439268444290
+    second: copia2_505
+  - first:
+      213: -6075513610285714289
+    second: copia2_506
+  - first:
+      213: -8519451068549481191
+    second: copia2_507
+  - first:
+      213: -6487482035553478395
+    second: copia2_508
+  - first:
+      213: -8969519551830160814
+    second: copia2_509
+  - first:
+      213: 339850715256261364
+    second: copia2_510
+  - first:
+      213: 6900765030266028937
+    second: copia2_511
+  - first:
+      213: 2437336094870569363
+    second: copia2_512
+  - first:
+      213: -4834251564059063593
+    second: copia2_513
+  - first:
+      213: -7332186606934887419
+    second: copia2_514
+  - first:
+      213: -7430456129121998624
+    second: copia2_515
+  - first:
+      213: -3057589078927479029
+    second: copia2_516
+  - first:
+      213: -2781993031430779457
+    second: copia2_517
+  - first:
+      213: -7618617272391199460
+    second: copia2_518
+  - first:
+      213: 3114240288515270862
+    second: copia2_519
+  - first:
+      213: 5418517886916080176
+    second: copia2_520
+  - first:
+      213: -3579154867735170069
+    second: copia2_521
+  - first:
+      213: 1907691552177046567
+    second: copia2_522
+  - first:
+      213: 4291794400022186887
+    second: copia2_523
+  - first:
+      213: -7205703554467302525
+    second: copia2_524
+  - first:
+      213: -6970447529740267805
+    second: copia2_525
+  - first:
+      213: 3844508600331809156
+    second: copia2_526
+  - first:
+      213: 5830495884585631071
+    second: copia2_527
+  - first:
+      213: 5912736139829488794
+    second: copia2_528
+  - first:
+      213: -6697080387993008154
+    second: copia2_529
+  - first:
+      213: -7851683604776223152
+    second: copia2_530
+  - first:
+      213: -5640423709563680440
+    second: copia2_531
+  - first:
+      213: 938768735262338739
+    second: copia2_532
+  - first:
+      213: -8101394512147683662
+    second: copia2_533
+  - first:
+      213: -3559187299305885032
+    second: copia2_534
+  - first:
+      213: 1133033408322964516
+    second: copia2_535
+  - first:
+      213: -6474001046659965774
+    second: copia2_536
+  - first:
+      213: -9117919513065365148
+    second: copia2_537
+  - first:
+      213: -350022336867475227
+    second: copia2_538
+  - first:
+      213: 2925024757250834769
+    second: copia2_539
+  - first:
+      213: -1082505702571675457
+    second: copia2_540
+  - first:
+      213: 7585222455536083553
+    second: copia2_541
+  - first:
+      213: -8948356428321188108
+    second: copia2_542
+  - first:
+      213: -1793787373217290394
+    second: copia2_543
+  - first:
+      213: -4277462893622830470
+    second: copia2_544
+  - first:
+      213: -3226669783403801181
+    second: copia2_545
+  - first:
+      213: 1017590918277832918
+    second: copia2_546
+  - first:
+      213: -8855805514312807098
+    second: copia2_547
+  - first:
+      213: 7895857452277158433
+    second: copia2_548
+  - first:
+      213: -9125753717713567017
+    second: copia2_549
+  - first:
+      213: 1368822108447109040
+    second: copia2_550
+  - first:
+      213: 1384310576707629963
+    second: copia2_551
+  - first:
+      213: 8910171111623330891
+    second: copia2_552
+  - first:
+      213: 2398399775494840302
+    second: copia2_553
+  - first:
+      213: -5322471235047587897
+    second: copia2_554
+  - first:
+      213: -8835783382796879698
+    second: copia2_555
+  - first:
+      213: 1582762127251119905
+    second: copia2_556
+  - first:
+      213: -7493892420095738684
+    second: copia2_557
+  - first:
+      213: 7886823946956571152
+    second: copia2_558
+  - first:
+      213: -4398178596565020669
+    second: copia2_559
+  - first:
+      213: 7568998128924729220
+    second: copia2_560
+  - first:
+      213: 8621042955790267876
+    second: copia2_561
+  - first:
+      213: -5780308741298109410
+    second: copia2_562
+  - first:
+      213: -4267332499794251169
+    second: copia2_563
+  - first:
+      213: 6655263012754001679
+    second: copia2_564
+  - first:
+      213: 1258998601455188790
+    second: copia2_565
+  - first:
+      213: -8475808666266460395
+    second: copia2_566
+  - first:
+      213: -18683634272461966
+    second: copia2_567
+  - first:
+      213: -4900070714724914379
+    second: copia2_568
+  - first:
+      213: 8708374464968339538
+    second: copia2_569
+  - first:
+      213: 6341912969670131980
+    second: copia2_570
+  - first:
+      213: 5263503902010118014
+    second: copia2_571
+  - first:
+      213: 2174702979262622895
+    second: copia2_572
+  - first:
+      213: 7622205149773835587
+    second: copia2_573
+  - first:
+      213: -7764618030380230063
+    second: copia2_574
+  - first:
+      213: -7148380949252633732
+    second: copia2_575
+  - first:
+      213: -8263638705950702025
+    second: copia2_576
+  - first:
+      213: 2596486486920038429
+    second: copia2_577
+  - first:
+      213: 8051040517920934495
+    second: copia2_578
+  - first:
+      213: 6429787012831153408
+    second: copia2_579
+  - first:
+      213: 8266900462514924080
+    second: copia2_580
+  - first:
+      213: -7958710098010517792
+    second: copia2_581
+  - first:
+      213: -2640729247113848539
+    second: copia2_582
+  - first:
+      213: 2801743379384591747
+    second: copia2_583
+  - first:
+      213: 7431364379855588685
+    second: copia2_584
+  - first:
+      213: -528293388103523665
+    second: copia2_585
+  - first:
+      213: 966432159219830181
+    second: copia2_586
+  - first:
+      213: -3902109683957071253
+    second: copia2_587
+  - first:
+      213: -6609562899140122818
+    second: copia2_588
+  - first:
+      213: 5094727952848904208
+    second: copia2_589
+  - first:
+      213: 1634805178896070039
+    second: copia2_590
+  - first:
+      213: -7881362093773413256
+    second: copia2_591
+  - first:
+      213: -6525713681024904704
+    second: copia2_592
+  - first:
+      213: 5349100308684786003
+    second: copia2_593
+  - first:
+      213: 2316849572688714316
+    second: copia2_594
+  - first:
+      213: -8303365603711373691
+    second: copia2_595
+  - first:
+      213: -4238393641609328522
+    second: copia2_596
+  - first:
+      213: 5132191367510490589
+    second: copia2_597
+  - first:
+      213: -7175931236544537162
+    second: copia2_598
+  - first:
+      213: 4931293795974221913
+    second: copia2_599
+  - first:
+      213: 3771108030444821256
+    second: copia2_600
+  - first:
+      213: -845178272622109667
+    second: copia2_601
+  - first:
+      213: -1582508746070461964
+    second: copia2_602
+  - first:
+      213: 5240755360789779052
+    second: copia2_603
+  - first:
+      213: -5564856558536062044
+    second: copia2_604
+  - first:
+      213: 8301944626687531586
+    second: copia2_605
+  - first:
+      213: 3435679166674019903
+    second: copia2_606
+  - first:
+      213: -3362604295971774040
+    second: copia2_607
+  - first:
+      213: -8711954167295308861
+    second: copia2_608
+  - first:
+      213: 7411187867429213538
+    second: copia2_609
+  - first:
+      213: -2054640664832508201
+    second: copia2_610
+  - first:
+      213: -76749032534494632
+    second: copia2_611
+  - first:
+      213: 3348125516669021601
+    second: copia2_612
+  - first:
+      213: -2296773654111264695
+    second: copia2_613
+  - first:
+      213: 7404098233641677955
+    second: copia2_614
+  - first:
+      213: -3928204601933215571
+    second: copia2_615
+  - first:
+      213: -6171935574537854738
+    second: copia2_616
+  - first:
+      213: -6210079342670290822
+    second: copia2_617
+  - first:
+      213: -9157649048592366382
+    second: copia2_618
+  - first:
+      213: 7961935364520410381
+    second: copia2_619
+  - first:
+      213: -1355690259689057163
+    second: copia2_620
+  - first:
+      213: -915031590795607269
+    second: copia2_621
+  - first:
+      213: -9175028750732117563
+    second: copia2_622
+  - first:
+      213: -5560397219868240098
+    second: copia2_623
+  - first:
+      213: 5644900347634877664
+    second: copia2_624
+  - first:
+      213: -127176115986189187
+    second: copia2_625
+  - first:
+      213: -4541412159122878838
+    second: copia2_626
+  - first:
+      213: -3315119459222638406
+    second: copia2_627
+  - first:
+      213: 1446243901175950735
+    second: copia2_628
+  - first:
+      213: 6792074155608705488
+    second: copia2_629
+  - first:
+      213: -4831941341906076603
+    second: copia2_630
+  - first:
+      213: 1654696154981256557
+    second: copia2_631
+  - first:
+      213: -2411405755871519166
+    second: copia2_632
+  - first:
+      213: 7922948197557532949
+    second: copia2_633
+  - first:
+      213: 2308531965811181646
+    second: copia2_634
+  - first:
+      213: 1693536384748177522
+    second: copia2_635
+  - first:
+      213: -6619412192947256652
+    second: copia2_636
+  - first:
+      213: -9123543707099790135
+    second: copia2_637
+  - first:
+      213: 4370335167529033831
+    second: copia2_638
+  - first:
+      213: -1792998296438352294
+    second: copia2_639
+  - first:
+      213: -6683521893766395567
+    second: copia2_640
+  - first:
+      213: -4487133439877704528
+    second: copia2_641
+  - first:
+      213: 4823346433892438584
+    second: copia2_642
+  - first:
+      213: 1769151116291544716
+    second: copia2_643
+  - first:
+      213: -1285293086441072710
+    second: copia2_644
+  - first:
+      213: 3555309077145248636
+    second: copia2_645
+  - first:
+      213: 6020397822882372030
+    second: copia2_646
+  - first:
+      213: -333212454214323420
+    second: copia2_647
+  - first:
+      213: 2997058882666233941
+    second: copia2_648
+  - first:
+      213: -6400876035304131195
+    second: copia2_649
+  - first:
+      213: 7414743629593808320
+    second: copia2_650
+  - first:
+      213: -6688700398206443306
+    second: copia2_651
+  - first:
+      213: 386280571304376171
+    second: copia2_652
+  - first:
+      213: 4493566476700474735
+    second: copia2_653
+  - first:
+      213: 4404444331596489683
+    second: copia2_654
+  - first:
+      213: 622006326859093204
+    second: copia2_655
+  - first:
+      213: 1856921237970478860
+    second: copia2_656
+  - first:
+      213: -4354061523273825076
+    second: copia2_657
+  - first:
+      213: 4710140496849512353
+    second: copia2_658
+  - first:
+      213: 8580689679303232683
+    second: copia2_659
+  - first:
+      213: 2912430182570877785
+    second: copia2_660
+  - first:
+      213: -3868637345094905155
+    second: copia2_661
+  - first:
+      213: 3719085915431089616
+    second: copia2_662
+  - first:
+      213: 6593288140202963942
+    second: copia2_663
+  - first:
+      213: 6864706986161089975
+    second: copia2_664
+  - first:
+      213: -7676889748780232425
+    second: copia2_665
+  - first:
+      213: -3388163727533053359
+    second: copia2_666
+  - first:
+      213: 3826184366913376240
+    second: copia2_667
+  - first:
+      213: 7219264637168362044
+    second: copia2_668
+  - first:
+      213: 7403962327352748929
+    second: copia2_669
+  - first:
+      213: -8509027133317976770
+    second: copia2_670
+  - first:
+      213: 6848780391324726683
+    second: copia2_671
+  - first:
+      213: 722998580256662930
+    second: copia2_672
+  - first:
+      213: -1068955273052243928
+    second: copia2_673
+  - first:
+      213: 3804888040840413430
+    second: copia2_674
+  - first:
+      213: -6515938528811708353
+    second: copia2_675
+  - first:
+      213: 4117217572518598066
+    second: copia2_676
+  - first:
+      213: 603731760446285708
+    second: copia2_677
+  - first:
+      213: 7579223571635768500
+    second: copia2_678
+  - first:
+      213: -4093302399885258457
+    second: copia2_679
+  - first:
+      213: 1340173282523093422
+    second: copia2_680
+  - first:
+      213: 1065697682771821924
+    second: copia2_681
+  - first:
+      213: 5836863199760718191
+    second: copia2_682
+  - first:
+      213: 5266708469930414712
+    second: copia2_683
+  - first:
+      213: -1571457972485215929
+    second: copia2_684
+  - first:
+      213: -2865869919558091689
+    second: copia2_685
+  - first:
+      213: 6613269800790386434
+    second: copia2_686
+  - first:
+      213: -7479133414034488101
+    second: copia2_687
+  - first:
+      213: -42180319144518649
+    second: copia2_688
+  - first:
+      213: -5905586289850482145
+    second: copia2_689
+  - first:
+      213: 331361386647956690
+    second: copia2_690
+  - first:
+      213: -1936165301401844575
+    second: copia2_691
+  - first:
+      213: -753688369016935703
+    second: copia2_692
+  - first:
+      213: 8804507724538967243
+    second: copia2_693
+  - first:
+      213: 1687568362252829163
+    second: copia2_694
+  - first:
+      213: 7374692199432271759
+    second: copia2_695
+  - first:
+      213: 6918510385263447942
+    second: copia2_696
+  - first:
+      213: -5734381616368045665
+    second: copia2_697
+  - first:
+      213: -535130367375254376
+    second: copia2_698
+  - first:
+      213: 7856787211232080384
+    second: copia2_699
+  - first:
+      213: -2776436533330532022
+    second: copia2_700
+  - first:
+      213: -7572368011891319171
+    second: copia2_701
+  - first:
+      213: 4809598276639991084
+    second: copia2_702
+  - first:
+      213: 6018388218838431675
+    second: copia2_703
+  - first:
+      213: 3338973458552445211
+    second: copia2_704
+  - first:
+      213: -4091798013409479889
+    second: copia2_705
+  - first:
+      213: -3633031266193174185
+    second: copia2_706
+  - first:
+      213: 739582965427268283
+    second: copia2_707
+  - first:
+      213: 1121735637591284834
+    second: copia2_708
+  - first:
+      213: 996010412888299125
+    second: copia2_709
+  - first:
+      213: 8212591984194871867
+    second: copia2_710
+  - first:
+      213: -6484806733870562127
+    second: copia2_711
+  - first:
+      213: -4732017767369406884
+    second: copia2_712
+  - first:
+      213: 3910250888507475513
+    second: copia2_713
+  - first:
+      213: 3941005244249806699
+    second: copia2_714
+  - first:
+      213: 6175533701055142559
+    second: copia2_715
+  - first:
+      213: 2413351605106902603
+    second: copia2_716
+  - first:
+      213: 3092065130076919591
+    second: copia2_717
+  - first:
+      213: 2946945943525239098
+    second: copia2_718
+  - first:
+      213: -8121619058453942317
+    second: copia2_719
+  - first:
+      213: 2354398471848321952
+    second: copia2_720
+  - first:
+      213: 7569510159536890609
+    second: copia2_721
+  - first:
+      213: -6327669376646335192
+    second: copia2_722
+  - first:
+      213: 4921871838181477928
+    second: copia2_723
+  - first:
+      213: -1635568605174695122
+    second: copia2_724
+  - first:
+      213: 6477548438765515851
+    second: copia2_725
+  - first:
+      213: 5375975704714928367
+    second: copia2_726
+  - first:
+      213: 5848993932630222847
+    second: copia2_727
+  - first:
+      213: 6434527901289949611
+    second: copia2_728
+  - first:
+      213: 1059488644893210285
+    second: copia2_729
+  - first:
+      213: -5489680580289568021
+    second: copia2_730
+  - first:
+      213: 1297756525872843382
+    second: copia2_731
+  - first:
+      213: 7374178932539367878
+    second: copia2_732
+  - first:
+      213: 5954716576004877353
+    second: copia2_733
+  - first:
+      213: 9005262656875478590
+    second: copia2_734
+  - first:
+      213: -1181039473049004229
+    second: copia2_735
+  - first:
+      213: 3448131688460805505
+    second: copia2_736
+  - first:
+      213: 994788970896709826
+    second: copia2_737
+  - first:
+      213: 683834888798380503
+    second: copia2_738
+  - first:
+      213: -2996560728252261404
+    second: copia2_739
+  - first:
+      213: 621882337668963971
+    second: copia2_740
+  - first:
+      213: -370476773628796379
+    second: copia2_741
+  - first:
+      213: 2039531480703390435
+    second: copia2_742
+  - first:
+      213: -2718161406391180211
+    second: copia2_743
+  - first:
+      213: 3908841954510567841
+    second: copia2_744
+  - first:
+      213: 8028242948786214408
+    second: copia2_745
+  - first:
+      213: -7982423938710760736
+    second: copia2_746
+  - first:
+      213: 1077482980737041342
+    second: copia2_747
+  - first:
+      213: -8183525678058783782
+    second: copia2_748
+  - first:
+      213: -5538912830581314210
+    second: copia2_749
+  - first:
+      213: 673059744513352878
+    second: copia2_750
+  - first:
+      213: 870130286956541714
+    second: copia2_751
+  - first:
+      213: -4431743447146003873
+    second: copia2_752
+  - first:
+      213: 8049621781855955436
+    second: copia2_753
+  - first:
+      213: -3985491533169246008
+    second: copia2_754
+  - first:
+      213: -3537977958593341165
+    second: copia2_755
+  - first:
+      213: 8908941463497573756
+    second: copia2_756
+  - first:
+      213: -6747852701603319588
+    second: copia2_757
+  - first:
+      213: -6909972848301040083
+    second: copia2_758
+  - first:
+      213: 6709616048750491747
+    second: copia2_759
+  - first:
+      213: -1268481021343721970
+    second: copia2_760
+  - first:
+      213: 1868094743682586885
+    second: copia2_761
+  - first:
+      213: 2863697662136293574
+    second: copia2_762
+  - first:
+      213: 1277396134637705278
+    second: copia2_763
+  - first:
+      213: 5480560254471266333
+    second: copia2_764
+  - first:
+      213: 4363405789322080571
+    second: copia2_765
+  - first:
+      213: 9007394698784883969
+    second: copia2_766
+  - first:
+      213: 4845569811947948629
+    second: copia2_767
+  - first:
+      213: 5641446073829332358
+    second: copia2_768
+  - first:
+      213: -8507492708795695972
+    second: copia2_769
+  - first:
+      213: -7453455280619211255
+    second: copia2_770
+  - first:
+      213: -2080189588182174890
+    second: copia2_771
+  - first:
+      213: 7505076775165935123
+    second: copia2_772
+  - first:
+      213: 6086722378928907098
+    second: copia2_773
+  - first:
+      213: 6026616619031314383
+    second: copia2_774
+  - first:
+      213: 4502312631372852528
+    second: copia2_775
+  - first:
+      213: -7346100751202064570
+    second: copia2_776
+  - first:
+      213: -7429846392092117562
+    second: copia2_777
+  - first:
+      213: -2107480164898587056
+    second: copia2_778
+  - first:
+      213: 7930437398011833307
+    second: copia2_779
+  - first:
+      213: 3853820364887284668
+    second: copia2_780
+  - first:
+      213: -8464584739839393923
+    second: copia2_781
+  - first:
+      213: 1670322831689994722
+    second: copia2_782
+  - first:
+      213: -5785223211852239892
+    second: copia2_783
+  - first:
+      213: 7374196706316071006
+    second: copia2_784
+  - first:
+      213: -9217577640266320101
+    second: copia2_785
+  - first:
+      213: 6783280031909212561
+    second: copia2_786
+  - first:
+      213: -7439220382338604747
+    second: copia2_787
+  - first:
+      213: -6643657419910463863
+    second: copia2_788
+  - first:
+      213: 6656137678127915299
+    second: copia2_789
+  - first:
+      213: -7284684839301372243
+    second: copia2_790
+  - first:
+      213: 7288488917704871621
+    second: copia2_791
+  - first:
+      213: 3480308566205419763
+    second: copia2_792
+  - first:
+      213: -5005247814123713981
+    second: copia2_793
+  - first:
+      213: 8146643622405232819
+    second: copia2_794
+  - first:
+      213: 6615417947955938242
+    second: copia2_795
+  - first:
+      213: -3444992177277258937
+    second: copia2_796
+  - first:
+      213: -3851001527636574731
+    second: copia2_797
+  - first:
+      213: -7363319117328090603
+    second: copia2_798
+  - first:
+      213: -5592243542310694845
+    second: copia2_799
+  - first:
+      213: -4186359896124833934
+    second: copia2_800
+  - first:
+      213: -6876672742133200774
+    second: copia2_801
+  - first:
+      213: 8514649734735420564
+    second: copia2_802
+  - first:
+      213: -998777934582102917
+    second: copia2_803
+  - first:
+      213: -7756661478537827848
+    second: copia2_804
+  - first:
+      213: -7291698790689409544
+    second: copia2_805
+  - first:
+      213: 7887239053081793553
+    second: copia2_806
+  - first:
+      213: 1399700745975043458
+    second: copia2_807
+  - first:
+      213: -4427413208886627429
+    second: copia2_808
+  - first:
+      213: -3897293059688110317
+    second: copia2_809
+  - first:
+      213: -4910308364235998115
+    second: copia2_810
+  - first:
+      213: 4952756852944749439
+    second: copia2_811
+  - first:
+      213: 7705744839669834155
+    second: copia2_812
+  - first:
+      213: 5872743808104873290
+    second: copia2_813
+  - first:
+      213: -7043623519164872419
+    second: copia2_814
+  - first:
+      213: -4946135218661904293
+    second: copia2_815
+  - first:
+      213: -8159574436222018729
+    second: copia2_816
+  - first:
+      213: -1771585259920174029
+    second: copia2_817
+  - first:
+      213: 8008572477897858247
+    second: copia2_818
+  - first:
+      213: -1841318308366656279
+    second: copia2_819
+  - first:
+      213: -512216298388048351
+    second: copia2_820
+  - first:
+      213: -8938484976926153189
+    second: copia2_821
+  - first:
+      213: 7770481438471724960
+    second: copia2_822
+  - first:
+      213: -654658273182556519
+    second: copia2_823
+  - first:
+      213: 5290242787106381450
+    second: copia2_824
+  - first:
+      213: -3307398459367282958
+    second: copia2_825
+  - first:
+      213: 5596182277337286435
+    second: copia2_826
+  - first:
+      213: -5306653891902565437
+    second: copia2_827
+  - first:
+      213: -7744497940866799901
+    second: copia2_828
+  - first:
+      213: 3512905364158780748
+    second: copia2_829
+  - first:
+      213: 5049121292700837923
+    second: copia2_830
+  - first:
+      213: -6824735555622823176
+    second: copia2_831
+  - first:
+      213: -2930395494321496437
+    second: copia2_832
+  - first:
+      213: -4888406594279304266
+    second: copia2_833
+  - first:
+      213: 3773176303964632679
+    second: copia2_834
+  - first:
+      213: 8166580670837727914
+    second: copia2_835
+  - first:
+      213: -3931293019963062001
+    second: copia2_836
+  - first:
+      213: 677987598176290502
+    second: copia2_837
+  - first:
+      213: -9092479541093688363
+    second: copia2_838
+  - first:
+      213: -6754473193052643228
+    second: copia2_839
+  - first:
+      213: -7068395099003347130
+    second: copia2_840
+  - first:
+      213: 1610468885892370867
+    second: copia2_841
+  - first:
+      213: -103695960682766815
+    second: copia2_842
+  - first:
+      213: 7540924447594866141
+    second: copia2_843
+  - first:
+      213: -3523220271087433213
+    second: copia2_844
+  - first:
+      213: 8402150978469702020
+    second: copia2_845
+  - first:
+      213: -7627061846556465149
+    second: copia2_846
+  - first:
+      213: -7674374405294554832
+    second: copia2_847
+  - first:
+      213: -5586922835586935948
+    second: copia2_848
+  - first:
+      213: -4376709983121099415
+    second: copia2_849
+  - first:
+      213: 8855177305841615572
+    second: copia2_850
+  - first:
+      213: 696758997615639883
+    second: copia2_851
+  - first:
+      213: 950607115961481169
+    second: copia2_852
+  - first:
+      213: 3083978479256020385
+    second: copia2_853
+  - first:
+      213: 5275869342869743116
+    second: copia2_854
+  - first:
+      213: 3941523315118347152
+    second: copia2_855
+  - first:
+      213: 2550378854735991432
+    second: copia2_856
+  - first:
+      213: 8384553322463972687
+    second: copia2_857
+  - first:
+      213: -3161054632372995126
+    second: copia2_858
+  - first:
+      213: -6276303847595498480
+    second: copia2_859
+  - first:
+      213: -8070961246876173859
+    second: copia2_860
+  - first:
+      213: -409380641405920489
+    second: copia2_861
+  - first:
+      213: 8173129559897723594
+    second: copia2_862
+  - first:
+      213: 8229622515224270690
+    second: copia2_863
+  - first:
+      213: -1762637684110746885
+    second: copia2_864
+  - first:
+      213: 5797057384029104549
+    second: copia2_865
+  - first:
+      213: -8360860558945838281
+    second: copia2_866
+  - first:
+      213: 6447649562981531552
+    second: copia2_867
+  - first:
+      213: -2732149073449006569
+    second: copia2_868
+  - first:
+      213: 686624521303974562
+    second: copia2_869
+  - first:
+      213: 5680596390290818924
+    second: copia2_870
+  - first:
+      213: -1596659149282014491
+    second: copia2_871
+  - first:
+      213: -6584318569409576202
+    second: copia2_872
+  - first:
+      213: -4807528711205336156
+    second: copia2_873
+  - first:
+      213: -302894032074727944
+    second: copia2_874
+  - first:
+      213: -3204834344604731852
+    second: copia2_875
+  - first:
+      213: 738612988565160851
+    second: copia2_876
+  - first:
+      213: 4017592100506488662
+    second: copia2_877
+  - first:
+      213: -5610388943996280441
+    second: copia2_878
+  - first:
+      213: -8244295939663535526
+    second: copia2_879
+  - first:
+      213: -1375194390332358763
+    second: copia2_880
+  - first:
+      213: 466254758142046928
+    second: copia2_881
+  - first:
+      213: -2366460573447419246
+    second: copia2_882
+  - first:
+      213: -111100398225464399
+    second: copia2_883
+  - first:
+      213: 1059168119231602340
+    second: copia2_884
+  - first:
+      213: -5674295564067068477
+    second: copia2_885
+  - first:
+      213: 5497774981751847888
+    second: copia2_886
+  - first:
+      213: 8291954697592070445
+    second: copia2_887
+  - first:
+      213: 3860166145308134184
+    second: copia2_888
+  - first:
+      213: 1072018392324358495
+    second: copia2_889
+  - first:
+      213: -8179521369702517843
+    second: copia2_890
+  - first:
+      213: 6764795479470795294
+    second: copia2_891
+  - first:
+      213: 7171997550470575927
+    second: copia2_892
+  - first:
+      213: -4891313539555669351
+    second: copia2_893
+  - first:
+      213: 1537101471504474442
+    second: copia2_894
+  - first:
+      213: -5328915222309645651
+    second: copia2_895
+  - first:
+      213: -5479981406543297912
+    second: copia2_896
+  - first:
+      213: -3680243211555732088
+    second: copia2_897
+  - first:
+      213: 3870212539920875830
+    second: copia2_898
+  - first:
+      213: 5133874182506030681
+    second: copia2_899
+  - first:
+      213: -5831821566164950595
+    second: copia2_900
+  - first:
+      213: -9046455413396531663
+    second: copia2_901
+  - first:
+      213: -8356992536672118638
+    second: copia2_902
+  - first:
+      213: -94563349332852197
+    second: copia2_903
+  - first:
+      213: -1027325035945144398
+    second: copia2_904
+  - first:
+      213: -6092601648233834170
+    second: copia2_905
+  - first:
+      213: -2019978910953307600
+    second: copia2_906
+  - first:
+      213: 8156904973597617814
+    second: copia2_907
+  - first:
+      213: -4120354162043479676
+    second: copia2_908
+  - first:
+      213: -461356099298428588
+    second: copia2_909
+  - first:
+      213: 3331444701753521644
+    second: copia2_910
+  - first:
+      213: 7576198854417486078
+    second: copia2_911
+  - first:
+      213: -7508235908428665872
+    second: copia2_912
+  - first:
+      213: -6825950596379812580
+    second: copia2_913
+  - first:
+      213: 7350074475775602577
+    second: copia2_914
+  - first:
+      213: 146019224475732064
+    second: copia2_915
+  - first:
+      213: 6143951877792050672
+    second: copia2_916
+  - first:
+      213: 43306322861259062
+    second: copia2_917
+  - first:
+      213: -69155942527368437
+    second: copia2_918
+  - first:
+      213: 3519677196144942504
+    second: copia2_919
+  - first:
+      213: -6108556010984536463
+    second: copia2_920
+  - first:
+      213: -3032380922670415115
+    second: copia2_921
+  - first:
+      213: -7836029334834809944
+    second: copia2_922
+  - first:
+      213: 1142408296676857475
+    second: copia2_923
+  - first:
+      213: 6655177474764912642
+    second: copia2_924
+  - first:
+      213: -5682705157417569810
+    second: copia2_925
+  - first:
+      213: -4953345283728387827
+    second: copia2_926
+  - first:
+      213: 6254914189869831348
+    second: copia2_927
+  - first:
+      213: -2171758030659353220
+    second: copia2_928
+  - first:
+      213: 3211654089031764868
+    second: copia2_929
+  - first:
+      213: 1184193004590156126
+    second: copia2_930
+  - first:
+      213: 4741338534066930061
+    second: copia2_931
+  - first:
+      213: -8102402483043599209
+    second: copia2_932
+  - first:
+      213: 8755851974763543487
+    second: copia2_933
+  - first:
+      213: -1692052086843226915
+    second: copia2_934
+  - first:
+      213: -2516824340387688053
+    second: copia2_935
+  - first:
+      213: -591763211409859047
+    second: copia2_936
+  - first:
+      213: 938592800644456167
+    second: copia2_937
+  - first:
+      213: 7086613509851735780
+    second: copia2_938
+  - first:
+      213: -3721134184010077478
+    second: copia2_939
+  - first:
+      213: 8263373670954282815
+    second: copia2_940
+  - first:
+      213: -8450082717224355180
+    second: copia2_941
+  - first:
+      213: -2486615758045376036
+    second: copia2_942
+  - first:
+      213: -3615558009810724607
+    second: copia2_943
+  - first:
+      213: 890008757198168453
+    second: copia2_944
+  - first:
+      213: 6231506292012505029
+    second: copia2_945
+  - first:
+      213: -129953826806674155
+    second: copia2_946
+  - first:
+      213: 9172045149258041732
+    second: copia2_947
+  - first:
+      213: -1529446439241634588
+    second: copia2_948
+  - first:
+      213: 1448818644072702320
+    second: copia2_949
+  - first:
+      213: -5240729698456225895
+    second: copia2_950
+  - first:
+      213: -9046081555865196967
+    second: copia2_951
+  - first:
+      213: -2337871136253896647
+    second: copia2_952
+  - first:
+      213: -6808892675749899907
+    second: copia2_953
+  - first:
+      213: 8171223757439849911
+    second: copia2_954
+  - first:
+      213: -1874185376317681019
+    second: copia2_955
+  - first:
+      213: 4960335562315685240
+    second: copia2_956
+  - first:
+      213: -308468195071189949
+    second: copia2_957
+  - first:
+      213: 8102325415143892107
+    second: copia2_958
+  - first:
+      213: -8134946550942271562
+    second: copia2_959
+  - first:
+      213: -2838066357673500109
+    second: copia2_960
+  - first:
+      213: -4080245593462888443
+    second: copia2_961
+  - first:
+      213: -1962473387665711979
+    second: copia2_962
+  - first:
+      213: 4484629038802720085
+    second: copia2_963
+  - first:
+      213: 3613060629097173738
+    second: copia2_964
+  - first:
+      213: 3283064936663740806
+    second: copia2_965
+  - first:
+      213: -7404606683390629517
+    second: copia2_966
+  - first:
+      213: 3703380895333703952
+    second: copia2_967
+  - first:
+      213: 3472506421970406657
+    second: copia2_968
+  - first:
+      213: -3769285644934012519
+    second: copia2_969
+  - first:
+      213: -3348992375593459046
+    second: copia2_970
+  - first:
+      213: -3955139502213087908
+    second: copia2_971
+  - first:
+      213: 7777093817960909848
+    second: copia2_972
+  - first:
+      213: -623786983586984089
+    second: copia2_973
+  - first:
+      213: -6133593075710587972
+    second: copia2_974
+  - first:
+      213: 7321568445246286099
+    second: copia2_975
+  - first:
+      213: 3306477013873136859
+    second: copia2_976
+  - first:
+      213: -8307455462201496200
+    second: copia2_977
+  - first:
+      213: 4458980161284411667
+    second: copia2_978
+  - first:
+      213: 7565355922884736345
+    second: copia2_979
+  - first:
+      213: -378127662791385480
+    second: copia2_980
+  - first:
+      213: 2774271760569096014
+    second: copia2_981
+  - first:
+      213: 6288428791897272419
+    second: copia2_982
+  - first:
+      213: -1978684073039140797
+    second: copia2_983
+  - first:
+      213: -1129420617742178781
+    second: copia2_984
+  - first:
+      213: -190168211804344839
+    second: copia2_985
+  - first:
+      213: -2697311056490811723
+    second: copia2_986
+  - first:
+      213: -572195055731084021
+    second: copia2_987
+  - first:
+      213: 3076486037801594874
+    second: copia2_988
+  - first:
+      213: 4956670872582060480
+    second: copia2_989
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: copia2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8985d7817a5d70800000000000000
+      internalID: 9032656830862035985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab6311dbe7e7970800000000000000
+      internalID: 8754574076157541054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f2ca3be3684490800000000000000
+      internalID: -7761844095818730017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c6f353d2061de0800000000000000
+      internalID: -1362898730562961139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445fe6f99cb0d260800000000000000
+      internalID: 7120398380331652170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1484e13dd7d0300800000000000000
+      internalID: 219970302510645697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205d823532ded270800000000000000
+      internalID: 8277284291076771872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fdcb85e07f99290800000000000000
+      internalID: -7882998031744966824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acef598e3342a94b0800000000000000
+      internalID: -5432990195105005878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b486b2c7e0de75e0800000000000000
+      internalID: -1909859498135747401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcc0abca3fe8d2f0800000000000000
+      internalID: -947744685758034757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3330f5351b658c0800000000000000
+      internalID: -4010823446492400712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00775044273bacf0800000000000000
+      internalID: -240037526296367094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78739a7bed12f1f20800000000000000
+      internalID: 3395469884508419975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020cb9ee086c48bc0800000000000000
+      internalID: -3781679530023075808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e46fd9d84c86d70800000000000000
+      internalID: 9036688764838497949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7631609e19876d80800000000000000
+      internalID: -8257480627396200837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be89bc8805caad60800000000000000
+      internalID: 7902345136686337714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1693d42e979ae0060800000000000000
+      internalID: 6921656018267879777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfde55d0a4e00b00800000000000000
+      internalID: 792884913842872252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b773c9b9ae0c5440800000000000000
+      internalID: 4925828214565337016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac2ff2f34cbcb100800000000000000
+      internalID: 125181889685171372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44434f23bca9ff0800000000000000
+      internalID: -28487027918617352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c545eac6244e2d90800000000000000
+      internalID: -7120679027422706240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74047ccb98a5478b0800000000000000
+      internalID: -5155396125808181177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da896549a0197c50800000000000000
+      internalID: 6663375442871421655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24784c51fe3d1630800000000000000
+      internalID: 3899342058729010220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a882e567df621ca20800000000000000
+      internalID: 3080786490152593546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2dc71b36373e610800000000000000
+      internalID: 1649288760564437703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b553b23684c3066c0800000000000000
+      internalID: -4152252574836509349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7289eb655f10b820800000000000000
+      internalID: 2931877809161339516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c2630e8cb9a840800000000000000
+      internalID: 5235923359923095191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5075ed463ae345a0800000000000000
+      internalID: -6538124715055812513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdeccb6702cd5eb0800000000000000
+      internalID: -4729410696540000783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed63d7c4a2345b6e0800000000000000
+      internalID: -1822476625250535714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ad707f966d5d80800000000000000
+      internalID: -8260333306554504823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89a88f6ecb2be20800000000000000
+      internalID: 3364959571797514492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3011d71d278f00800000000000000
+      internalID: 1118912612739857980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63af3e0d29cec65d0800000000000000
+      internalID: -3067817130832168394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b2a2e15274c34a0800000000000000
+      internalID: -6612331928141288605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77d1d1aa2269180800000000000000
+      internalID: -9109055082281994310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31b3290f363c9ab0800000000000000
+      internalID: -5000061841923919555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87094510292ddf030800000000000000
+      internalID: 3530209207457714296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b45de1d93d24ed0800000000000000
+      internalID: -2431148177046025429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_44
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda4633f082dc9cd0800000000000000
+      internalID: -2549931837720474917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24343e765dd41840800000000000000
+      internalID: 5194019633819300906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69861d319fcaed10800000000000000
+      internalID: 2155763594352298346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf3f7b12eeb2f30800000000000000
+      internalID: 4551993676975570388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b446a4fcfacdd410800000000000000
+      internalID: 1503581038396720313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb516b5004b8351b0800000000000000
+      internalID: -5669034398839335489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86edc23a19826850800000000000000
+      internalID: 6368803568669812366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c8e2d94c662c00800000000000000
+      internalID: 875506241897021494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8421972e7fa7c0800000000000000
+      internalID: -4057886030833612257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7099cfccecd2ef50800000000000000
+      internalID: 6909327687996248189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9020dfcde374580800000000000000
+      internalID: -8843030224460183053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f1a9181d806e50800000000000000
+      internalID: 6800590571978224301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce700b3d80d9160800000000000000
+      internalID: 7033787898307013650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c816fb64359848f20800000000000000
+      internalID: 3424012607470657932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea7779da2a48e00800000000000000
+      internalID: 1046139879911042738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b3a07d6f1388b0800000000000000
+      internalID: -5151238993880042653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cdb7b69bdd13d90800000000000000
+      internalID: -7119665747454075880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d69b9677d8c00f0800000000000000
+      internalID: -1149388260871934629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ccfc16016d83050800000000000000
+      internalID: 5780605487578860643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103c520fb2ee20b0800000000000000
+      internalID: -5751410364099317729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f619203f396e60800000000000000
+      internalID: 7955959692807042971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0232cda98cdb9140800000000000000
+      internalID: 4727614717739282956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8120e89ee58e910800000000000000
+      internalID: 1866846402747963575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c451dbafa2df10800000000000000
+      internalID: 2293088312771267051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaee720bff570c30800000000000000
+      internalID: 4325531498795952867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd09a6f5f8e3980800000000000000
+      internalID: -8557244601984819257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657c7997e37199f30800000000000000
+      internalID: 4582719652921591638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af353a7643fb51050800000000000000
+      internalID: 5770728729343120378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f601cc957d85af90800000000000000
+      internalID: -6942987714241165577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c988d0d625dda0800000000000000
+      internalID: -5920783456680687324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7af07ff1b90c080800000000000000
+      internalID: -9169158279735040073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d8d89b59cacd00800000000000000
+      internalID: 993828063032169276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09d6389bba823f0800000000000000
+      internalID: -925300910162341725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2b5440aab1998b0800000000000000
+      internalID: -5145050682264014119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19111a8fd0e6feb0800000000000000
+      internalID: -4686311111533717217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e9fa908a4889e0800000000000000
+      internalID: -1618962149823356015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c809a7e6c849a2450800000000000000
+      internalID: 6064823179077652620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b204a0cedc68e0800000000000000
+      internalID: -1698738040458790924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7743cd88906a8d0800000000000000
+      internalID: -2835568431968520193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719556b78a450da30800000000000000
+      internalID: 4237980331957115159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1ebe86ba063850800000000000000
+      internalID: 6356279703275183118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9c42a82d637cd0800000000000000
+      internalID: -2561583741754630569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93be3601e9f766b0800000000000000
+      internalID: -5302995291337739365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3caa53a55a44e90800000000000000
+      internalID: -7042322110434589761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5583e8bef7f0bf730800000000000000
+      internalID: 4033834933327640661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d946a20b972c1cd0800000000000000
+      internalID: -2586148539299640875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e5a020bca4e150800000000000000
+      internalID: 5901031284224156122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c266f4c922c75710800000000000000
+      internalID: 1682026470500098758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225efd606892468c0800000000000000
+      internalID: -4007032112835205854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575ea648187c79f0800000000000000
+      internalID: -469368215492995241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bfaa8270c164b60800000000000000
+      internalID: 7729896627500677906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7103a5a6360c59f0800000000000000
+      internalID: -478500628631191169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033325971733af980800000000000000
+      internalID: -8504428383876009168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_97
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b232a0fdc01bef8f0800000000000000
+      internalID: -504771439379209429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd468549668fae00800000000000000
+      internalID: 1058212224151473627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815400b8b9a28fb10800000000000000
+      internalID: 2015407680788645144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5177b869e1c3a4ca0800000000000000
+      internalID: -6031942648836950251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273009cf6f9c7f50800000000000000
+      internalID: 6880549633177696041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31451ab4d4b02c890800000000000000
+      internalID: -7439371207853386733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b5f7d471a11fb0800000000000000
+      internalID: -4678781014649751442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45a11bb19edb710800000000000000
+      internalID: 1710779738615338176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b911dc56a2b5a4f0800000000000000
+      internalID: -818051329706354249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd77cc93117bbc30800000000000000
+      internalID: 4376215791969205708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a22c7c95affbc0800000000000000
+      internalID: -3747094273432836461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada48f3fb01f2ba00800000000000000
+      internalID: 770943519873845978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e36f67eb0867c60800000000000000
+      internalID: 7815575758876065313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1220ec70b7c32db0800000000000000
+      internalID: -4817787615533063652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02db2f16411ffabc0800000000000000
+      internalID: -3769529293240877792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994466d6b2e0046c0800000000000000
+      internalID: -4161310476008536935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b066304100636a30800000000000000
+      internalID: 4207312035382714549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa35f1980d9b5bcd0800000000000000
+      internalID: -2542922109275909206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855518793acb4c60800000000000000
+      internalID: 7803553127526126983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_116
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83465459383cc6050800000000000000
+      internalID: 5795221790431470648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copia2_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba562ed82c9656c0800000000000000
+      internalID: -4154961906863023431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

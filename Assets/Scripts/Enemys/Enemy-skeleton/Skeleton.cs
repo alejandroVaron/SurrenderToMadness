@@ -135,7 +135,7 @@ public class Skeleton : MonoBehaviour
         GameObject slashObj = Instantiate(
                     slashPrefab, transform.position,
                     Quaternion.AngleAxis(angle, Vector3.forward));
-        Shoot shoot = slashObj.GetComponent<Shoot>();
+        arrow shoot = slashObj.GetComponent<arrow>();
         shoot.mov.x = anim.GetFloat("movx");
         shoot.mov.y = anim.GetFloat("movy");
 
