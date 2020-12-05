@@ -65,7 +65,7 @@ public class Warp : MonoBehaviour
             StartCoroutine(area.GetComponent<Area>().showText(targetMapName));
             if(animals.Length > 0)
             {
-                animals[0].gameObject.SetActive(true);
+                animals[0].transform.GetChild(0).gameObject.SetActive(true);
             }
         }
     }

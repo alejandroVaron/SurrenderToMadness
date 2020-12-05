@@ -134,18 +134,25 @@ public class linaScript : MonoBehaviour
                 {
                     count++;
                     StopAllCoroutines();
-                    StartCoroutine(typeTheSentence("Estuve buscando las perlas para hacer los ensambles, pero no las encuentro"));
-                }else if(count == 2)
+                    StartCoroutine(typeTheSentence("Estuve buscando las perlas para hacer los ensambles..."));
+                }
+                else if (count == 2)
+                {
+                    count++;
+                    StopAllCoroutines();
+                    StartCoroutine(typeTheSentence("pero no las encuentro"));
+                }
+                else if(count == 3)
                 {
                     count++;
                     StopAllCoroutines();
                     StartCoroutine(typeTheSentence("Me dijeron que se encontraban en el fondo de las montañas"));
-                }else if(count == 3)
+                }else if(count == 4)
                 {
                     count++;
                     StopAllCoroutines();
                     StartCoroutine(typeTheSentence("Si alguien me trajera un par, podría llevarse parte de la recompensa..."));
-                }else if(count == 4)
+                }else if(count == 5)
                 {
                     count++;
                     StopAllCoroutines();
@@ -156,7 +163,7 @@ public class linaScript : MonoBehaviour
                     imageFaceSet.SetActive(false);
                     StartCoroutine(typeTheSentence("¿Estás dispuesto?"));
 
-                }else if(count == 5)
+                }else if(count == 6)
                 {
                     player.GetComponent<player>().inDialogue = false;
                     question.gameObject.SetActive(false);
@@ -178,7 +185,7 @@ public class linaScript : MonoBehaviour
                         StartCoroutine(typeTheSentence("No hay problema, cuando cambies de opinión puedes buscarme"));
                     }
                     response = 0;
-                }else if(count == 6)
+                }else if(count == 7)
                 {
                     dialoguePanel.SetActive(false);
                     imageFaceSet.SetActive(false);

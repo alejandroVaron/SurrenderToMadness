@@ -6,10 +6,25 @@ public class birdScript : MonoBehaviour
 {
     public Vector3 mov;
     public float speed;
+    public string direction;
     // Start is called before the first frame update
     void Start()
     {
-        
+        if(direction == "l")
+        {
+            GetComponent<Animator>().Play("fly-left");
+        }else if(direction == "r")
+        {
+            GetComponent<Animator>().Play("fly-right");
+        }
+        destroyObj();
+
+    }
+    IEnumerator destroyObj()
+    {
+        yield return new WaitForSeconds(5);
+        Destroy(gameObject);
+
     }
 
     // Update is called once per frame
