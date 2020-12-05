@@ -74,7 +74,7 @@ public class Orc : MonoBehaviour
             if (reset)
             {
                 anim.SetTrigger("atacar");
-                StartCoroutine("resetShoot");
+                StartCoroutine("resetShoot");          
             }
         } else if(hit.collider.tag != "Death" && !death)
         {
@@ -130,6 +130,7 @@ public class Orc : MonoBehaviour
         if (--hp <= 0)
         {
             death = true;
+            FindObjectOfType<AudioManager>().Play("orcDeath");
             anim.Play("orc-death");
             stopMov = false;
             yield return new WaitForSeconds(1.15f);

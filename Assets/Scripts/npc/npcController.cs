@@ -16,8 +16,9 @@ public class npcController : MonoBehaviour
     string activeSentence;
     public float typingSpeed;
     GameObject imageFaceSet;
-
-
+    public GameObject question;
+    bool questionValide;
+    bool response;
     void Start()
     {
         sentences = new Queue<string>();
@@ -58,6 +59,14 @@ public class npcController : MonoBehaviour
             return;
         }
         activeSentence = sentences.Dequeue();
+        if (activeSentence == "")
+        {
+            questionValide = true;
+        }
+        else
+        {
+            questionValide = false;
+        }
         displayText.text = activeSentence;
         StopAllCoroutines();
         StartCoroutine(typeTheSentence(activeSentence));
@@ -65,12 +74,15 @@ public class npcController : MonoBehaviour
 
     IEnumerator typeTheSentence(string sentence)
     {
-        displayText.text = nameNpc+": ";
-        foreach(char letter in sentence.ToCharArray())
+        if (!questionValide)
         {
-            FindObjectOfType<AudioManager>().Play("Typing");
-            displayText.text += letter;
-            yield return new WaitForSeconds(typingSpeed);
+            displayText.text = nameNpc + ": ";
+            foreach (char letter in sentence.ToCharArray())
+            {
+                FindObjectOfType<AudioManager>().Play("Typing");
+                displayText.text += letter;
+                yield return new WaitForSeconds(typingSpeed);
+            }
         }
     }
 
@@ -86,7 +98,14 @@ public class npcController : MonoBehaviour
             anim.SetBool("dir", true);
             anim.SetFloat("movx", dir.x);
             anim.SetFloat("movy", dir.y);
-            displayNextSentence();
+                if (!questionValide)
+                {
+                    displayNextSentence();
+                }
+                else
+                {
+                    //question.gameObject.SetActive(true);
+                }
             }
         }
         else

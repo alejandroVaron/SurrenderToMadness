@@ -11,6 +11,8 @@ TagManager:
   - AttackEnemy
   - Area
   - Death
+  - AttackEnemyOrc
+  - Mission2
   layers:
   - Default
   - TransparentFX

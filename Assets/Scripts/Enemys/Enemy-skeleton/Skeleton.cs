@@ -105,7 +105,7 @@ public class Skeleton : MonoBehaviour
     }
     IEnumerator attack()
     {
-        if(dir.x == 0)
+        if(dir.x > -0.6 && dir.x < 0.6)
         {
             if(dir.y > 0)
             {
@@ -145,9 +145,10 @@ public class Skeleton : MonoBehaviour
     {
         if (--hp <= 0)
         {
+            anim.SetBool("death", true);
             anim.Play("skeleton-death");
             stopMov = false;
-            yield return new WaitForSeconds(1.75f);
+            yield return new WaitForSeconds(1.6f);
             Destroy(gameObject);
         }
     }
