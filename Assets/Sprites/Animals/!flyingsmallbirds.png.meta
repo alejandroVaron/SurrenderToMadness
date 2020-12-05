@@ -1,0 +1,2410 @@
+fileFormatVersion: 2
+guid: e84cb7c114679c14a8081b19d0f98a36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4582394744585504182
+    second: '!flyingsmallbirds_0'
+  - first:
+      213: -2929172483666974737
+    second: '!flyingsmallbirds_1'
+  - first:
+      213: 8181281196742930551
+    second: '!flyingsmallbirds_2'
+  - first:
+      213: 6706375334499870457
+    second: '!flyingsmallbirds_3'
+  - first:
+      213: 8494146689584102277
+    second: '!flyingsmallbirds_4'
+  - first:
+      213: -7890602081055636934
+    second: '!flyingsmallbirds_5'
+  - first:
+      213: -1201437727423389066
+    second: '!flyingsmallbirds_6'
+  - first:
+      213: -21024786177496394
+    second: '!flyingsmallbirds_7'
+  - first:
+      213: 2942712907812812562
+    second: '!flyingsmallbirds_8'
+  - first:
+      213: 7850122159044213641
+    second: '!flyingsmallbirds_9'
+  - first:
+      213: 7524606835790744531
+    second: '!flyingsmallbirds_10'
+  - first:
+      213: 186998041014750077
+    second: '!flyingsmallbirds_11'
+  - first:
+      213: -4195351196227574489
+    second: '!flyingsmallbirds_12'
+  - first:
+      213: -4549467722378398245
+    second: '!flyingsmallbirds_13'
+  - first:
+      213: 3862595463650644186
+    second: '!flyingsmallbirds_14'
+  - first:
+      213: -3752087409563093476
+    second: '!flyingsmallbirds_15'
+  - first:
+      213: -4508385883140038290
+    second: '!flyingsmallbirds_16'
+  - first:
+      213: 2057612174355212943
+    second: '!flyingsmallbirds_17'
+  - first:
+      213: 4643226655894390320
+    second: '!flyingsmallbirds_18'
+  - first:
+      213: 2099482688528571712
+    second: '!flyingsmallbirds_19'
+  - first:
+      213: -6622316597253931030
+    second: '!flyingsmallbirds_20'
+  - first:
+      213: 3762256473213015262
+    second: '!flyingsmallbirds_21'
+  - first:
+      213: 4268694159787196592
+    second: '!flyingsmallbirds_22'
+  - first:
+      213: -6291606415601002803
+    second: '!flyingsmallbirds_23'
+  - first:
+      213: 7885116925411863500
+    second: '!flyingsmallbirds_24'
+  - first:
+      213: 1570204021876791103
+    second: '!flyingsmallbirds_25'
+  - first:
+      213: 6393561062854589120
+    second: '!flyingsmallbirds_26'
+  - first:
+      213: -756791086516034240
+    second: '!flyingsmallbirds_27'
+  - first:
+      213: 3761398991574840898
+    second: '!flyingsmallbirds_28'
+  - first:
+      213: 6172441592878934985
+    second: '!flyingsmallbirds_29'
+  - first:
+      213: -6505031860871617881
+    second: '!flyingsmallbirds_30'
+  - first:
+      213: -4448769419324925628
+    second: '!flyingsmallbirds_31'
+  - first:
+      213: -7180809178078427510
+    second: '!flyingsmallbirds_32'
+  - first:
+      213: -4974730102436780597
+    second: '!flyingsmallbirds_33'
+  - first:
+      213: -8206908026247226038
+    second: '!flyingsmallbirds_34'
+  - first:
+      213: 8929126526438922930
+    second: '!flyingsmallbirds_35'
+  - first:
+      213: 8825445256577074179
+    second: '!flyingsmallbirds_36'
+  - first:
+      213: 3468897794604115792
+    second: '!flyingsmallbirds_37'
+  - first:
+      213: -5473805761588807422
+    second: '!flyingsmallbirds_38'
+  - first:
+      213: -7227579256825310014
+    second: '!flyingsmallbirds_39'
+  - first:
+      213: 5776741933101483155
+    second: '!flyingsmallbirds_40'
+  - first:
+      213: 1112575881216890925
+    second: '!flyingsmallbirds_41'
+  - first:
+      213: -3958660047784548266
+    second: '!flyingsmallbirds_42'
+  - first:
+      213: -4571522880414220872
+    second: '!flyingsmallbirds_43'
+  - first:
+      213: -6346705568466491649
+    second: '!flyingsmallbirds_44'
+  - first:
+      213: 2098456031186450191
+    second: '!flyingsmallbirds_45'
+  - first:
+      213: -3275206962133333020
+    second: '!flyingsmallbirds_46'
+  - first:
+      213: 3968731845161711962
+    second: '!flyingsmallbirds_47'
+  - first:
+      213: -950877694770080170
+    second: '!flyingsmallbirds_48'
+  - first:
+      213: -1188130886452939427
+    second: '!flyingsmallbirds_49'
+  - first:
+      213: 1877670488833459316
+    second: '!flyingsmallbirds_50'
+  - first:
+      213: -5091212661181919926
+    second: '!flyingsmallbirds_51'
+  - first:
+      213: 3987456725267787187
+    second: '!flyingsmallbirds_52'
+  - first:
+      213: -737398612400591918
+    second: '!flyingsmallbirds_53'
+  - first:
+      213: 1666193638168625551
+    second: '!flyingsmallbirds_54'
+  - first:
+      213: 7032359137008890470
+    second: '!flyingsmallbirds_55'
+  - first:
+      213: 965220853101907931
+    second: '!flyingsmallbirds_56'
+  - first:
+      213: 2787200449783801237
+    second: '!flyingsmallbirds_57'
+  - first:
+      213: -9216590724028304590
+    second: '!flyingsmallbirds_58'
+  - first:
+      213: 8068210445102992263
+    second: '!flyingsmallbirds_59'
+  - first:
+      213: 1932059177826924106
+    second: '!flyingsmallbirds_60'
+  - first:
+      213: 1399098264954258735
+    second: '!flyingsmallbirds_61'
+  - first:
+      213: -6206199775979403040
+    second: '!flyingsmallbirds_62'
+  - first:
+      213: 1037379470296753152
+    second: '!flyingsmallbirds_63'
+  - first:
+      213: 2097386570849143231
+    second: '!flyingsmallbirds_64'
+  - first:
+      213: -8787503078049735797
+    second: '!flyingsmallbirds_65'
+  - first:
+      213: -1485076081982868819
+    second: '!flyingsmallbirds_66'
+  - first:
+      213: 7988685074176899030
+    second: '!flyingsmallbirds_67'
+  - first:
+      213: 336209815592673620
+    second: '!flyingsmallbirds_68'
+  - first:
+      213: -4551296158882719651
+    second: '!flyingsmallbirds_69'
+  - first:
+      213: -1335459588038809209
+    second: '!flyingsmallbirds_70'
+  - first:
+      213: -2548264752038727330
+    second: '!flyingsmallbirds_71'
+  - first:
+      213: -6031068562826887899
+    second: '!flyingsmallbirds_72'
+  - first:
+      213: -8469151219725564447
+    second: '!flyingsmallbirds_73'
+  - first:
+      213: 5526849823691151440
+    second: '!flyingsmallbirds_74'
+  - first:
+      213: 8737874455926833481
+    second: '!flyingsmallbirds_75'
+  - first:
+      213: 9213428479359828689
+    second: '!flyingsmallbirds_76'
+  - first:
+      213: 7214375068608775004
+    second: '!flyingsmallbirds_77'
+  - first:
+      213: -8253795085328679671
+    second: '!flyingsmallbirds_78'
+  - first:
+      213: -504209569181422632
+    second: '!flyingsmallbirds_79'
+  - first:
+      213: 2331317218383353052
+    second: '!flyingsmallbirds_80'
+  - first:
+      213: 3579401001061143888
+    second: '!flyingsmallbirds_81'
+  - first:
+      213: 9139481312832882523
+    second: '!flyingsmallbirds_82'
+  - first:
+      213: 6106504460559923654
+    second: '!flyingsmallbirds_83'
+  - first:
+      213: 1546364722505682332
+    second: '!flyingsmallbirds_84'
+  - first:
+      213: -3475511974492125578
+    second: '!flyingsmallbirds_85'
+  - first:
+      213: 1907086593788429708
+    second: '!flyingsmallbirds_86'
+  - first:
+      213: 5838626518949088927
+    second: '!flyingsmallbirds_87'
+  - first:
+      213: -7846804917878599640
+    second: '!flyingsmallbirds_88'
+  - first:
+      213: -5752051230588890381
+    second: '!flyingsmallbirds_89'
+  - first:
+      213: 3827046918564643557
+    second: '!flyingsmallbirds_90'
+  - first:
+      213: 7624671911458567532
+    second: '!flyingsmallbirds_91'
+  - first:
+      213: -2623481972962597996
+    second: '!flyingsmallbirds_92'
+  - first:
+      213: 7652049343216040831
+    second: '!flyingsmallbirds_93'
+  - first:
+      213: -7188144059436406644
+    second: '!flyingsmallbirds_94'
+  - first:
+      213: 6120060133663624719
+    second: '!flyingsmallbirds_95'
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_0'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c2abddbfe79f30800000000000000
+      internalID: 4582394744585504182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_1'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76e21452d7957d0800000000000000
+      internalID: -2929172483666974737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_2'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f173f6efb98170800000000000000
+      internalID: 8181281196742930551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_3'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f66e47b5d4d11d50800000000000000
+      internalID: 6706375334499870457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_4'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b78b6096541e570800000000000000
+      internalID: 8494146689584102277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_5'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3288b6a633fe7290800000000000000
+      internalID: -7890602081055636934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_6'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6722d2d90c2a35fe0800000000000000
+      internalID: -1201437727423389066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_7'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6960811e45bff0800000000000000
+      internalID: -21024786177496394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_8'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b32a6ccd96d820800000000000000
+      internalID: 2942712907812812562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_9'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 228
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bb04d038c31fc60800000000000000
+      internalID: 7850122159044213641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_10'
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 230
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db88c1dc06cc6860800000000000000
+      internalID: 7524606835790744531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_11'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 227
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc0604ab9589200800000000000000
+      internalID: 186998041014750077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_12'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72568d0a05e17c5c0800000000000000
+      internalID: -4195351196227574489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_13'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b78ae53b0dd0c0800000000000000
+      internalID: -4549467722378398245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_14'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09ee9fb12ba9530800000000000000
+      internalID: 3862595463650644186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_15'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16b6c26168edebc0800000000000000
+      internalID: -3752087409563093476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_16'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e616d0dfceefe61c0800000000000000
+      internalID: -4508385883140038290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_17'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a26f1fe5b1e8c10800000000000000
+      internalID: 2057612174355212943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_18'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c53cea0e007040800000000000000
+      internalID: 4643226655894390320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_19'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd3d5b16cd22d10800000000000000
+      internalID: 2099482688528571712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_20'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef718e242ec814a0800000000000000
+      internalID: -6622316597253931030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_21'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed496cf3458363430800000000000000
+      internalID: 3762256473213015262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_22'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 196
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b086e8c8b27d3b30800000000000000
+      internalID: 4268694159787196592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_23'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69883ac49bfa8a0800000000000000
+      internalID: -6291606415601002803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_24'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb289701109d6d60800000000000000
+      internalID: 7885116925411863500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_25'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371bd41d3c7ac510800000000000000
+      internalID: 1570204021876791103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_26'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca773189ed7ab850800000000000000
+      internalID: 6393561062854589120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_27'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a70734865f75f0800000000000000
+      internalID: -756791086516034240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_28'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246b45f347c233430800000000000000
+      internalID: 3761398991574840898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_29'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb256cfceae8a550800000000000000
+      internalID: 6172441592878934985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_30'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a22628dcfb79b5a0800000000000000
+      internalID: -6505031860871617881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_31'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4495481a8cbc242c0800000000000000
+      internalID: -4448769419324925628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_32'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8645cc1914a85c90800000000000000
+      internalID: -7180809178078427510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_33'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc520de345536fab0800000000000000
+      internalID: -4974730102436780597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_34'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d5b37d1a43b1e80800000000000000
+      internalID: -8206908026247226038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_35'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 163
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad8ea6441aaeb70800000000000000
+      internalID: 8929126526438922930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_36'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ceee93b74a7a70800000000000000
+      internalID: 8825445256577074179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_37'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a3894a20042030800000000000000
+      internalID: 3468897794604115792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_38'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209330b49a22904b0800000000000000
+      internalID: -5473805761588807422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_39'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c412f295fa72bb90800000000000000
+      internalID: -7227579256825310014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_40'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940e918e2c1b2050800000000000000
+      internalID: 5776741933101483155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_41'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2899998ed9a07f00800000000000000
+      internalID: 1112575881216890925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_42'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658654119a30019c0800000000000000
+      internalID: -3958660047784548266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_43'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf6564920be80c0800000000000000
+      internalID: -4571522880414220872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_44'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6af8969e8fbe7a0800000000000000
+      internalID: -6346705568466491649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_45'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f4ab64a63f1d10800000000000000
+      internalID: 2098456031186450191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_46'
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb0828ee902c82d0800000000000000
+      internalID: -3275206962133333020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_47'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f4aff594c31730800000000000000
+      internalID: 3968731845161711962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_48'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656136a46cdcdc2f0800000000000000
+      internalID: -950877694770080170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_49'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557d46f049e28fe0800000000000000
+      internalID: -1188130886452939427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_50'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474072c7c53de0a10800000000000000
+      internalID: 1877670488833459316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_51'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dc74e1f016859b0800000000000000
+      internalID: -5091212661181919926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_52'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd24d2e3ca465730800000000000000
+      internalID: 3987456725267787187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_53'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2ff17edb34c5f0800000000000000
+      internalID: -737398612400591918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_54'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f818e0a39428f1710800000000000000
+      internalID: 1666193638168625551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_55'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66233664065f79160800000000000000
+      internalID: 7032359137008890470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_56'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf40fe7047256d00800000000000000
+      internalID: 965220853101907931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_57'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 100
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5952c27ba002ea620800000000000000
+      internalID: 2787200449783801237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_58'
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 102
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233f12e6197181080800000000000000
+      internalID: -9216590724028304590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_59'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc57117aa08ff60800000000000000
+      internalID: 8068210445102992263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_60'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a463863f59d00da10800000000000000
+      internalID: 1932059177826924106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_61'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c67095789a6310800000000000000
+      internalID: 1399098264954258735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_62'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e883a38f262fd9a0800000000000000
+      internalID: -6206199775979403040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_63'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0042258c123856e00800000000000000
+      internalID: 1037379470296753152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_64'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9432849f96b1d10800000000000000
+      internalID: 2097386570849143231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_65'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b913a32848c0680800000000000000
+      internalID: -8787503078049735797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_66'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27bf4fb23f36be0800000000000000
+      internalID: -1485076081982868819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_67'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d777c4cfb28dde60800000000000000
+      internalID: 7988685074176899030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_68'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a664cb057aa400800000000000000
+      internalID: 336209815592673620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_69'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58123ed14c86d0c0800000000000000
+      internalID: -4551296158882719651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_70'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 68
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ae0b849e777de0800000000000000
+      internalID: -1335459588038809209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_71'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 67
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51351595beb2acd0800000000000000
+      internalID: -2548264752038727330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_72'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d7da898175d4ca0800000000000000
+      internalID: -6031068562826887899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_73'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5013f46d7877a80800000000000000
+      internalID: -8469151219725564447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_74'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589a04d1a053bc40800000000000000
+      internalID: 5526849823691151440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_75'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9418a7db58a234970800000000000000
+      internalID: 8737874455926833481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_76'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2c5bb136cacdf70800000000000000
+      internalID: 9213428479359828689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_77'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c534cd8c6eb9e1460800000000000000
+      internalID: 7214375068608775004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_78'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7e12b911a47d80800000000000000
+      internalID: -8253795085328679671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_79'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba6987110b009f0800000000000000
+      internalID: -504209569181422632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_80'
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4dd7488a08a5020800000000000000
+      internalID: 2331317218383353052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_81'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0555de8fe369ca130800000000000000
+      internalID: 3579401001061143888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_82'
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 36
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5789bab4d5f5de70800000000000000
+      internalID: 9139481312832882523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_83'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c933070479aeb450800000000000000
+      internalID: 6106504460559923654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_84'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d852aa58ac57510800000000000000
+      internalID: 1546364722505682332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_85'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c7c3f54084cfc0800000000000000
+      internalID: -3475511974492125578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_86'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854ba22725577a10800000000000000
+      internalID: 1907086593788429708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_87'
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ec22672e7f60150800000000000000
+      internalID: 5838626518949088927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_88'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820de08508c8a1390800000000000000
+      internalID: -7846804917878599640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_89'
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f296e6a1eb9c20b0800000000000000
+      internalID: -5752051230588890381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_90'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e28cc755e66c1530800000000000000
+      internalID: 3827046918564643557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_91'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f26bc4b640d960800000000000000
+      internalID: 7624671911458567532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_92'
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936cee9b05879bd0800000000000000
+      internalID: -2623481972962597996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_93'
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b372ad55a813a60800000000000000
+      internalID: 7652049343216040831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_94'
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8865f6ff059e3c90800000000000000
+      internalID: -7188144059436406644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!flyingsmallbirds_95'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ecc0f1442dee450800000000000000
+      internalID: 6120060133663624719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

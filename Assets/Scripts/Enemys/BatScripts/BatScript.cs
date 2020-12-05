@@ -82,7 +82,7 @@ public class BatScript : MonoBehaviour
             }
             else
             {
-                rb2d.MovePosition(transform.position + dir * speed * Time.deltaTime);
+            rb2d.MovePosition(transform.position + dir * speed * Time.deltaTime);
                 //Se mueve
             }
             if (target == initialPosition && distance < 0.02f)

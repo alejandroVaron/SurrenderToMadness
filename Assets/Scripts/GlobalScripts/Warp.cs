@@ -16,6 +16,7 @@ public class Warp : MonoBehaviour
     public string targetMapName;
     public GameObject door;
     public string animation;
+    public GameObject[] animals;
     // Start is called before the first frame update
 
     void Awake()
@@ -52,6 +53,10 @@ public class Warp : MonoBehaviour
             other.GetComponent<player>().enabled = true;
             other.GetComponent<Animator>().enabled = true;
             StartCoroutine(area.GetComponent<Area>().showText(targetMapName));
+            if(animals.Length > 0)
+            {
+                animals[0].gameObject.SetActive(true);
+            }
         }
     }
 

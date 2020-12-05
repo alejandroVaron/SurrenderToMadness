@@ -18,6 +18,8 @@ public class Skeleton : MonoBehaviour
     public int maxHp = 3;
     public int hp;
     bool stopMov = true;
+    float angle;
+    Vector3 dir;
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
@@ -53,7 +55,7 @@ public class Skeleton : MonoBehaviour
             }
         }
         float distance = Vector3.Distance(target, transform.position);
-        Vector3 dir = (target - transform.position).normalized;
+        dir = (target - transform.position).normalized;
         if (hit.collider != null)
         {
             if (hit.collider.tag == "Player")
@@ -67,18 +69,8 @@ public class Skeleton : MonoBehaviour
         {
             if (reset)
             {
-                StartCoroutine("resetShoot");
-                float angle = Mathf.Atan2(
-                    anim.GetFloat("movy"),
-                    anim.GetFloat("movx")
-                    ) * Mathf.Rad2Deg;
-                GameObject slashObj = Instantiate(
-                    slashPrefab, transform.position,
-                    Quaternion.AngleAxis(angle, Vector3.forward)
-                    );
-                Shoot shoot = slashObj.GetComponent<Shoot>();
-                shoot.mov.x = anim.GetFloat("movx");
-                shoot.mov.y = anim.GetFloat("movy");
+                StartCoroutine("resetShoot"); 
+                StartCoroutine("attack");
             }
         }
         else
@@ -104,7 +96,6 @@ public class Skeleton : MonoBehaviour
     {
         if (!inProcess)
         {
-            anim.SetTrigger("attack");
             inProcess = true;
             reset = false;
             yield return new WaitForSeconds(2);
@@ -112,6 +103,44 @@ public class Skeleton : MonoBehaviour
             inProcess = false;
         }
     }
+    IEnumerator attack()
+    {
+        if(dir.x == 0)
+        {
+            if(dir.y > 0)
+            {
+                anim.Play("AttackUp");
+            }
+            else
+            {
+                anim.Play("AttackDown");
+            }
+        }
+        else
+        {
+            if(dir.x > 0)
+            {
+                anim.Play("AttackRight");
+            }
+            else
+            {
+                anim.Play("AttackLeft");
+            }
+        }
+        yield return new WaitForSeconds(1);
+        angle = Mathf.Atan2(
+                    anim.GetFloat("movy"),
+                    anim.GetFloat("movx")
+                    ) * Mathf.Rad2Deg;
+        GameObject slashObj = Instantiate(
+                    slashPrefab, transform.position,
+                    Quaternion.AngleAxis(angle, Vector3.forward));
+        arrow shoot = slashObj.GetComponent<arrow>();
+        shoot.mov.x = anim.GetFloat("movx");
+        shoot.mov.y = anim.GetFloat("movy");
+
+    }
+
     public IEnumerator Attacked()
     {
         if (--hp <= 0)
