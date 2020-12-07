@@ -21,7 +21,7 @@ public class Intro : MonoBehaviour
     }
     IEnumerator closeIntro()
     {
-        yield return new WaitForSeconds(1.65f);
+        yield return new WaitForSeconds(1.9f);
         SceneManager.LoadScene("Main");
         //GetComponent<Animator>().Play("closeIntro");
     }

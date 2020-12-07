@@ -17,6 +17,7 @@ public class menuPrincipal : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        FindObjectOfType<AudioManager>().Play("mainMenu");
     }
 
     // Update is called once per frame

@@ -19,6 +19,7 @@ public class Warp : MonoBehaviour
     public string animation;
     public GameObject[] animals;
     public bool fogs;
+    public string targetMapOrigin;
     // Start is called before the first frame update
 
     void Awake()
@@ -32,7 +33,7 @@ public class Warp : MonoBehaviour
     IEnumerator OnTriggerEnter2D(Collider2D other)
     {
         if(other.CompareTag("Player"))
-        {
+        {      
             other.GetComponent<player>().enabled = false;
             other.GetComponent<Animator>().enabled = false;
             if(door != null && animation == "OpenDoor")
@@ -41,12 +42,20 @@ public class Warp : MonoBehaviour
                 yield return new WaitForSeconds(0.09f);
             }
             fadeIn();
+            FindObjectOfType<AudioManager>().StopPlaying(targetMapOrigin);
             yield return new WaitForSeconds(fadeTime);
             other.transform.position = target.transform.position;
           
             Camera.main.GetComponent<MainCamera>().updateLimit(x, y, dx, dy);
             minimap.GetComponent<MinimapCamera>().updateLimit(x, y, dx, dy);
             fadeOut();
+            if(targetMapName == "Bosque Litea")
+            {
+                FindObjectOfType<AudioManager>().Play("forestTheme");
+            }else if (targetMapName == "Litea")
+            {
+                FindObjectOfType<AudioManager>().Play("liteaTheme");
+            }
             if (fogs)
             {
                 Camera.main.GetComponent<D2FogsPE>().enabled = true;

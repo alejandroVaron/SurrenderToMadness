@@ -24,6 +24,8 @@ public class linaScript : MonoBehaviour
     public Text QuestionText;
     int count = 0;
     public GameObject mission;
+    bool acceptMission = false;
+    int statusMission = 0;
     void Start()
     {
         sentences = new Queue<string>();
@@ -31,17 +33,14 @@ public class linaScript : MonoBehaviour
         anim = GetComponent<Animator>();
         if (nameNpc == "Ritha")
         {
-            Debug.Log("Soy Ritha");
             imageFaceSet = dialoguePanel.transform.GetChild(3).gameObject;
         }
         else if (nameNpc == "Xavier")
         {
-            Debug.Log("Soy Xavier");
             imageFaceSet = dialoguePanel.transform.GetChild(2).gameObject;
         }
         else if (nameNpc == "Lina")
         {
-            Debug.Log("Soy Lina");
             imageFaceSet = dialoguePanel.transform.GetChild(1).gameObject;
         }
 
@@ -49,6 +48,13 @@ public class linaScript : MonoBehaviour
 
     void startDialogue()
     {
+        if(statusMission == 1)
+        {
+            acceptMission = true;
+        }else if(statusMission == 2)
+        {
+            acceptMission = false;
+        }
         sentences.Clear();
         count = 0;
         questionValide = false;
@@ -118,77 +124,102 @@ public class linaScript : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.E) || response == 1 || response == 2)
             {
+                StopAllCoroutines();
                 Vector3 dir = (player.transform.position - transform.position).normalized;
                 anim.SetBool("dir", true);
                 anim.SetFloat("movx", dir.x);
                 anim.SetFloat("movy", dir.y);
-                if (count == 0)
+                if (!acceptMission)
                 {
-                    count++;
-                    StopAllCoroutines();
-                    dialoguePanel.SetActive(true);
-                    displayText.gameObject.SetActive(true);
-                    imageFaceSet.SetActive(true);
-                    StartCoroutine(typeTheSentence("¿Ya pensaste qué harás para el morteum?"));
-                }else if(count == 1)
-                {
-                    count++;
-                    StopAllCoroutines();
-                    StartCoroutine(typeTheSentence("Estuve buscando las perlas para hacer los ensambles..."));
-                }
-                else if (count == 2)
-                {
-                    count++;
-                    StopAllCoroutines();
-                    StartCoroutine(typeTheSentence("pero no las encuentro"));
-                }
-                else if(count == 3)
-                {
-                    count++;
-                    StopAllCoroutines();
-                    StartCoroutine(typeTheSentence("Me dijeron que se encontraban en el fondo de las montañas"));
-                }else if(count == 4)
-                {
-                    count++;
-                    StopAllCoroutines();
-                    StartCoroutine(typeTheSentence("Si alguien me trajera un par, podría llevarse parte de la recompensa..."));
-                }else if(count == 5)
-                {
-                    count++;
-                    StopAllCoroutines();
-                    displayText.gameObject.SetActive(false);
-                    questionValide = true;
-                    question.gameObject.SetActive(true);
-                    player.GetComponent<player>().inDialogue = true;
-                    imageFaceSet.SetActive(false);
-                    StartCoroutine(typeTheSentence("¿Estás dispuesto?"));
-
-                }else if(count == 6)
-                {
-                    player.GetComponent<player>().inDialogue = false;
-                    question.gameObject.SetActive(false);
-                    if (response == 1)
+                    if (count == 0)
                     {
                         count++;
                         StopAllCoroutines();
+                        dialoguePanel.SetActive(true);
                         displayText.gameObject.SetActive(true);
                         imageFaceSet.SetActive(true);
-                        StartCoroutine(typeTheSentence("¡Oh! que alegria, avisame cuando los tengas"));
-                        mission.gameObject.SetActive(true);
+                        StartCoroutine(typeTheSentence("¿Ya pensaste qué harás para el morteum?"));
                     }
-                    else if(response == 2)
+                    else if (count == 1)
                     {
                         count++;
                         StopAllCoroutines();
+                        StartCoroutine(typeTheSentence("Estuve buscando las perlas para hacer los ensambles..."));
+                    }
+                    else if (count == 2)
+                    {
+                        count++;
+                        StopAllCoroutines();
+                        StartCoroutine(typeTheSentence("pero no las encuentro"));
+                    }
+                    else if (count == 3)
+                    {
+                        count++;
+                        StopAllCoroutines();
+                        StartCoroutine(typeTheSentence("Me dijeron que se encontraban en el fondo de las montañas"));
+                    }
+                    else if (count == 4)
+                    {
+                        count++;
+                        StopAllCoroutines();
+                        StartCoroutine(typeTheSentence("Si alguien me trajera un par, podría llevarse parte de la recompensa..."));
+                    }
+                    else if (count == 5)
+                    {
+                        count++;
+                        StopAllCoroutines();
+                        displayText.gameObject.SetActive(false);
+                        questionValide = true;
+                        question.gameObject.SetActive(true);
+                        player.GetComponent<player>().inDialogue = true;
+                        imageFaceSet.SetActive(false);
+                        StartCoroutine(typeTheSentence("¿Estás dispuesto?"));
+                    }
+                    else if (count == 6)
+                    {
+                        StopAllCoroutines();
+                        player.GetComponent<player>().inDialogue = false;
+                        question.gameObject.SetActive(false);
+                        if (response == 1)
+                        {
+                            GameObject.FindGameObjectWithTag("Canvas").GetComponent<Animator>().Play("NotificationMission");
+                            statusMission = 1;
+                            count++;
+                            displayText.gameObject.SetActive(true);
+                            imageFaceSet.SetActive(true);
+                            StartCoroutine(typeTheSentence("¡Oh! que alegria, avisame cuando los tengas"));         
+                            mission.gameObject.SetActive(true);
+                        }
+                        else if (response == 2)
+                        {
+                            statusMission = 2;
+                            count++;
+                            displayText.gameObject.SetActive(true);
+                            imageFaceSet.SetActive(true);
+                            StartCoroutine(typeTheSentence("No hay problema, cuando cambies de opinión puedes buscarme"));
+                        }
+                        response = 0;
+                    }
+                    else if (count == 7)
+                    {
+                        dialoguePanel.SetActive(false);
+                        imageFaceSet.SetActive(false);
+                    }
+                }else
+                {
+                    if (count == 0)
+                    {
+                        count++;
+                        StopAllCoroutines();
+                        dialoguePanel.SetActive(true);
                         displayText.gameObject.SetActive(true);
                         imageFaceSet.SetActive(true);
-                        StartCoroutine(typeTheSentence("No hay problema, cuando cambies de opinión puedes buscarme"));
+                        StartCoroutine(typeTheSentence("¿Hubo algún avance?"));
+                    }else if (count == 1)
+                    {
+                        dialoguePanel.SetActive(false);
+                        imageFaceSet.SetActive(false);
                     }
-                    response = 0;
-                }else if(count == 7)
-                {
-                    dialoguePanel.SetActive(false);
-                    imageFaceSet.SetActive(false);
                 }
             }
         }
@@ -207,7 +238,6 @@ public class linaScript : MonoBehaviour
             startDialogue();
         }
     }
-
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.tag == "Player")

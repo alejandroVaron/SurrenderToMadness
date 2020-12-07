@@ -43,7 +43,7 @@ public class Skeleton : MonoBehaviour
         //si encuentra al player
         if (hit.collider != null)
         {
-            if (hit.collider.tag == "Player")
+            if (hit.collider.tag == "Player" && stopMov)
             {
                 Debug.Log("entree");
                 target = player.transform.position;
@@ -67,14 +67,16 @@ public class Skeleton : MonoBehaviour
         //Rango de ataque
         if (target != initialPosition && distance < attackRadius)
         {
+            anim.SetBool("walk", false);
             if (reset)
             {
                 StartCoroutine("resetShoot"); 
                 StartCoroutine("attack");
             }
         }
-        else
+        else if(stopMov)
         {
+            anim.SetBool("walk", true);
             rb2d.MovePosition(transform.position + dir * speed * Time.deltaTime);
             //Se mueve
         }
