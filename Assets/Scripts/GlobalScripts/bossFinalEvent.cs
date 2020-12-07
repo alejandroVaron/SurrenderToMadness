@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class bossFinalEvent : MonoBehaviour
 {
@@ -12,6 +14,9 @@ public class bossFinalEvent : MonoBehaviour
     GameObject canvas;
     public GameObject target;
     public GameObject manager;
+    public GameObject textPanel;
+    public GameObject textCredits;
+    public GameObject flash;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,7 +33,6 @@ public class bossFinalEvent : MonoBehaviour
     }
 
     private IEnumerator finalTransition(){
-
             fadeIn();
             yield return new WaitForSeconds(fadeTime);   
             Camera.main.GetComponent<MainCamera>().transitionPlayer = true;
@@ -41,6 +45,12 @@ public class bossFinalEvent : MonoBehaviour
             fadeOut();
              yield return new WaitForSeconds(5);
             GetComponent<Animator>().Play("boss");
+             yield return new WaitForSeconds(8);
+            textPanel.gameObject.SetActive(true);
+        flash.gameObject.SetActive(true);
+        yield return new WaitForSeconds(1.25f);
+        canvas.GetComponent<Animator>().Play("flash");
+        textCredits.gameObject.SetActive(true);
 
     }
 
