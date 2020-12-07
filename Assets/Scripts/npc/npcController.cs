@@ -26,15 +26,12 @@ public class npcController : MonoBehaviour
         anim = GetComponent<Animator>();
         if (nameNpc == "Ritha")
         {
-            Debug.Log("Soy Ritha");
             imageFaceSet = dialoguePanel.transform.GetChild(3).gameObject;
         }else if (nameNpc == "Xavier")
         {
-            Debug.Log("Soy Xavier");
             imageFaceSet = dialoguePanel.transform.GetChild(2).gameObject;
         }else if (nameNpc == "Lina")
         {
-            Debug.Log("Soy Lina");
             imageFaceSet = dialoguePanel.transform.GetChild(1).gameObject;
         }
 

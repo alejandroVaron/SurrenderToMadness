@@ -103,7 +103,7 @@ public class Orc : MonoBehaviour
         if (target == initialPosition && distance < 0.02f)
         {
             transform.position = initialPosition;
-            anim.SetBool("walk", false);
+            anim.SetBool("perseguir", false);
             //idle 
         }
         Debug.DrawLine(transform.position, target, Color.green);
