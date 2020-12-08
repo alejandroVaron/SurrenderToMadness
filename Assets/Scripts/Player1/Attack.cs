@@ -7,10 +7,15 @@ public class Attack : MonoBehaviour
     [SerializeField]
     public float thrust;
     float shakeAmount = 1;
+    Transform localPositionCamera;
     // Start is called before the first frame update
     void Start()
     {
         
+    }
+    void Update()
+    {
+        localPositionCamera.localPosition = Camera.main.GetComponent<MainCamera>().getPositionActual();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -57,6 +62,6 @@ public class Attack : MonoBehaviour
     void stopShake()
     {
         CancelInvoke("beginShake");
-        Camera.main.transform.localPosition = Camera.main.GetComponent<MainCamera>().getPositionActual();
+        Camera.main.transform.localPosition = localPositionCamera.localPosition;
     }
 }

@@ -149,7 +149,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 986444890977069676, guid: 05147ec57f4fd8842b5e7f0f6468f094, type: 3}
       propertyPath: m_TagString
-      value: AttackEnemy
+      value: AttackEnemyBat
       objectReference: {fileID: 0}
     - target: {fileID: 1072478715256291983, guid: 05147ec57f4fd8842b5e7f0f6468f094, type: 3}
       propertyPath: m_SortingOrder

@@ -70,6 +70,7 @@ public class Skeleton : MonoBehaviour
             anim.SetBool("walk", false);
             if (reset)
             {
+                FindObjectOfType<AudioManager>().Play("chargeArrow");
                 StartCoroutine("resetShoot"); 
                 StartCoroutine("attack");
             }
@@ -147,11 +148,16 @@ public class Skeleton : MonoBehaviour
     {
         if (--hp <= 0)
         {
+            FindObjectOfType<AudioManager>().Play("skeletonDeath");
             anim.SetBool("death", true);
             anim.Play("skeleton-death");
             stopMov = false;
             yield return new WaitForSeconds(1.6f);
             Destroy(gameObject);
+        }
+        else
+        {
+            FindObjectOfType<AudioManager>().Play("skeletonHit");
         }
     }
     private void OnGUI()

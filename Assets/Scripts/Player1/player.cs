@@ -68,9 +68,18 @@ public class player : MonoBehaviour
 
             if(Input.GetKeyDown(KeyCode.G))
             {
-                startMenu++;
-                menu = !menu;          
+                if(canvas.GetComponent<Animator>().GetBool("menu") == true)
+                {
+                    canvas.GetComponent<Animator>().SetBool("menu", false);
+                }
+                else
+                {
+                    canvas.GetComponent<Animator>().SetBool("menu", true);
+                }
+                //startMenu++;
+                //menu = !menu;          
             }
+            /*
             if (menu == true && startMenu > 0)
             {
                 canvas.GetComponent<Animator>().Play("showPanelMenu");
@@ -78,7 +87,7 @@ public class player : MonoBehaviour
             else if(menu == false && startMenu > 0)
             {
                 canvas.GetComponent<Animator>().Play("hidePanelMenu");
-            }
+            }*/
 
             AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
             bool validate = stateInfo.IsName("player_attack");
@@ -131,6 +140,19 @@ public class player : MonoBehaviour
        if(collision.tag == "AttackEnemyOrc")
         {
             FindObjectOfType<AudioManager>().Play("orcHit");
+            lifeBar.loseHealth(15);
+            FindObjectOfType<AudioManager>().Play("PlayerGotHit");
+        }
+
+       if(collision.tag == "AttackEnemySkeleton")
+        {
+            FindObjectOfType<AudioManager>().Play("skeletonArrow");
+            lifeBar.loseHealth(15);
+            FindObjectOfType<AudioManager>().Play("PlayerGotHit");
+        }
+        if(collision.tag == "AttackEnemyBat")
+        {
+            FindObjectOfType<AudioManager>().Play("batAttackHit");
             lifeBar.loseHealth(15);
             FindObjectOfType<AudioManager>().Play("PlayerGotHit");
         }

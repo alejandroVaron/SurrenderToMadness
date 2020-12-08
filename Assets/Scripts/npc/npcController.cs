@@ -115,7 +115,6 @@ public class npcController : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            Debug.Log("Entre");
             enter = true;
             startDialogue();
         }

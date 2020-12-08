@@ -71,7 +71,8 @@ public class BatScript : MonoBehaviour
                         anim.GetFloat("movy"),
                         anim.GetFloat("movx")
                         ) * Mathf.Rad2Deg;
-                    GameObject slashObj = Instantiate(
+                FindObjectOfType<AudioManager>().Play("batAttack");
+                GameObject slashObj = Instantiate(
                         slashPrefab, transform.position,
                         Quaternion.AngleAxis(angle, Vector3.forward)
                         );
@@ -116,10 +117,15 @@ public class BatScript : MonoBehaviour
     {
         if(--hp <= 0)
         {
+            FindObjectOfType<AudioManager>().Play("batDeath");
             anim.Play("batDeath");
             stopMov = false; 
             yield return new WaitForSeconds(0.45F);
             Destroy(gameObject);
+        }
+        else
+        {
+            FindObjectOfType<AudioManager>().Play("batGotHit");
         }
     }
     private void OnGUI()

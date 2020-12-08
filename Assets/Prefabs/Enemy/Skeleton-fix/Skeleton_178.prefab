@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4706301921442486669}
   m_Layer: 0
   m_Name: Skeleton_178
-  m_TagString: AttackEnemy
+  m_TagString: AttackEnemySkeleton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -66,6 +66,8 @@ public class Warp : MonoBehaviour
             }
             if (door != null && animation == "CloseDoor")
             {
+
+                //FindObjectOfType<AudioManager>().Play("door");
                 yield return new WaitForSeconds(0.01f);
                 door.transform.GetComponent<Animator>().Play(animation);
             }
