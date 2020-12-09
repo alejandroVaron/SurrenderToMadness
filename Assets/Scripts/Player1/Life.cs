@@ -12,6 +12,7 @@ public class Life : MonoBehaviour
     float alpha = 0;
     float fadeTime = 1f;
     public Vector3 target;
+    bool death = false;
     public void Start()
     {
         fillBar.fillAmount = health / 100;
@@ -21,6 +22,7 @@ public class Life : MonoBehaviour
     {
         if(collision.tag == "Heart")
         {
+            FindObjectOfType<AudioManager>().Play("heart");
             health += 25;
             fillBar.fillAmount = health / 100;
         }
@@ -28,12 +30,16 @@ public class Life : MonoBehaviour
 
     public void loseHealth(int value)
     {
-        health -= value;
-        fillBar.fillAmount = health / 100;
-        if (health <= 0)
+        if (!death)
         {
-            StartCoroutine("transition");
-            return;
+            health -= value;
+            fillBar.fillAmount = health / 100;
+            if (health <= 0)
+            {
+                death = true;
+                StartCoroutine("transition");
+                return;
+            }
         }
       
     }
@@ -54,6 +60,7 @@ public class Life : MonoBehaviour
         yield return new WaitForSeconds(1);
         health = 100;
         fillBar.fillAmount = health/100;
+        death = false;
         GetComponentInParent<player>().GetComponent<player>().enabled = true;
         GetComponentInParent<player>().GetComponent<Animator>().Play("player_idle");
         GetComponentInParent<player>().tag = "Player";

@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class bossFinalEvent : MonoBehaviour
 {
@@ -12,6 +14,9 @@ public class bossFinalEvent : MonoBehaviour
     GameObject canvas;
     public GameObject target;
     public GameObject manager;
+    public GameObject textPanel;
+    public GameObject textCredits;
+    public GameObject flash;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,11 +33,12 @@ public class bossFinalEvent : MonoBehaviour
     }
 
     private IEnumerator finalTransition(){
-
             fadeIn();
             yield return new WaitForSeconds(fadeTime);   
             Camera.main.GetComponent<MainCamera>().transitionPlayer = true;
             Camera.main.transform.position= target.transform.position;
+            player.gameObject.SetActive(false);
+            transform.GetChild(0).gameObject.SetActive(true);
             transform.GetChild(0).GetComponent<Animator>().Play("finalTransition");
             manager.GetComponent<Animator>().Play("cameraMoov");
             canvas.transform.GetChild(0).gameObject.SetActive(false);
@@ -40,7 +46,16 @@ public class bossFinalEvent : MonoBehaviour
             canvas.transform.GetChild(2).gameObject.SetActive(false);
             fadeOut();
              yield return new WaitForSeconds(5);
-            GetComponent<Animator>().Play("boss");
+        FindObjectOfType<AudioManager>().Play("effect1");
+        GetComponent<Animator>().Play("boss");
+        yield return new WaitForSeconds(8);
+            textPanel.gameObject.SetActive(true);
+        yield return new WaitForSeconds(0.35f); 
+        FindObjectOfType<AudioManager>().Play("effect2");
+        flash.gameObject.SetActive(true);
+        yield return new WaitForSeconds(0.95f);
+        canvas.GetComponent<Animator>().Play("flash");
+        textCredits.gameObject.SetActive(true);
 
     }
 
