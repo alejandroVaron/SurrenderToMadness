@@ -175,6 +175,7 @@ public class player : MonoBehaviour
         canvas.transform.GetChild(1).gameObject.SetActive(false);
         canvas.transform.GetChild(2).gameObject.SetActive(false);
         yield return new WaitForSeconds(1);
+        FindObjectOfType<AudioManager>().Play("effect3");
         anim.Play("Player-Exclamation");
         yield return new WaitForSeconds(4.1f);
         startDialogue();

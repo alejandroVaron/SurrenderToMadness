@@ -26,10 +26,23 @@ public class bossFinalEvent : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "Player")
+        if (collision.tag == "Player")
         {
             StartCoroutine("finalTransition");
         }
+    }
+
+    private IEnumerator soundWalk()
+    {
+        FindObjectOfType<AudioManager>().Play("walkEffect");
+        yield return new WaitForSeconds(3.53f);
+        FindObjectOfType<AudioManager>().StopPlaying("walkEffect");
+    }
+    private IEnumerator soundWalkBoss()
+    {
+        FindObjectOfType<AudioManager>().Play("walkEffect");
+        yield return new WaitForSeconds(1.5f);
+        FindObjectOfType<AudioManager>().StopPlaying("walkEffect");
     }
 
     private IEnumerator finalTransition(){
@@ -40,6 +53,7 @@ public class bossFinalEvent : MonoBehaviour
             player.gameObject.SetActive(false);
             transform.GetChild(0).gameObject.SetActive(true);
             transform.GetChild(0).GetComponent<Animator>().Play("finalTransition");
+            StartCoroutine("soundWalk");
             manager.GetComponent<Animator>().Play("cameraMoov");
             canvas.transform.GetChild(0).gameObject.SetActive(false);
             canvas.transform.GetChild(1).gameObject.SetActive(false);
@@ -47,8 +61,12 @@ public class bossFinalEvent : MonoBehaviour
             fadeOut();
              yield return new WaitForSeconds(5);
         FindObjectOfType<AudioManager>().Play("effect1");
-        GetComponent<Animator>().Play("boss");
-        yield return new WaitForSeconds(8);
+        GetComponent<Animator>().Play("boss"); 
+        yield return new WaitForSeconds(3);
+        FindObjectOfType<AudioManager>().Play("effect3");
+        yield return new WaitForSeconds(2.55f); 
+        StartCoroutine("soundWalkBoss");
+        yield return new WaitForSeconds(2.45f);
             textPanel.gameObject.SetActive(true);
         yield return new WaitForSeconds(0.35f); 
         FindObjectOfType<AudioManager>().Play("effect2");
@@ -58,6 +76,8 @@ public class bossFinalEvent : MonoBehaviour
         textCredits.gameObject.SetActive(true);
 
     }
+
+
 
     // Update is called once per frame
     void Update()
